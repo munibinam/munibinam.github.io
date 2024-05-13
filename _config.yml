@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Munib Inam"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD Student at the University of Kentucky"
   location         : "Lexington, Kentucky"
   employer         : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/munibinam"
+  twitter          : "munibinam"
   vine             :
   weibo            :
   xing             :
