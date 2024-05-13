@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1><a href="http://munibinam.github.io/files/Inam_CV_2024.pdf" target="_blank">CV</a></h1>
+<p><a href="http://munibinam.github.io/files/Inam_CV_2024.pdf" target="_blank">Download CV</a></p>
 
 
 Education
