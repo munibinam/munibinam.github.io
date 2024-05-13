@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1><a href="{{ '/files/Inam_CV_2024.pdf' | prepend: site.baseurl }}" target="_blank">CV</a></h1>
+<h1><a href="{{ 'files/Inam_CV_2024.pdf' | prepend: site.baseurl }}" target="_blank">CV</a></h1>
 
 
 Education
