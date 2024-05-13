@@ -15,7 +15,7 @@ My name is Munib Inam. I am a PhD student at the University of Kentucky. I am cu
 **Abstracts of PhD Essays**
 ======
 The Impact of Extreme Weather Events on Agricultural Productivity in the United States
-   ---
+---
   This essay explores the impact of extreme weather events on agricultural productivity in the United States, specifically examining the accuracy of weather data measurement. It highlights how current methods of measuring extremes might smooth out extreme values, potentially leading to biased estimates. This sequence can smooth out data extremes, possibly underrepresenting the severity of weather events and introducing biases into the research results. To address this, the study proposes refining measurement techniques to more accurately capture the effects of extreme weather events on the agriculture sector in the United States.
 
 The Impact of Extreme Weather Events on Drinking Water Quality in the United States
