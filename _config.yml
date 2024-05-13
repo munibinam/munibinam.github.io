@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Munib Inam"
 title_separator          : "-"
 name                     : &name "Munib Inam"
-description              : &description "PhD Student at the University of Kentucky"
+description              : &description "PhD Student University of Kentucky"
 url                      : https://munibinam.github.io #
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "munibinam.github.io"
@@ -91,16 +91,16 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # 
+  stackoverflow    :  
   steam            :
   tumblr           :
   twitter          : "munibinam"
