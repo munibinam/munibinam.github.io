@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Agricultural Economics, University of Kentucky, 2025 (expected)
-* Visiting Graduate Student, Public Policy, University of California Riverside, 2022
+* Visiting Graduate Student, University of California Riverside, 2022
 * M.S. in Economics, Vanderbilt University, 2020
 * B.S. in Economics, National University of Sciences and Technology, 2017
 
