@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<h1><a href="{{ '/_files/Inam_CV_2024.pdf' | prepend: site.baseurl }}" target="_blank">CV</a></h1>
+
+
 Education
 ======
 * Ph.D in Agricultural Economics, University of Kentucky, 2025 (expected)
