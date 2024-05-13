@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-Hello and thank you for visiting my page! My name is **Munib Inam**, and I'm a PhD student at the University of Kentucky. My research primarily focuses on the implications of extreme weather events on water and agricultural resources.
+Hello and thank you for visiting my page! My name is Munib Inam, and I'm a PhD student at the University of Kentucky. My research primarily focuses on the implications of extreme weather events on water and agricultural resources.
 
 ## Abstracts of PhD Essays
 
