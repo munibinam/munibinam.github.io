@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "About Me"
 excerpt: "About Munib Inam – PhD Student at the University of Kentucky"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Welcome!
 
 Hello and thank you for visiting my page! My name is Munib Inam, and I'm a PhD student at the University of Kentucky. My research primarily focuses on the implications of extreme weather events on water and agricultural resources.
 
