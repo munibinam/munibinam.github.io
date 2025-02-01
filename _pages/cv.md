@@ -25,7 +25,7 @@ Applied Econometrics, Agricultural Economics, Environmental & Resource Economics
 
 Working Papers
 ======
-**Inam, M** (2023). Measuring Extreme Weather and its Effects on Agriculture in the United States (Job Market Paper).
+**Inam, M** (2025). Measuring Extreme Weather and its Effects on Agriculture in the United States (Job Market Paper).
 
 **Inam, M**, Buck, S. (2023). Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use.
 
@@ -41,7 +41,7 @@ Teaching
 
 Professional Activities
 ======
-Assistant Coordinator, Water Challenges in a Water Scarce World Conference, Fort Collins, CO.
+Assistant Coordinator, Water Challenges in a Water Scarce World Conference, Fort Collins, CO, 2023
 
 References
 ======
