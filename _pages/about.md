@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome!
+## Welcome
 
 Hello and thank you for visiting my page! My name is Munib Inam, and I'm a PhD student at the University of Kentucky. My research primarily focuses on the implications of extreme weather events on water and agricultural resources.
 
@@ -15,7 +15,7 @@ Hello and thank you for visiting my page! My name is Munib Inam, and I'm a PhD s
 
 ### Measuring Extreme Weather and its Effects on Agriculture in the United States
 
-This essay examines the impact of extreme weather on agricultural productivity in the US, highlighting the limitations of current weather data measurement techniques. By refining these methods, the research aims to estimate more accurately the effects of extreme weather, potentially reducing biases in agricultural research estimates of extreme weather.
+This essay examines the impact of extreme weather events on agricultural productivity in the United States, highlighting the limitations of current weather data measurement techniques. By refining these methods, the research aims to estimate more accurately the effects of extreme weather events on agricultural and water resources, potentially reducing biases in our estimates of extreme weather impacts.
 
 ### The Impact of Extreme Weather Events on Drinking Water Quality in the United States
 
