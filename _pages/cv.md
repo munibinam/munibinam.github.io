@@ -1,4 +1,4 @@
----
+<img width="468" height="38" alt="image" src="https://github.com/user-attachments/assets/27178de6-027b-4de2-830b-b6c2b8ee304a" />---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -14,7 +14,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Agricultural Economics, University of Kentucky, 2025 (expected)
+* Ph.D., Agricultural Economics, 2020 – present, University of Kentucky, Lexington, KY
+* Dissertation: “Essays on Extreme Weather Events: Analyzing Impacts on Agricultural and Water Resources in the United States”
+* Dissertation Summary: Examines how climate-driven extremes impact U.S. agriculture and water resources. Chapter 1 shows that constructing heat-stress metrics after spatially interpolating weather data systematically understates corn-yield losses in the U.S. Corn Belt Region. Chapter 2 links extreme weather to water quality, and Chapter 3 looks at the heterogenous effects of lot size composition on residential water demand. Committee: Steven Buck (chair), Tyler Mark, Nicholas Pates, Jason Unrine
 * Visiting Graduate Student, University of California Riverside, 2022
 * M.S. in Economics, Vanderbilt University, 2020
 * B.S. in Economics, National University of Sciences and Technology, 2017
@@ -50,9 +52,9 @@ References
   * University of Kentucky (steven.buck@uky.edu)
 
 * Nicholas Pates
-  * University of Kentucky (nicholas.pates@uky.edu)
+  * North Dakota State University (nicholas.pates@uky.edu)
 
-* Mehdi Nemati
+* Tyler Mark
   * University of California (mehdin@ucr.edu)
   
 Technical Skills
