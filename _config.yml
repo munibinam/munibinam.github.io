@@ -1,31 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # Changed from "air" to "contrast" for more professional look
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast"
 locale: "en-US"
 title: "Munib Inam"
 title_separator: "-"
 name: &name "Munib Inam"
 description: &description "PhD Student in Agricultural Economics at the University of Kentucky researching extreme weather impacts on agriculture and water resources"
 url: https://munibinam.github.io
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: ""
 repository: "munibinam/munibinam.github.io"
-teaser: /assets/images/bio-photo.jpg # Default teaser image
-breadcrumbs: false # true, false (default)
+teaser: /assets/images/bio-photo.jpg
+breadcrumbs: false
 words_per_minute: 160
-search: true # Enable site search
+search: true
 search_full_content: true
 search_provider: lunr
 
 # Comments
 comments:
-  provider: false # Disabled for academic site
+  provider: false
 
 # SEO Related
 google_site_verification: 
@@ -40,24 +33,24 @@ facebook:
   username: 
   app_id:
   publisher:
-og_image: /assets/images/bio-photo.jpg # Open Graph/Twitter default site image
+og_image: /assets/images/bio-photo.jpg
 
 # For specifying social profiles
 social:
   type: Person
   name: "Munib Inam"
-  links: # An array of links to social media profiles
+  links: []
 
 # Analytics
 analytics:
-  provider: "google-gtag" # Updated to modern Google Analytics
+  provider: false  # Set to "google-gtag" when you have tracking ID
   google:
     tracking_id: # Add your tracking ID here when ready
 
 # Site Author
 author:
   name: "Munib Inam"
-  avatar: "/assets/images/bio-photo.jpg" # Updated path
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "PhD Student in Agricultural Economics at the University of Kentucky studying extreme weather impacts on agriculture and water resources"
   location: "Lexington, Kentucky"
   employer: "University of Kentucky"
@@ -66,21 +59,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:munib.inam@uky.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://munibinam.github.io"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: # Add your Google Scholar URL when available
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/munib-inam"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: # Add your GitHub URL when available
-    - label: "ORCID"
-      icon: "ai ai-orcid-square ai-fw"
-      url: # Add your ORCID when available
 
 # Reading Files
 include:
@@ -163,8 +144,6 @@ defaults:
       comments: false
       share: true
       related: true
-      header:
-        overlay_filter: "0.3"
   # _pages
   - scope:
       path: ""
@@ -172,8 +151,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        overlay_filter: "0.3"
   # _teaching
   - scope:
       path: ""
@@ -217,18 +194,17 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 timezone: America/Kentucky/Louisville
 
-# Plugins (updated names)
+# Plugins (GitHub Pages compatible)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-redirect-from
 
 # Archives
 category_archive:
@@ -244,20 +220,7 @@ compress_html:
   ignore:
     envs: development
 
-# Custom additions for enhanced functionality
+# Atom feed
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: false
-
-# Footer
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:munib.inam@uky.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/munib-inam"
-
-# Site logo
-logo: "/assets/images/site-logo.png" # Optional: add a small logo
