@@ -30,9 +30,9 @@ header:
 
 ## About Me
 
-Hello and thank you for visiting my research page! I'm **Munib Inam**, a PhD student in Agricultural Economics at the University of Kentucky, where I study one of the most pressing challenges of our time: understanding how extreme weather events reshape our agricultural systems and water resources.
+I am a PhD candidate in Agricultural Economics at the University of Kentucky. My doctoral dissertation looks at the impact of Extreme Weather events on Agricultural and Water Resources in the United States.
 
-My research sits at the critical intersection of **climate science**, **agricultural economics**, and **environmental policy**. What drives my work is the recognition that climate change isn't just an abstract future threat—it's affecting farmers, water utilities, and communities right now. Through rigorous data analysis and innovative methodological approaches, I aim to provide actionable insights that help us build more resilient food and water systems.
+By combining high‑resolution climate data, spatial analysis, and econometric methods, my work analyzes the real‑world implications of measurement error in climate extremes and their implications for agricultural productivity and water resources. My goal is to reduce measurement error in our climate extremes and improve estimates to offer better insights and help producers, utilities, and policy‑makers build greater resilience to climate extremes.
 
 <div class="feature__wrapper" style="margin: 3em 0;">
   <div class="feature__item">
@@ -82,29 +82,29 @@ My research sits at the critical intersection of **climate science**, **agricult
 
 ## Current Research Focus
 
-My dissertation consists of three interconnected essays that collectively examine how extreme weather events impact the United States' agricultural and water systems:
+This dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, and how measurement choices can distort our understanding of those effects:
 
-### 🌾 **Chapter 1: Measuring Extreme Weather and Agricultural Impacts**
+### **CHAPTER 1.	 MEASURING EXTREME WEATHER AND ITS EFFECTS ON AGRICULTURAL PRODUCTIVITY IN THE UNITED STATES**
 
-**The Challenge**: Current weather measurement techniques may systematically underestimate the true impacts of extreme weather on agriculture, leading to biased assessments that affect everything from crop insurance to climate adaptation planning.
+**The Challenge**: Current weather measurement techniques may systematically underestimate the true impacts of extreme weather on agriculture, leading to biased estimates that may have implications for various sectors, from crop insurance to climate adaptation planning.
 
-**My Approach**: I'm developing refined methodological approaches that address spatial and temporal measurement issues, with a focus on corn production in the U.S. Corn Belt Region.
+**My Approach**: By contrasting “pre-transformed” extreme-weather metrics derived directly from station observations with “post-transformed” metrics calculated after interpolating raw weather data, I look at how these two approaches differ in the estimated impact on agricultural productivity.
 
-**Why It Matters**: More accurate impact assessments mean better-informed farmers, more effective policies, and improved agricultural resilience planning.
+**Why It Matters**: More accurate impact assessments mean better-informed producers, more effective policies, and improved agricultural resilience planning.
 
 ### 💧 **Chapter 2: Extreme Weather and Drinking Water Quality**
 
 **The Problem**: As extreme weather events become more frequent and intense, they increasingly stress water infrastructure systems, but we lack comprehensive understanding of these impacts.
 
-**My Research**: Using water quality violation data as a proxy, I'm quantifying how extreme weather events affect drinking water quality across the United States.
+**My Research**: Using water quality data, and a high resolution hourly weather data, I look at how sub-daily extremes affect drinking water quality in Kentucky specifically, and overall in the United States in general.
 
-**Impact**: Results will inform strategies to strengthen water utilities and protect public health under changing climate conditions.
+**Impact**: Results inform strategies to strengthen water utilities infrastructure and protect public health under extreme weather conditions.
 
 ### 🏘️ **Chapter 3: Housing Development and Water Demand in California**
 
-**The Question**: How do different housing development patterns affect residential water consumption, especially during drought periods?
+**The Question**: How does residential lot-size composition affect water demand, especially during extreme drought conditions?
 
-**Unique Data**: Working with California water agencies, I have access to unprecedented high-resolution consumption data that allows for detailed analysis of lot size effects.
+**Unique Data**: Using temporal variation in residential lot size composition and gallons-per-capita water usage data from water agencies in California, allows for detailed analysis of lot size effects on water demand in California.
 
 **Applications**: Findings will guide tailored water conservation strategies for different community types as drought intensity increases.
 
@@ -114,29 +114,27 @@ My dissertation consists of three interconnected essays that collectively examin
 
 - **PhD in Agricultural Economics** (2020–present) - University of Kentucky
 - **Visiting Graduate Student** (2022) - University of California, Riverside  
-- **M.S. in Economics** (2020) - Vanderbilt University
+- **M.A. in Economics** (2020) - Vanderbilt University
 - **B.S. in Economics** (2017) - National University of Sciences and Technology
 
-My interdisciplinary training combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I'm skilled in advanced statistical analysis, spatial data processing, and high-performance computing—tools essential for tackling complex climate-agriculture-water interactions.
+My interdisciplinary training combines econometric methods with an understanding of agricultural and environmental systems. I am skilled in advanced statistical analysis, spatial data processing, and high-performance computing to tackle complex climate-agriculture-hydrological interactions.
 
 ---
 
 ## Beyond Research
 
-When I'm not analyzing weather patterns and crop yields, I'm passionate about **science communication** and making complex research accessible to broader audiences. I believe that effective research must bridge the gap between academic insights and real-world applications.
-
-I'm also deeply committed to **collaborative research**. My work involves partnerships with water agencies, government institutions, and fellow researchers because I believe the most impactful solutions emerge from interdisciplinary collaboration.
+Outside academia, I am an avid runner and photographer and enjoy exploring natural landscapes. Both these hobbies have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can view some of my photography at [500px.com/p/min233](https://500px.com/p/min233){:target="_blank"}.
 
 ---
 
 <div style="background-color: #f8f9fa; padding: 2em; border-radius: 10px; margin: 2em 0; border-left: 5px solid #2E7D32;">
   <h3 style="color: #2E7D32; margin-top: 0;">🤝 Let's Connect</h3>
   <p style="margin-bottom: 0;">
-    I'm always interested in discussing research collaborations, sharing methodological insights, or exploring how my work might inform policy and practice. Whether you're a fellow researcher, a policymaker, or someone interested in climate adaptation, I'd love to hear from you.
+    I am always interested in discussing research collaborations, sharing insights, or exploring how my work might can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.
   </p>
   <p style="margin-top: 1em; margin-bottom: 0;">
     <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>🏛️ Office:</strong> Department of Agricultural Economics, University of Kentucky
+    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, Department of Agricultural Economics, University of Kentucky
   </p>
 </div>
 
