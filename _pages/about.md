@@ -92,7 +92,7 @@ This dissertation explores how climate-driven extremes shape U.S. agricultural a
 
 **Why It Matters**: More accurate impact assessments mean better-informed producers, more effective policies, and improved agricultural resilience planning.
 
-### 💧 **Chapter 2: Extreme Weather and Drinking Water Quality**
+###**Chapter 2: Extreme Weather and Drinking Water Quality**
 
 **The Problem**: As extreme weather events become more frequent and intense, they increasingly stress water infrastructure systems, but we lack comprehensive understanding of these impacts.
 
@@ -100,7 +100,7 @@ This dissertation explores how climate-driven extremes shape U.S. agricultural a
 
 **Impact**: Results inform strategies to strengthen water utilities infrastructure and protect public health under extreme weather conditions.
 
-### 🏘️ **Chapter 3: Housing Development and Water Demand in California**
+###**Chapter 3: Housing Development and Water Demand in California**
 
 **The Question**: How does residential lot-size composition affect water demand, especially during extreme drought conditions?
 
@@ -128,16 +128,17 @@ Outside academia, I am an avid runner and photographer and enjoy exploring natur
 ---
 
 <div style="background-color: #f8f9fa; padding: 2em; border-radius: 10px; margin: 2em 0; border-left: 5px solid #2E7D32;">
-  <h3 style="color: #2E7D32; margin-top: 0;">🤝 Let's Connect</h3>
+  <h3 style="color: #2E7D32; margin-top: 0;">Let's Connect</h3>
   <p style="margin-bottom: 0;">
     I am always interested in discussing research collaborations, sharing insights, or exploring how my work might can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.
   </p>
   <p style="margin-top: 1em; margin-bottom: 0;">
-    <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, Department of Agricultural Economics, University of Kentucky
+    <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
+    <strong>Office:</strong> 339 Charles E. Barnhart Building
+    Department of Agricultural Economics, University of Kentucky
   </p>
 </div>
 
 ---
 
-*Last updated: January 2025*
+*Last updated: July 2025*
