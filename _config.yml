@@ -1,5 +1,5 @@
 # Site Settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
 locale: "en-US"
 title: "Munib Inam"
@@ -9,7 +9,7 @@ description: &description "PhD Candidate at the University of Kentucky"
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
-teaser: https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI
+teaser: /assets/images/profile.jpg
 breadcrumbs: false
 words_per_minute: 160
 search: true
@@ -33,7 +33,7 @@ facebook:
   username: 
   app_id:
   publisher:
-og_image: https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI
+og_image: /assets/images/profile.jpg
 
 # For specifying social profiles
 social:
@@ -50,7 +50,7 @@ analytics:
 # Site Author
 author:
   name: "Munib Inam"
-  avatar: "https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI"
+  avatar: "/assets/images/profile.jpg"
   bio: "PhD Candidate at the University of Kentucky"
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
