@@ -50,6 +50,7 @@ analytics:
 # Site Author
 author:
   name: "Munib Inam"
+  avatar: "/images/profile2.jpg"
   bio: "PhD Candidate at the University of Kentucky"
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
