@@ -43,15 +43,15 @@ social:
 
 # Analytics
 analytics:
-  provider: false  # Set to "google-gtag" when you have tracking ID
+  provider: false  # Set to "google-gtag" when have tracking ID
   google:
-    tracking_id: # Add your tracking ID here when ready
+    tracking_id: # 
 
 # Site Author
 author:
   name: "Munib Inam"
   avatar: "/images/profile.jpg"
-  bio: "PhD Student in Agricultural Economics at the University of Kentucky studying extreme weather impacts on agriculture and water resources"
+  bio: "PhD Candiate at the University of Kentucky"
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
   links:
