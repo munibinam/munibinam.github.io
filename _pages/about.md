@@ -124,7 +124,7 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
 <div style="background-color: #f8f9fa; padding: 2em; border-radius: 10px; margin: 2em 0; border-left: 5px solid #2E7D32;">
   <h3 style="color: #2E7D32; margin-top: 0;">Let's Connect</h3>
   <p style="margin-bottom: 0;">
-    I am always interested in discussing research collaborations, sharing insights, or exploring how my work might can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.
+    I am always interested in discussing research collaborations and exploring how my work can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.
   </p>
   <p style="margin-top: 1em; margin-bottom: 0;">
     <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
