@@ -5,7 +5,7 @@ locale: "en-US"
 title: "Munib Inam"
 title_separator: "-"
 name: &name "Munib Inam"
-description: &description "PhD Student in Agricultural Economics at the University of Kentucky looking at Extreme Weather Impacts on Agricultural and Water Resources"
+description: &description "PhD Candiate at the University of Kentucky"
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
