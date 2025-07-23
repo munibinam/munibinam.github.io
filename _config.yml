@@ -9,7 +9,7 @@ description: &description "PhD Student in Agricultural Economics at the Universi
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
-teaser: /images/profile.jpeg
+teaser: /images/profile.jpg
 breadcrumbs: false
 words_per_minute: 160
 search: true
