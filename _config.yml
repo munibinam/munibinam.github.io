@@ -9,7 +9,7 @@ description: &description "PhD Candidate at the University of Kentucky"
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
-teaser: /assets/profile.jpg
+teaser: https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI
 breadcrumbs: false
 words_per_minute: 160
 search: true
@@ -33,7 +33,7 @@ facebook:
   username: 
   app_id:
   publisher:
-og_image: /assets/profile.jpg
+og_image: https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI
 
 # For specifying social profiles
 social:
@@ -48,13 +48,19 @@ analytics:
     tracking_id: # 
 
 # Site Author
-# In your _config.yml, temporarily change just the avatar line to:
 author:
   name: "Munib Inam"
   avatar: "https://via.placeholder.com/300x300/2E7D32/FFFFFF?text=MI"
   bio: "PhD Candidate at the University of Kentucky"
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:munib.inam@uky.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/munib-inam"
 
 # Reading Files
 include:
