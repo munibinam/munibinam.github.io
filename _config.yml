@@ -33,7 +33,7 @@ facebook:
   username: 
   app_id:
   publisher:
-og_image: /assets/images/bio-photo.jpg
+og_image: /images/profile.jpg
 
 # For specifying social profiles
 social:
@@ -50,10 +50,9 @@ analytics:
 # Site Author
 author:
   name: "Munib Inam"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/images/profile.jpg"
   bio: "PhD Student in Agricultural Economics at the University of Kentucky studying extreme weather impacts on agriculture and water resources"
   location: "Lexington, Kentucky"
-  employer: "University of Kentucky"
   email: "munib.inam@uky.edu"
   links:
     - label: "Email"
