@@ -117,7 +117,7 @@ My interdisciplinary training combines econometric methods with an understanding
 
 ## Beyond Research
 
-Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can view some of my photography at [500px.com/p/min233](https://500px.com/p/min233){:target="_blank"}.
+Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can view some of my photos on [my portfolio](https://500px.com/p/min233){:target="_blank"}.
 
 ---
 
