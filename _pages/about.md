@@ -82,31 +82,25 @@ By combining high‑resolution climate data, spatial analysis, and econometric m
 
 ## Current Research Focus
 
-This dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, and how measurement choices can distort our understanding of those effects:
+My current research explores how climate-driven extremes shape U.S. agricultural and water resources, and how measurement choices can distort our understanding of those effects:
 
 ### **CHAPTER 1.	 MEASURING EXTREME WEATHER AND ITS EFFECTS ON AGRICULTURAL PRODUCTIVITY IN THE UNITED STATES**
 
 **The Challenge**: Current weather measurement techniques may systematically underestimate the true impacts of extreme weather on agriculture, leading to biased estimates that may have implications for various sectors, from crop insurance to climate adaptation planning.
 
-**My Approach**: By contrasting “pre-transformed” extreme-weather metrics derived directly from station observations with “post-transformed” metrics calculated after interpolating raw weather data, I look at how these two approaches differ in the estimated impact on agricultural productivity.
+**My Research**: By contrasting “pre-transformed” extreme-weather metrics derived directly from station observations with “post-transformed” metrics calculated after interpolating raw weather data, I look at how these two approaches differ in the estimated impact on agricultural productivity.
 
-**Why It Matters**: More accurate impact assessments mean better-informed producers, more effective policies, and improved agricultural resilience planning.
+### **Chapter 2: Extreme Weather and Drinking Water Quality**
 
-###**Chapter 2: Extreme Weather and Drinking Water Quality**
-
-**The Problem**: As extreme weather events become more frequent and intense, they increasingly stress water infrastructure systems, but we lack comprehensive understanding of these impacts.
+**The Challenge**: As extreme weather events become more frequent and intense, they increasingly stress water infrastructure systems, but we lack comprehensive understanding of these impacts.
 
 **My Research**: Using water quality data, and a high resolution hourly weather data, I look at how sub-daily extremes affect drinking water quality in Kentucky specifically, and overall in the United States in general.
 
-**Impact**: Results inform strategies to strengthen water utilities infrastructure and protect public health under extreme weather conditions.
+### **Chapter 3: Housing Development and Water Demand in California**
 
-###**Chapter 3: Housing Development and Water Demand in California**
+**The Challenge**: California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their baseline water consumption is changing. With bigger lots, drier and hotter climate, this can have implications for water usage across the state. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
-**The Question**: How does residential lot-size composition affect water demand, especially during extreme drought conditions?
-
-**Unique Data**: Using temporal variation in residential lot size composition and gallons-per-capita water usage data from water agencies in California, allows for detailed analysis of lot size effects on water demand in California.
-
-**Applications**: Findings will guide tailored water conservation strategies for different community types as drought intensity increases.
+**My Research**: Using temporal variation in residential lot size composition and water usage data from water agencies in California, allows for detailed analysis of lot size effects on water demand in California.
 
 ---
 
@@ -123,7 +117,7 @@ My interdisciplinary training combines econometric methods with an understanding
 
 ## Beyond Research
 
-Outside academia, I am an avid runner and photographer and enjoy exploring natural landscapes. Both these hobbies have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can view some of my photography at [500px.com/p/min233](https://500px.com/p/min233){:target="_blank"}.
+Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can view some of my photography at [500px.com/p/min233](https://500px.com/p/min233){:target="_blank"}.
 
 ---
 
