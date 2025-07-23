@@ -21,7 +21,7 @@ header:
 
 <div style="margin-bottom: 2em;">
   <h2 style="color: #2E7D32; font-size: 2.2em; margin-bottom: 0.5em; text-align: center;">
-    Welcome to My Research Portal
+    Welcome! 
   </h2>
   <p style="font-size: 1.2em; text-align: center; color: #555; font-style: italic;">
     Investigating the complex relationships between extreme weather and our vital agricultural and water resources
