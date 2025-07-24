@@ -289,7 +289,6 @@ Examining how extreme weather events compromise drinking water quality and infra
 **Technical Skills**
 - **Advanced Econometrics**: Panel data methods, spatial analysis, causal inference
 - **Programming**: R, Python, Stata, GIS software, high-performance computing
-- **Data Sources**: PRISM climate data, EPA databases, agricultural census, water utility records
 
 **Research Philosophy**
 
@@ -310,7 +309,7 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
   <div class="connect-links">
     <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
     <strong>Office:</strong> 339 Charles E. Barnhart Building, 1398 Nicholasville Rd, Lexington, KY 40546<br>
-    <strong>🌐 University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
+    <strong>University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
   </div>
 </div>
 
