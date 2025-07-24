@@ -226,7 +226,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 <div style="text-align: center; margin: 3em 0;">
   <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
   <p style="font-style: italic; color: #666; margin-top: 1em; font-size: 0.9em;">
-    <strong>Figure:</strong> Projected changes in extremes are larger in frequency and intensity with every additional increment of global warming. <em>IPCC (2021)</em>
+    <strong>Figure:</strong> Projected Changes in Climate Extremes<em>IPCC (2021).</em>
   </p>
 </div>
 
@@ -258,7 +258,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
-  <a href="[https://www.icloud.com/pages/your-chapter1-link](https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025)" class="chapter-link" target="_blank">
+  <a href="https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025" class="chapter-link" target="_blank">
      Chapter 1 (Job Market Paper)
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
@@ -269,7 +269,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 </div>
 
 <div class="chapter-section">
-  <a href="[https://www.icloud.com/pages/your-chapter2-link](https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025)" class="chapter-link" target="_blank">
+  <a href="https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025" class="chapter-link" target="_blank">
      Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
