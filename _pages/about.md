@@ -304,7 +304,7 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
 ---
 
 <div class="connect-box">
-  <h3>Let's Connect & Collaborate</h3>
+  <h3>Connect and Collaborate</h3>
   <p style="margin-bottom: 1.5em;">I am always interested in discussing research collaborations and exploring how my work can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.</p>
   
   <div class="connect-links">
