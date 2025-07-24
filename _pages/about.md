@@ -259,8 +259,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
   
-As extreme weather becomes more frequent and intense, water infrastructure faces unprecedented stress, but we lack comprehensive understanding of these vulnerabilities.
-Using high-resolution hourly weather data and water quality violation records, I quantify how sub-daily extremes affect drinking water quality across Kentucky and the broader United States.
+Examining how extreme weather events compromise drinking water quality and infrastructure using high-resolution hourly weather data. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.
 
   <div class="status-badge">Working Paper</div>
 </div>
@@ -272,7 +271,7 @@ Using high-resolution hourly weather data and water quality violation records, I
   <div class="chapter-title">Housing Development and Water Demand in California</div>
   
   How has California's demographic shift toward drier, hotter inland areas with larger residential lots affected water consumption during extreme drought conditions?
-  Collaborating with California water agencies provides unprecedented access to high-resolution consumption data, enabling detailed analysis of lot size effects on residential       water demand.
+  This work informs targeted conservation strategies as demographics shift toward drier, hotter inland areas.
 
   <div class="status-badge">Working Paper • Under Review</div>
 </div>
@@ -294,7 +293,7 @@ Using high-resolution hourly weather data and water quality violation records, I
 
 **Research Philosophy**
 
-My interdisciplinary approach combines rigorous econometric methods with an understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
+My interdisciplinary research approach combines econometric methods with an understanding of agricultural and environmental systems to help build resilience of the agricultural and water sectors to increasing climate extremes.
 
 ---
 
