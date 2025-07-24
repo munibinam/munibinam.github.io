@@ -49,7 +49,7 @@ classes: wide
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 2em;
-  margin: 3em 0;
+  margin: 2em 0;
 }
 
 .research-card {
@@ -238,17 +238,17 @@ Through rigorous econometric analysis, high-resolution climate data, and innovat
 
 <div class="research-grid">
   <div class="research-card">
-    <h3>Weather & Agriculture</h3>
+    <h3>Extreme Weather and Agricultural Productivity</h3>
     <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing critical biases in current measurement techniques that affect farmers and policymakers. My work reveals how spatial interpolation choices can systematically underestimate agricultural losses.</p>
   </div>
 
   <div class="research-card">
-    <h3>Water Quality & Infrastructure</h3>
+    <h3>Extreme Weather and Water Quality</h3>
     <p>Examining how extreme weather events compromise drinking water quality and infrastructure using high-resolution violation data. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
   </div>
 
   <div class="research-card">
-    <h3>Urban Water Demand</h3>
+    <h3>Extreme Weather and Urban Water Demand</h3>
     <p>Analyzing how housing development patterns influence water consumption in California, particularly during extreme drought conditions. This work informs targeted conservation strategies as demographics shift toward drier, hotter inland areas.</p>
   </div>
 </div>
@@ -302,23 +302,20 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
 ## Background & Expertise
 
-<div class="highlight-section">
-
-**Education & Training**
+**🎓 Education & Training**
 - **PhD in Agricultural Economics** (2020–present) — University of Kentucky
 - **Visiting Graduate Student** (2022) — University of California, Riverside  
 - **M.A. in Economics** (2020) — Vanderbilt University
 - **B.S. in Economics** (2017) — National University of Sciences and Technology
 
-**Technical Skills**
+**💻 Technical Skills**
 - **Advanced Econometrics**: Panel data methods, spatial analysis, causal inference
 - **Programming**: R, Python, Stata, GIS software, high-performance computing
 - **Data Sources**: PRISM climate data, EPA databases, agricultural census, water utility records
 
-**Research Philosophy**
-My interdisciplinary approach combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
+**🔬 Research Philosophy**
 
-</div>
+My interdisciplinary approach combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
 
 ---
 
