@@ -258,7 +258,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
-  <a href="https://www.icloud.com/pages/your-chapter1-link" class="chapter-link" target="_blank">
+  <a href="[https://www.icloud.com/pages/your-chapter1-link](https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025)" class="chapter-link" target="_blank">
      Chapter 1 (Job Market Paper)
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
@@ -269,7 +269,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 </div>
 
 <div class="chapter-section">
-  <a href="https://www.icloud.com/pages/your-chapter2-link" class="chapter-link" target="_blank">
+  <a href="[https://www.icloud.com/pages/your-chapter2-link](https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025)" class="chapter-link" target="_blank">
      Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
@@ -296,20 +296,20 @@ Using high-resolution hourly weather data and water quality violation records, I
 
 ## Background & Expertise
 
-**🎓 Education & Training**
+**Education & Training**
 - **PhD in Agricultural Economics** (2020–present) — University of Kentucky
 - **Visiting Graduate Student** (2022) — University of California, Riverside  
 - **M.A. in Economics** (2020) — Vanderbilt University
 - **B.S. in Economics** (2017) — National University of Sciences and Technology
 
-**💻 Technical Skills**
+**Technical Skills**
 - **Advanced Econometrics**: Panel data methods, spatial analysis, causal inference
 - **Programming**: R, Python, Stata, GIS software, high-performance computing
 - **Data Sources**: PRISM climate data, EPA databases, agricultural census, water utility records
 
-**🔬 Research Philosophy**
+**Research Philosophy**
 
-My interdisciplinary approach combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
+My interdisciplinary approach combines rigorous econometric methods with an understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
 
 ---
 
@@ -321,11 +321,11 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
 
 <div class="connect-box">
   <h3>Let's Connect & Collaborate</h3>
-  <p style="margin-bottom: 1.5em;">I'm passionate about research that bridges academic insights with real-world applications. Whether you're a fellow researcher, policymaker, industry professional, or someone curious about climate adaptation, I'd love to discuss how we might work together.</p>
+  <p style="margin-bottom: 1.5em;">I am always interested in discussing research collaborations and exploring how my work can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.</p>
   
   <div class="connect-links">
     <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, Department of Agricultural Economics<br>
+    <strong>🏛️ Office:</strong> Charles E. Barnhart Bldg, 400, 1398 Nicholasville Rd, Lexington, KY 40546<br>
     <strong>🌐 University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
   </div>
 </div>
