@@ -316,6 +316,4 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
 
 ---
 
-<div style="text-align: center; color: #666; font-style: italic; margin-top: 3em;">
-  Last updated: July 2025
-</div>
+*Last updated: July 2025*
