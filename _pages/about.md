@@ -261,7 +261,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
-  <a href="[https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025](https://cvws.icloud-content.com/B/AVPp4i_a1PrM9IZuwtV9M4hw3E_IAQ39cYGwYE6wsmaFKcLePv31GlM8/Job_market_paper_2025.pdf?o=AlXdlfVlQBX1ZtO7iH67aV9TibNFNjrc_sG0-0O8rzlQ&v=1&x=3&a=CAogBLVcfvcHEys9_0ufwkVivIGb3lSZEc_q2bxHiM2-KksSbxDyw9TogzMY8qCw6oMzIgEAUgRw3E_IWgT1GlM8aicWTGZ602ecd11w2TtfnP_18rzwA4ZjkyhBxamCpM8IbpV7hxVMSxdyJ7QhH_eG_BfHOILCoGlSDQbr7v0YNSFSGjT0af_8lUCcgpS-2u9kkw&e=1753375051&fl=&r=099607f8-997d-4dd4-8b6e-a3a8d00225e3-1&k=aDgM5eT9nHrK7s9L-kwDyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Lz47nOHJYxIOdUhq8DNmbCgvQlE&cd=i)" class="chapter-link" target="_blank">
+  <a href="https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025](https://cvws.icloud-content.com/B/AVPp4i_a1PrM9IZuwtV9M4hw3E_IAQ39cYGwYE6wsmaFKcLePv31GlM8/Job_market_paper_2025.pdf?o=AlXdlfVlQBX1ZtO7iH67aV9TibNFNjrc_sG0-0O8rzlQ&v=1&x=3&a=CAogBLVcfvcHEys9_0ufwkVivIGb3lSZEc_q2bxHiM2-KksSbxDyw9TogzMY8qCw6oMzIgEAUgRw3E_IWgT1GlM8aicWTGZ602ecd11w2TtfnP_18rzwA4ZjkyhBxamCpM8IbpV7hxVMSxdyJ7QhH_eG_BfHOILCoGlSDQbr7v0YNSFSGjT0af_8lUCcgpS-2u9kkw&e=1753375051&fl=&r=099607f8-997d-4dd4-8b6e-a3a8d00225e3-1&k=aDgM5eT9nHrK7s9L-kwDyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Lz47nOHJYxIOdUhq8DNmbCgvQlE&cd=i" class="chapter-link" target="_blank">
      Chapter 1 (Job Market Paper)
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
@@ -272,7 +272,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 </div>
 
 <div class="chapter-section">
-  <a href="[https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025](https://cvws.icloud-content.com/B/AaqIiW_qhJbqQ3JPFu_gfzjFDpJmAWAmzShaMk0LQ6sqtN_hvGlqpt4n/Water_Quality_2025.pdf?o=Aig6EmUbWIWC-YhDQ61oTsoPqc670zFd0EsRiQ53dTon&v=1&x=3&a=CAogD5E4O2Zvzx74yvhsGiNtc4AGXeBAIENFPxhyTR_5VzcSbxDW5djogzMY1sK06oMzIgEAUgTFDpJmWgRqpt4naif7es58PPoI9molTEXK16qP08MUKA1NiLlcZs4Wptnt270PGAjp1ORyJ9Lfvv2ah1eXGvVoi5s8WQ_PFqEPBkeHSBD6CVSWtGIxsp3QZaZQCA&e=1753375121&fl=&r=f072ea52-5581-4f68-b649-eba39471cb88-1&k=kSbalzBu_aVizmdka5VNBg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=8FBYT-2kUavhYZMJkHMWvoM3fgc&cd=i)" class="chapter-link" target="_blank">
+  <a href="https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025](https://cvws.icloud-content.com/B/AaqIiW_qhJbqQ3JPFu_gfzjFDpJmAWAmzShaMk0LQ6sqtN_hvGlqpt4n/Water_Quality_2025.pdf?o=Aig6EmUbWIWC-YhDQ61oTsoPqc670zFd0EsRiQ53dTon&v=1&x=3&a=CAogD5E4O2Zvzx74yvhsGiNtc4AGXeBAIENFPxhyTR_5VzcSbxDW5djogzMY1sK06oMzIgEAUgTFDpJmWgRqpt4naif7es58PPoI9molTEXK16qP08MUKA1NiLlcZs4Wptnt270PGAjp1ORyJ9Lfvv2ah1eXGvVoi5s8WQ_PFqEPBkeHSBD6CVSWtGIxsp3QZaZQCA&e=1753375121&fl=&r=f072ea52-5581-4f68-b649-eba39471cb88-1&k=kSbalzBu_aVizmdka5VNBg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=8FBYT-2kUavhYZMJkHMWvoM3fgc&cd=i" class="chapter-link" target="_blank">
      Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
