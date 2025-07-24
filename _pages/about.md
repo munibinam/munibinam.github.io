@@ -297,7 +297,7 @@ My interdisciplinary research approach combines econometric methods with an unde
 
 ---
 
-## Beyond the Research
+## Beyond Research
 
 Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can see some of my photos [here](https://500px.com/p/min233){:target="_blank"}.
 
@@ -308,9 +308,9 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
   <p style="margin-bottom: 1.5em;">I am always interested in discussing research collaborations and exploring how my work can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.</p>
   
   <div class="connect-links">
-    <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, 1398 Nicholasville Rd, Lexington, KY 40546<br>
-    <strong>🌐 University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
+    <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
+    <strong>Office:</strong> 339 Charles E. Barnhart Building, 1398 Nicholasville Rd, Lexington, KY 40546<br>
+    <strong>University of Kentucky
   </div>
 </div>
 
