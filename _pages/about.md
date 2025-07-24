@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Munib Inam"
-excerpt: "PhD Candidate in Agricultural Economics at the University of Kentucky"
+excerpt: "PhD Candidate at the University of Kentucky"
 author_profile: true
 redirect_from: 
   - /about/
