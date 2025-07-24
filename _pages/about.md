@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Munib Inam"
-excerpt: "PhD Candidate at the University of Kentucky"
+excerpt: "PhD Candidate in Agricultural Economics at the University of Kentucky"
 author_profile: true
 redirect_from: 
   - /about/
@@ -215,7 +215,7 @@ classes: wide
 </style>
 
 <div class="research-hero">
-  <h1>🌍 Climate • Agriculture • Water</h1>
+  <h1>Climate • Agriculture • Water</h1>
   <p>Advancing our understanding of how extreme weather events reshape agricultural systems and water resources through innovative econometric research and spatial analysis</p>
 </div>
 
@@ -225,23 +225,11 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, in
 
 Through rigorous econometric analysis, high-resolution climate data, and innovative spatial methods, I tackle the real-world implications of measurement choices in climate research. My goal is to reduce measurement error in climate extremes assessment and deliver better estimates that help producers, utilities, and policymakers prepare for an uncertain climate future.
 
-<div class="stats-grid">
-  <div class="stat-item">
-    <div class="stat-number">3</div>
-    <div class="stat-label">Dissertation Chapters</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">50+</div>
-    <div class="stat-label">Years of Data Analyzed</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">5</div>
-    <div class="stat-label">Conference Presentations</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">2</div>
-    <div class="stat-label">States Studied</div>
-  </div>
+<div style="text-align: center; margin: 3em 0;">
+  <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
+  <p style="font-style: italic; color: #666; margin-top: 1em; font-size: 0.9em;">
+    <strong>Figure:</strong> Projected changes in extremes are larger in frequency and intensity with every additional increment of global warming. <em>Source: IPCC (2021)</em>
+  </p>
 </div>
 
 ---
@@ -276,7 +264,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
 <div class="chapter-section">
   <a href="https://www.icloud.com/pages/your-chapter1-link" class="chapter-link" target="_blank">
-    📊 Chapter 1 (Job Market Paper)
+     Chapter 1 (Job Market Paper)
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
   
@@ -289,7 +277,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
 <div class="chapter-section">
   <a href="https://www.icloud.com/pages/your-chapter2-link" class="chapter-link" target="_blank">
-    💧 Chapter 2
+     Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
   
@@ -302,7 +290,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
 <div class="chapter-section">
   <a href="https://www.icloud.com/pages/your-chapter3-link" class="chapter-link" target="_blank">
-    🏘️ Chapter 3
+     Chapter 3
   </a>
   <div class="chapter-title">Housing Development and Water Demand in California</div>
   
@@ -310,7 +298,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
   **Unique Data**: Collaborating with California water agencies provides unprecedented access to high-resolution consumption data, enabling detailed analysis of lot size effects on residential water demand.
 
-  <div class="status-badge">🤝 Collaborative Research • CA Water Agencies</div>
+  <div class="status-badge">Collaborative Research • CA Water Agencies</div>
 </div>
 
 ---
@@ -319,18 +307,18 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 
 <div class="highlight-section">
 
-**🎓 Education & Training**
+**Education & Training**
 - **PhD in Agricultural Economics** (2020–present) — University of Kentucky
 - **Visiting Graduate Student** (2022) — University of California, Riverside  
 - **M.A. in Economics** (2020) — Vanderbilt University
 - **B.S. in Economics** (2017) — National University of Sciences and Technology
 
-**💻 Technical Skills**
+**Technical Skills**
 - **Advanced Econometrics**: Panel data methods, spatial analysis, causal inference
 - **Programming**: R, Python, Stata, GIS software, high-performance computing
 - **Data Sources**: PRISM climate data, EPA databases, agricultural census, water utility records
 
-**🔬 Research Philosophy**
+**Research Philosophy**
 My interdisciplinary approach combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
 
 </div>
@@ -341,16 +329,16 @@ My interdisciplinary approach combines rigorous econometric methods with deep un
 
 When I'm not analyzing climate datasets, I find inspiration through **running** and **photography**—two pursuits that have shaped both my perspective and my research approach.
 
-**🏃‍♂️ Running**: I've completed multiple marathons and half-marathons, learning lessons about persistence, pacing, and long-term goal achievement that translate directly to academic research. There's something powerful about the discipline required for both 20-mile training runs and multi-year dissertation projects.
+**Running**: I've completed multiple marathons and half-marathons, learning lessons about persistence, pacing, and long-term goal achievement that translate directly to academic research. There's something powerful about the discipline required for both 20-mile training runs and multi-year dissertation projects.
 
-**📸 Photography**: Capturing Kentucky's landscapes has taught me to see environmental systems with fresh eyes. The same fields and watersheds I study academically become canvases for understanding light, weather patterns, and seasonal change. You can explore my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
+**Photography**: Capturing Kentucky's landscapes has taught me to see environmental systems with fresh eyes. The same fields and watersheds I study academically become canvases for understanding light, weather patterns, and seasonal change. You can explore my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
 
 Both activities ground me in the physical landscapes that climate research aims to protect and help me communicate the beauty and vulnerability of the systems I study.
 
 ---
 
 <div class="connect-box">
-  <h3>🤝 Let's Connect & Collaborate</h3>
+  <h3>Let's Connect & Collaborate</h3>
   <p style="margin-bottom: 1.5em;">I'm passionate about research that bridges academic insights with real-world applications. Whether you're a fellow researcher, policymaker, industry professional, or someone curious about climate adaptation, I'd love to discuss how we might work together.</p>
   
   <div class="connect-links">
