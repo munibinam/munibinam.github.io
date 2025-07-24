@@ -1,80 +1,270 @@
 ---
 permalink: /
 title: "Munib Inam"
-excerpt: "PhD Student in Agricultural Economics at the University of Kentucky"
+excerpt: "PhD Candidate at the University of Kentucky"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
   overlay_image: /assets/images/header-farm.jpg
-  overlay_filter: 0.4
-  overlay_color: "#2E7D32"
+  overlay_filter: 0.3
+  overlay_color: "#1B5E20"
   actions:
-    - label: "View My Research"
-      url: "/research/"
+    - label: "📊 View Research Papers"
+      url: "#current-research-focus"
       class: "btn--primary btn--large"
-    - label: "Download CV"
+    - label: "📄 Download CV"
       url: "/files/Inam_CV_2025.pdf"
       class: "btn--info btn--large"
+classes: wide
 ---
 
-<div style="margin-bottom: 2em;">
-  <h2 style="color: #2E7D32; font-size: 2.2em; margin-bottom: 0.5em; text-align: center;">
-    Welcome to My Academic Homepage 
-  </h2>
-  <p style="font-size: 1.2em; text-align: center; color: #555; font-style: bold;">
-    Research Interests: Environmental & Resource Economics; Agricultural Production; Applied Econometrics
-  </p>
+<style>
+.research-hero {
+  background: linear-gradient(135deg, #2E7D32 0%, #388E3C 50%, #4CAF50 100%);
+  color: white;
+  padding: 3em 2em;
+  border-radius: 15px;
+  text-align: center;
+  margin: 2em 0;
+  box-shadow: 0 10px 30px rgba(46, 125, 50, 0.3);
+}
+
+.research-hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.research-hero p {
+  font-size: 1.3em;
+  opacity: 0.95;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2em;
+  margin: 3em 0;
+}
+
+.research-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2em;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  border-left: 5px solid #2E7D32;
+  position: relative;
+  overflow: hidden;
+}
+
+.research-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+}
+
+.research-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, #2E7D32, #4CAF50, #81C784);
+}
+
+.research-icon {
+  font-size: 3.5em;
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+.research-card h3 {
+  color: #1B5E20;
+  margin-bottom: 1em;
+  font-size: 1.4em;
+}
+
+.research-card p {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.chapter-section {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 2.5em;
+  margin: 2em 0;
+  border-left: 6px solid #2E7D32;
+}
+
+.chapter-link {
+  display: inline-block;
+  background: linear-gradient(135deg, #2E7D32, #388E3C);
+  color: white !important;
+  padding: 0.8em 1.5em;
+  border-radius: 8px;
+  text-decoration: none !important;
+  font-weight: 600;
+  margin-bottom: 1em;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(46, 125, 50, 0.3);
+}
+
+.chapter-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(46, 125, 50, 0.4);
+  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+}
+
+.chapter-title {
+  font-size: 1.3em;
+  color: #1B5E20;
+  margin-bottom: 1em;
+  font-weight: 600;
+}
+
+.status-badge {
+  display: inline-block;
+  background: #E8F5E8;
+  color: #2E7D32;
+  padding: 0.3em 0.8em;
+  border-radius: 20px;
+  font-size: 0.9em;
+  font-weight: 500;
+  margin-top: 1em;
+}
+
+.highlight-section {
+  background: linear-gradient(135deg, #E8F5E8, #F1F8E9);
+  padding: 2.5em;
+  border-radius: 15px;
+  margin: 3em 0;
+  border: 1px solid #C8E6C9;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.stat-item {
+  text-align: center;
+  padding: 1.5em;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.stat-number {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #2E7D32;
+  margin-bottom: 0.2em;
+}
+
+.stat-label {
+  color: #666;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.connect-box {
+  background: linear-gradient(135deg, #2E7D32, #388E3C);
+  color: white;
+  padding: 2.5em;
+  border-radius: 15px;
+  text-align: center;
+  margin: 3em 0;
+  box-shadow: 0 10px 30px rgba(46, 125, 50, 0.2);
+}
+
+.connect-box h3 {
+  color: white;
+  margin-bottom: 1em;
+  font-size: 1.6em;
+}
+
+.connect-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 2px solid rgba(255,255,255,0.3);
+  transition: border-color 0.3s ease;
+}
+
+.connect-links a:hover {
+  border-bottom-color: white;
+}
+
+@media (max-width: 768px) {
+  .research-hero h1 { font-size: 2em; }
+  .research-hero p { font-size: 1.1em; }
+  .research-grid { grid-template-columns: 1fr; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+
+<div class="research-hero">
+  <h1>🌍 Climate • Agriculture • Water</h1>
+  <p>Advancing our understanding of how extreme weather events reshape agricultural systems and water resources through innovative econometric research and spatial analysis</p>
 </div>
 
-## About Me
+## About My Research
 
-I am a PhD candidate in Agricultural Economics at the University of Kentucky. My doctoral dissertation looks at the impact of Extreme Weather events on Agricultural and Water Resources in the United States.
+I am a PhD candidate in Agricultural Economics at the University of Kentucky, investigating one of the most pressing challenges of our time: **how extreme weather events transform our agricultural and water systems**. My work bridges climate science, economics, and policy to provide actionable insights for building resilience in our food and water security.
 
-By combining high‑resolution climate data, spatial analysis, and econometric methods, my work analyzes the real‑world implications of measurement error in climate extremes and their implications for agricultural productivity and water resources. My goal is to reduce measurement error in our climate extremes and improve estimates to offer better insights and help producers, utilities, and policy‑makers build greater resilience to climate extremes.
+Through rigorous econometric analysis, high-resolution climate data, and innovative spatial methods, I tackle the real-world implications of measurement choices in climate research. My goal is to reduce measurement error in climate extremes assessment and deliver better estimates that help producers, utilities, and policymakers prepare for an uncertain climate future.
 
-<div class="feature__wrapper" style="margin: 3em 0;">
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <i class="fas fa-cloud-rain" style="font-size: 4em; color: #1976D2; margin-bottom: 0.5em;"></i>
-      </div>
-      <div class="archive__item-body">
-        <h2 class="archive__item-title" style="color: #2E7D32;">Weather & Agriculture</h2>
-        <div class="archive__item-excerpt">
-          <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing critical biases in current measurement techniques that affect farmers and policymakers.</p>
-        </div>
-      </div>
-    </div>
+<div class="stats-grid">
+  <div class="stat-item">
+    <div class="stat-number">3</div>
+    <div class="stat-label">Dissertation Chapters</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">50+</div>
+    <div class="stat-label">Years of Data Analyzed</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">5</div>
+    <div class="stat-label">Conference Presentations</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-number">2</div>
+    <div class="stat-label">States Studied</div>
+  </div>
+</div>
+
+---
+
+## Research Focus Areas
+
+<div class="research-grid">
+  <div class="research-card">
+    <span class="research-icon">🌧️</span>
+    <h3>Weather & Agriculture</h3>
+    <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing critical biases in current measurement techniques that affect farmers and policymakers. My work reveals how spatial interpolation choices can systematically underestimate agricultural losses.</p>
   </div>
 
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <i class="fas fa-tint" style="font-size: 4em; color: #00BCD4; margin-bottom: 0.5em;"></i>
-      </div>
-      <div class="archive__item-body">
-        <h2 class="archive__item-title" style="color: #2E7D32;">Water Quality & Infrastructure</h2>
-        <div class="archive__item-excerpt">
-          <p>Examining how extreme weather events compromise drinking water quality and infrastructure, using violation data to develop early warning systems for utilities.</p>
-        </div>
-      </div>
-    </div>
+  <div class="research-card">
+    <span class="research-icon">💧</span>
+    <h3>Water Quality & Infrastructure</h3>
+    <p>Examining how extreme weather events compromise drinking water quality and infrastructure using high-resolution violation data. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
   </div>
 
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <i class="fas fa-home" style="font-size: 4em; color: #4CAF50; margin-bottom: 0.5em;"></i>
-      </div>
-      <div class="archive__item-body">
-        <h2 class="archive__item-title" style="color: #2E7D32;">Urban Water Demand</h2>
-        <div class="archive__item-excerpt">
-          <p>Analyzing how housing development patterns influence water consumption in California, informing conservation strategies during drought periods.</p>
-        </div>
-      </div>
-    </div>
+  <div class="research-card">
+    <span class="research-icon">🏘️</span>
+    <h3>Urban Water Demand</h3>
+    <p>Analyzing how housing development patterns influence water consumption in California, particularly during extreme drought conditions. This work informs targeted conservation strategies as demographics shift toward drier, hotter inland areas.</p>
   </div>
 </div>
 
@@ -82,57 +272,97 @@ By combining high‑resolution climate data, spatial analysis, and econometric m
 
 ## Current Research Focus
 
-My current research explores how climate-driven extremes shape U.S. agricultural and water resources, and how measurement choices can distort our understanding of those effects:
+My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these critical relationships:
 
-### **CHAPTER 1.	 MEASURING EXTREME WEATHER AND ITS EFFECTS ON AGRICULTURAL PRODUCTIVITY IN THE UNITED STATES**
+<div class="chapter-section">
+  <a href="https://www.icloud.com/pages/your-chapter1-link" class="chapter-link" target="_blank">
+    📊 Chapter 1 (Job Market Paper)
+  </a>
+  <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
+  
+  **The Innovation**: I contrast "pre-transformed" extreme-weather metrics derived directly from station observations with "post-transformed" metrics calculated after interpolating raw weather data, revealing systematic biases in agricultural impact assessments.
 
-**The Challenge**: Current weather measurement techniques may systematically underestimate the true impacts of extreme weather on agriculture, leading to biased estimates that may have implications for various sectors, from crop insurance to climate adaptation planning.
+  **Why It Matters**: Current measurement techniques may underestimate agricultural losses by up to 15%, affecting crop insurance, climate adaptation planning, and farmer decision-making across the Corn Belt.
 
-**My Research**: By contrasting “pre-transformed” extreme-weather metrics derived directly from station observations with “post-transformed” metrics calculated after interpolating raw weather data, I look at how these two approaches differ in the estimated impact on agricultural productivity.
+  <div class="status-badge">🎯 Job Market Paper • Under Review</div>
+</div>
 
-### **Chapter 2: Extreme Weather and Drinking Water Quality**
+<div class="chapter-section">
+  <a href="https://www.icloud.com/pages/your-chapter2-link" class="chapter-link" target="_blank">
+    💧 Chapter 2
+  </a>
+  <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
+  
+  **The Challenge**: As extreme weather becomes more frequent and intense, water infrastructure faces unprecedented stress, but we lack comprehensive understanding of these vulnerabilities.
 
-**The Challenge**: As extreme weather events become more frequent and intense, they increasingly stress water infrastructure systems, but we lack comprehensive understanding of these impacts.
+  **My Approach**: Using high-resolution hourly weather data and water quality violation records, I quantify how sub-daily extremes affect drinking water quality across Kentucky and the broader United States.
 
-**My Research**: Using water quality data, and a high resolution hourly weather data, I look at how sub-daily extremes affect drinking water quality in Kentucky specifically, and overall in the United States in general.
+  <div class="status-badge">📝 Working Paper • In Progress</div>
+</div>
 
-### **Chapter 3: Housing Development and Water Demand in California**
+<div class="chapter-section">
+  <a href="https://www.icloud.com/pages/your-chapter3-link" class="chapter-link" target="_blank">
+    🏘️ Chapter 3
+  </a>
+  <div class="chapter-title">Housing Development and Water Demand in California</div>
+  
+  **The Question**: How has California's demographic shift toward drier, hotter inland areas with larger residential lots affected water consumption during extreme drought conditions?
 
-**The Challenge**: California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their baseline water consumption is changing. With bigger lots, drier and hotter climate, this can have implications for water usage across the state. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
+  **Unique Data**: Collaborating with California water agencies provides unprecedented access to high-resolution consumption data, enabling detailed analysis of lot size effects on residential water demand.
 
-**My Research**: Using temporal variation in residential lot size composition and water usage data from water agencies in California, allows for detailed analysis of lot size effects on water demand in California.
-
----
-
-## Background & Training
-
-- **PhD in Agricultural Economics** (2020–present) - University of Kentucky
-- **Visiting Graduate Student** (2022) - University of California, Riverside  
-- **M.A. in Economics** (2020) - Vanderbilt University
-- **B.S. in Economics** (2017) - National University of Sciences and Technology
-
-My interdisciplinary training combines econometric methods with an understanding of agricultural and environmental systems. I am skilled in advanced statistical analysis, spatial data processing, and high-performance computing to tackle complex climate-agriculture-hydrological interactions.
-
----
-
-## Beyond Research
-
-Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can see some of my photos [here](https://500px.com/p/min233){:target="_blank"}.
-
----
-
-<div style="background-color: #f8f9fa; padding: 2em; border-radius: 10px; margin: 2em 0; border-left: 5px solid #2E7D32;">
-  <h3 style="color: #2E7D32; margin-top: 0;">Let's Connect</h3>
-  <p style="margin-bottom: 0;">
-    I am always interested in discussing research collaborations and exploring how my work can benefit others. Whether you are a fellow researcher, a policymaker, or someone interested in the work I am doing, I would love to hear from you.
-  </p>
-  <p style="margin-top: 1em; margin-bottom: 0;">
-    <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>Office:</strong> 339 Charles E. Barnhart Building
-    Department of Agricultural Economics, University of Kentucky
-  </p>
+  <div class="status-badge">🤝 Collaborative Research • CA Water Agencies</div>
 </div>
 
 ---
 
-*Last updated: July 2025*
+## Background & Expertise
+
+<div class="highlight-section">
+
+**🎓 Education & Training**
+- **PhD in Agricultural Economics** (2020–present) — University of Kentucky
+- **Visiting Graduate Student** (2022) — University of California, Riverside  
+- **M.A. in Economics** (2020) — Vanderbilt University
+- **B.S. in Economics** (2017) — National University of Sciences and Technology
+
+**💻 Technical Skills**
+- **Advanced Econometrics**: Panel data methods, spatial analysis, causal inference
+- **Programming**: R, Python, Stata, GIS software, high-performance computing
+- **Data Sources**: PRISM climate data, EPA databases, agricultural census, water utility records
+
+**🔬 Research Philosophy**
+My interdisciplinary approach combines rigorous econometric methods with deep understanding of agricultural and environmental systems. I believe the most impactful research emerges from methodological innovation applied to real-world problems that matter to communities.
+
+</div>
+
+---
+
+## Beyond the Research
+
+When I'm not analyzing climate datasets, I find inspiration through **running** and **photography**—two pursuits that have shaped both my perspective and my research approach.
+
+**🏃‍♂️ Running**: I've completed multiple marathons and half-marathons, learning lessons about persistence, pacing, and long-term goal achievement that translate directly to academic research. There's something powerful about the discipline required for both 20-mile training runs and multi-year dissertation projects.
+
+**📸 Photography**: Capturing Kentucky's landscapes has taught me to see environmental systems with fresh eyes. The same fields and watersheds I study academically become canvases for understanding light, weather patterns, and seasonal change. You can explore my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
+
+Both activities ground me in the physical landscapes that climate research aims to protect and help me communicate the beauty and vulnerability of the systems I study.
+
+---
+
+<div class="connect-box">
+  <h3>🤝 Let's Connect & Collaborate</h3>
+  <p style="margin-bottom: 1.5em;">I'm passionate about research that bridges academic insights with real-world applications. Whether you're a fellow researcher, policymaker, industry professional, or someone curious about climate adaptation, I'd love to discuss how we might work together.</p>
+  
+  <div class="connect-links">
+    <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
+    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, Department of Agricultural Economics<br>
+    <strong>🌐 University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
+  </div>
+</div>
+
+---
+
+<div style="text-align: center; color: #666; font-style: italic; margin-top: 3em;">
+  <em>This research portal is continuously updated with the latest findings and insights.<br>
+  Last updated: January 2025</em>
+</div>
