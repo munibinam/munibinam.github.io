@@ -234,20 +234,23 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 
 ## Research Focus Areas
 
-<div class="research-grid">
-  <div class="research-card">
-    <h3>Extreme Weather and Agricultural Productivity</h3>
-    <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing biases in current measurement techniques and estimates. My work shows how spatial interpolation choices can systematically misestimate agricultural impacts</p>
+<div style="display: flex; justify-content: center; align-items: center; margin: 3em 0; flex-wrap: wrap; gap: 2em;">
+  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
+    <div style="font-size: 3em; margin-bottom: 0.5em;">📊</div>
+    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Applied Econometrics</h3>
+    <p style="color: #555; font-size: 0.9em; margin: 0;">Panel data, spatial analysis, causal inference</p>
   </div>
-
-  <div class="research-card">
-    <h3>Extreme Weather and Water Quality</h3>
-    <p>Examining how extreme weather events affect drinking water quality and infrastructure. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
+  
+  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
+    <div style="font-size: 3em; margin-bottom: 0.5em;">🌍</div>
+    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Environmental & Resource Economics</h3>
+    <p style="color: #555; font-size: 0.9em; margin: 0;">Climate impacts, water resources, sustainability</p>
   </div>
-
-  <div class="research-card">
-    <h3>Extreme Weather and Urban Water Demand</h3>
-    <p>Analyzing how housing development patterns influence water consumption in California, particularly during extreme drought conditions. This work informs targeted conservation strategies as demographics shift toward drier, hotter inland areas.</p>
+  
+  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
+    <div style="font-size: 3em; margin-bottom: 0.5em;">🌾</div>
+    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Agricultural Economics</h3>
+    <p style="color: #555; font-size: 0.9em; margin: 0;">Crop productivity, farm resilience, policy analysis</p>
   </div>
 </div>
 
@@ -325,7 +328,7 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
   
   <div class="connect-links">
     <strong>📧 Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>🏛️ Office:</strong> Charles E. Barnhart Bldg, 400, 1398 Nicholasville Rd, Lexington, KY 40546<br>
+    <strong>🏛️ Office:</strong> 339 Charles E. Barnhart Building, 1398 Nicholasville Rd, Lexington, KY 40546<br>
     <strong>🌐 University of Kentucky:</strong> <a href="https://agecon.ca.uky.edu/">Department of Agricultural Economics</a>
   </div>
 </div>
