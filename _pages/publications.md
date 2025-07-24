@@ -54,11 +54,6 @@ toc_icon: "calendar"
 }
 </style>
 
-<div style="text-align: center; margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px;">
-  <h2 style="color: #2E7D32; margin-bottom: 0.5em;">Research Presentations</h2>
-  <p style="color: #555; margin: 0;">Conference presentations and talks on extreme weather impacts in agriculture and water resources</p>
-</div>
-
 ---
 
 <div class="year-section">
@@ -86,6 +81,7 @@ toc_icon: "calendar"
     <div class="presentation-title">"Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States"</div>
     <div class="conference-info">Southern Agricultural Economics Association 2025</div>
     <div class="conference-location">Irving, TX, USA</div>
+    <div style="margin-top: 0.5em; color: #1B5E20; font-weight: 500; font-size: 0.9em;">🏆 Job Market Paper Competition - 1st Place</div>
   </div>
 </div>
 
