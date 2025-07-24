@@ -236,17 +236,17 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 2em 0; flex-wrap: wrap; gap: 1.5em;">
   <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
-    <div style="font-size: 2em; margin-bottom: 0.3em;">📊</div>
+    <div style="font-size: 2em; margin-bottom: 0.3em;"></div>
     <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Applied Econometrics</h4>
   </div>
   
   <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
-    <div style="font-size: 2em; margin-bottom: 0.3em;">🌍</div>
+    <div style="font-size: 2em; margin-bottom: 0.3em;"></div>
     <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Environmental & Resource Economics</h4>
   </div>
   
   <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
-    <div style="font-size: 2em; margin-bottom: 0.3em;">🌾</div>
+    <div style="font-size: 2em; margin-bottom: 0.3em;"></div>
     <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Agricultural Economics</h4>
   </div>
 </div>
