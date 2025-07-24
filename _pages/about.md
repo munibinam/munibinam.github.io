@@ -228,7 +228,7 @@ Through rigorous econometric analysis, high-resolution climate data, and innovat
 <div style="text-align: center; margin: 3em 0;">
   <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
   <p style="font-style: italic; color: #666; margin-top: 1em; font-size: 0.9em;">
-    <strong>Figure:</strong> Projected changes in extremes are larger in frequency and intensity with every additional increment of global warming. <em>Source: IPCC (2021)</em>
+    <strong>Figure:</strong> Projected changes in extremes are larger in frequency and intensity with every additional increment of global warming. <em>IPCC (2021)</em>
   </p>
 </div>
 
@@ -238,19 +238,16 @@ Through rigorous econometric analysis, high-resolution climate data, and innovat
 
 <div class="research-grid">
   <div class="research-card">
-    <span class="research-icon">🌧️</span>
     <h3>Weather & Agriculture</h3>
     <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing critical biases in current measurement techniques that affect farmers and policymakers. My work reveals how spatial interpolation choices can systematically underestimate agricultural losses.</p>
   </div>
 
   <div class="research-card">
-    <span class="research-icon">💧</span>
     <h3>Water Quality & Infrastructure</h3>
     <p>Examining how extreme weather events compromise drinking water quality and infrastructure using high-resolution violation data. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
   </div>
 
   <div class="research-card">
-    <span class="research-icon">🏘️</span>
     <h3>Urban Water Demand</h3>
     <p>Analyzing how housing development patterns influence water consumption in California, particularly during extreme drought conditions. This work informs targeted conservation strategies as demographics shift toward drier, hotter inland areas.</p>
   </div>
@@ -327,13 +324,7 @@ My interdisciplinary approach combines rigorous econometric methods with deep un
 
 ## Beyond the Research
 
-When I'm not analyzing climate datasets, I find inspiration through **running** and **photography**—two pursuits that have shaped both my perspective and my research approach.
-
-**Running**: I've completed multiple marathons and half-marathons, learning lessons about persistence, pacing, and long-term goal achievement that translate directly to academic research. There's something powerful about the discipline required for both 20-mile training runs and multi-year dissertation projects.
-
-**Photography**: Capturing Kentucky's landscapes has taught me to see environmental systems with fresh eyes. The same fields and watersheds I study academically become canvases for understanding light, weather patterns, and seasonal change. You can explore my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
-
-Both activities ground me in the physical landscapes that climate research aims to protect and help me communicate the beauty and vulnerability of the systems I study.
+Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can see some of my photos [here](https://500px.com/p/min233){:target="_blank"}.
 
 ---
 
@@ -351,6 +342,5 @@ Both activities ground me in the physical landscapes that climate research aims 
 ---
 
 <div style="text-align: center; color: #666; font-style: italic; margin-top: 3em;">
-  <em>This research portal is continuously updated with the latest findings and insights.<br>
-  Last updated: January 2025</em>
+  Last updated: July 2025</em>
 </div>
