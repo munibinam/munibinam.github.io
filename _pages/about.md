@@ -234,23 +234,20 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 
 ## Research Focus Areas
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 3em 0; flex-wrap: wrap; gap: 2em;">
-  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
-    <div style="font-size: 3em; margin-bottom: 0.5em;">📊</div>
-    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Applied Econometrics</h3>
-    <p style="color: #555; font-size: 0.9em; margin: 0;">Panel data, spatial analysis, causal inference</p>
+<div style="display: flex; justify-content: center; align-items: center; margin: 2em 0; flex-wrap: wrap; gap: 1.5em;">
+  <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
+    <div style="font-size: 2em; margin-bottom: 0.3em;">📊</div>
+    <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Applied Econometrics</h4>
   </div>
   
-  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
-    <div style="font-size: 3em; margin-bottom: 0.5em;">🌍</div>
-    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Environmental & Resource Economics</h3>
-    <p style="color: #555; font-size: 0.9em; margin: 0;">Climate impacts, water resources, sustainability</p>
+  <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
+    <div style="font-size: 2em; margin-bottom: 0.3em;">🌍</div>
+    <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Environmental & Resource Economics</h4>
   </div>
   
-  <div style="text-align: center; padding: 2em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 15px; min-width: 250px; box-shadow: 0 6px 20px rgba(46, 125, 50, 0.15); border: 2px solid #C8E6C9;">
-    <div style="font-size: 3em; margin-bottom: 0.5em;">🌾</div>
-    <h3 style="color: #1B5E20; margin-bottom: 0.5em; font-size: 1.2em;">Agricultural Economics</h3>
-    <p style="color: #555; font-size: 0.9em; margin: 0;">Crop productivity, farm resilience, policy analysis</p>
+  <div style="text-align: center; padding: 1.2em 1.5em; background: linear-gradient(135deg, #E8F5E8, #F1F8E9); border-radius: 10px; min-width: 180px; box-shadow: 0 4px 15px rgba(46, 125, 50, 0.1); border: 1px solid #C8E6C9;">
+    <div style="font-size: 2em; margin-bottom: 0.3em;">🌾</div>
+    <h4 style="color: #1B5E20; margin: 0; font-size: 1em;">Agricultural Economics</h4>
   </div>
 </div>
 
@@ -261,7 +258,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
-  <a href="https://www.icloud.com/iclouddrive/069NcB2uIhejUog85eQ2bEAAA#Job%5Fmarket%5Fpaper%5F2025](https://cvws.icloud-content.com/B/AVPp4i_a1PrM9IZuwtV9M4hw3E_IAQ39cYGwYE6wsmaFKcLePv31GlM8/Job_market_paper_2025.pdf?o=AlXdlfVlQBX1ZtO7iH67aV9TibNFNjrc_sG0-0O8rzlQ&v=1&x=3&a=CAogBLVcfvcHEys9_0ufwkVivIGb3lSZEc_q2bxHiM2-KksSbxDyw9TogzMY8qCw6oMzIgEAUgRw3E_IWgT1GlM8aicWTGZ602ecd11w2TtfnP_18rzwA4ZjkyhBxamCpM8IbpV7hxVMSxdyJ7QhH_eG_BfHOILCoGlSDQbr7v0YNSFSGjT0af_8lUCcgpS-2u9kkw&e=1753375051&fl=&r=099607f8-997d-4dd4-8b6e-a3a8d00225e3-1&k=aDgM5eT9nHrK7s9L-kwDyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Lz47nOHJYxIOdUhq8DNmbCgvQlE&cd=i" class="chapter-link" target="_blank">
+  <a href="https://cvws.icloud-content.com/B/AVPp4i_a1PrM9IZuwtV9M4hw3E_IAQ39cYGwYE6wsmaFKcLePv31GlM8/Job_market_paper_2025.pdf?o=AlXdlfVlQBX1ZtO7iH67aV9TibNFNjrc_sG0-0O8rzlQ&v=1&x=3&a=CAogBLVcfvcHEys9_0ufwkVivIGb3lSZEc_q2bxHiM2-KksSbxDyw9TogzMY8qCw6oMzIgEAUgRw3E_IWgT1GlM8aicWTGZ602ecd11w2TtfnP_18rzwA4ZjkyhBxamCpM8IbpV7hxVMSxdyJ7QhH_eG_BfHOILCoGlSDQbr7v0YNSFSGjT0af_8lUCcgpS-2u9kkw&e=1753375051&fl=&r=099607f8-997d-4dd4-8b6e-a3a8d00225e3-1&k=aDgM5eT9nHrK7s9L-kwDyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Lz47nOHJYxIOdUhq8DNmbCgvQlE&cd=i" class="chapter-link" target="_blank">
      Chapter 1 (Job Market Paper)
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
@@ -272,7 +269,7 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
 </div>
 
 <div class="chapter-section">
-  <a href="https://www.icloud.com/iclouddrive/0ab9bOAmZZeZy2lUP-tRov8iw#Water%5FQuality%5F2025](https://cvws.icloud-content.com/B/AaqIiW_qhJbqQ3JPFu_gfzjFDpJmAWAmzShaMk0LQ6sqtN_hvGlqpt4n/Water_Quality_2025.pdf?o=Aig6EmUbWIWC-YhDQ61oTsoPqc670zFd0EsRiQ53dTon&v=1&x=3&a=CAogD5E4O2Zvzx74yvhsGiNtc4AGXeBAIENFPxhyTR_5VzcSbxDW5djogzMY1sK06oMzIgEAUgTFDpJmWgRqpt4naif7es58PPoI9molTEXK16qP08MUKA1NiLlcZs4Wptnt270PGAjp1ORyJ9Lfvv2ah1eXGvVoi5s8WQ_PFqEPBkeHSBD6CVSWtGIxsp3QZaZQCA&e=1753375121&fl=&r=f072ea52-5581-4f68-b649-eba39471cb88-1&k=kSbalzBu_aVizmdka5VNBg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=8FBYT-2kUavhYZMJkHMWvoM3fgc&cd=i" class="chapter-link" target="_blank">
+  <a href="https://cvws.icloud-content.com/B/AaqIiW_qhJbqQ3JPFu_gfzjFDpJmAWAmzShaMk0LQ6sqtN_hvGlqpt4n/Water_Quality_2025.pdf?o=Aig6EmUbWIWC-YhDQ61oTsoPqc670zFd0EsRiQ53dTon&v=1&x=3&a=CAogD5E4O2Zvzx74yvhsGiNtc4AGXeBAIENFPxhyTR_5VzcSbxDW5djogzMY1sK06oMzIgEAUgTFDpJmWgRqpt4naif7es58PPoI9molTEXK16qP08MUKA1NiLlcZs4Wptnt270PGAjp1ORyJ9Lfvv2ah1eXGvVoi5s8WQ_PFqEPBkeHSBD6CVSWtGIxsp3QZaZQCA&e=1753375121&fl=&r=f072ea52-5581-4f68-b649-eba39471cb88-1&k=kSbalzBu_aVizmdka5VNBg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=8FBYT-2kUavhYZMJkHMWvoM3fgc&cd=i" class="chapter-link" target="_blank">
      Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
