@@ -238,9 +238,9 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 
 ---
 
-## Ongoing Research
+## Ongoing Research (Dissertation)
 
-My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
+My disseration work explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
   <a href="https://cvws.icloud-content.com/B/AVPp4i_a1PrM9IZuwtV9M4hw3E_IAQ39cYGwYE6wsmaFKcLePv31GlM8/Job_market_paper_2025.pdf?o=AlXdlfVlQBX1ZtO7iH67aV9TibNFNjrc_sG0-0O8rzlQ&v=1&x=3&a=CAogBLVcfvcHEys9_0ufwkVivIGb3lSZEc_q2bxHiM2-KksSbxDyw9TogzMY8qCw6oMzIgEAUgRw3E_IWgT1GlM8aicWTGZ602ecd11w2TtfnP_18rzwA4ZjkyhBxamCpM8IbpV7hxVMSxdyJ7QhH_eG_BfHOILCoGlSDQbr7v0YNSFSGjT0af_8lUCcgpS-2u9kkw&e=1753375051&fl=&r=099607f8-997d-4dd4-8b6e-a3a8d00225e3-1&k=aDgM5eT9nHrK7s9L-kwDyA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Lz47nOHJYxIOdUhq8DNmbCgvQlE&cd=i" class="chapter-link" target="_blank">
