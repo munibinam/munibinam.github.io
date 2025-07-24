@@ -238,7 +238,7 @@ I am a PhD candidate in Agricultural Economics at the University of Kentucky, lo
 
 ---
 
-## Current Research Focus
+## Ongoing Research
 
 My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
