@@ -221,9 +221,7 @@ classes: wide
 
 ## About My Research
 
-I am a PhD candidate in Agricultural Economics at the University of Kentucky, investigating one of the most pressing challenges of our time: **how extreme weather events transform our agricultural and water systems**. My work bridges climate science, economics, and policy to provide actionable insights for building resilience in our food and water security.
-
-Through rigorous econometric analysis, high-resolution climate data, and innovative spatial methods, I tackle the real-world implications of measurement choices in climate research. My goal is to reduce measurement error in climate extremes assessment and deliver better estimates that help producers, utilities, and policymakers prepare for an uncertain climate future.
+I am a PhD candidate in Agricultural Economics at the University of Kentucky, looking at the impact of extreme weather events on agricultural productivity and water resources. My work bridges climate science, economics, and policy to build resilience of agriculture and water sectors. My goal is to reduce measurement error in weather extremes assessment and improve their estimates to help producers, utilities, and policymakers prepare for an uncertain climate future.
 
 <div style="text-align: center; margin: 3em 0;">
   <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
@@ -239,12 +237,12 @@ Through rigorous econometric analysis, high-resolution climate data, and innovat
 <div class="research-grid">
   <div class="research-card">
     <h3>Extreme Weather and Agricultural Productivity</h3>
-    <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing critical biases in current measurement techniques that affect farmers and policymakers. My work reveals how spatial interpolation choices can systematically underestimate agricultural losses.</p>
+    <p>Developing improved methods to measure extreme weather impacts on crop yields, addressing biases in current measurement techniques and estimates. My work shows how spatial interpolation choices can systematically misestimate agricultural impacts</p>
   </div>
 
   <div class="research-card">
     <h3>Extreme Weather and Water Quality</h3>
-    <p>Examining how extreme weather events compromise drinking water quality and infrastructure using high-resolution violation data. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
+    <p>Examining how extreme weather events affect drinking water quality and infrastructure. This research develops early warning systems to help utilities prepare for climate-related stresses on water systems.</p>
   </div>
 
   <div class="research-card">
@@ -257,7 +255,7 @@ Through rigorous econometric analysis, high-resolution climate data, and innovat
 
 ## Current Research Focus
 
-My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these critical relationships:
+My dissertation explores how climate-driven extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section">
   <a href="https://www.icloud.com/pages/your-chapter1-link" class="chapter-link" target="_blank">
@@ -265,24 +263,21 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
   
-  **The Innovation**: I contrast "pre-transformed" extreme-weather metrics derived directly from station observations with "post-transformed" metrics calculated after interpolating raw weather data, revealing systematic biases in agricultural impact assessments.
+  I contrast "pre-transformed" extreme-weather metrics derived directly from station observations with "post-transformed" metrics calculated after interpolating raw weather data, revealing systematic biases in agricultural impact assessments.
 
-  **Why It Matters**: Current measurement techniques may underestimate agricultural losses by up to 15%, affecting crop insurance, climate adaptation planning, and farmer decision-making across the Corn Belt.
-
-  <div class="status-badge">🎯 Job Market Paper • Under Review</div>
+  <div class="status-badge">Job Market Paper • Under Review</div>
 </div>
 
 <div class="chapter-section">
   <a href="https://www.icloud.com/pages/your-chapter2-link" class="chapter-link" target="_blank">
      Chapter 2
   </a>
-  <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
+  <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality</div>
   
-  **The Challenge**: As extreme weather becomes more frequent and intense, water infrastructure faces unprecedented stress, but we lack comprehensive understanding of these vulnerabilities.
+As extreme weather becomes more frequent and intense, water infrastructure faces unprecedented stress, but we lack comprehensive understanding of these vulnerabilities.
+Using high-resolution hourly weather data and water quality violation records, I quantify how sub-daily extremes affect drinking water quality across Kentucky and the broader United States.
 
-  **My Approach**: Using high-resolution hourly weather data and water quality violation records, I quantify how sub-daily extremes affect drinking water quality across Kentucky and the broader United States.
-
-  <div class="status-badge">📝 Working Paper • In Progress</div>
+  <div class="status-badge">Working Paper</div>
 </div>
 
 <div class="chapter-section">
@@ -291,11 +286,10 @@ My dissertation explores how climate-driven extremes shape U.S. agricultural and
   </a>
   <div class="chapter-title">Housing Development and Water Demand in California</div>
   
-  **The Question**: How has California's demographic shift toward drier, hotter inland areas with larger residential lots affected water consumption during extreme drought conditions?
+  How has California's demographic shift toward drier, hotter inland areas with larger residential lots affected water consumption during extreme drought conditions?
+  Collaborating with California water agencies provides unprecedented access to high-resolution consumption data, enabling detailed analysis of lot size effects on residential       water demand.
 
-  **Unique Data**: Collaborating with California water agencies provides unprecedented access to high-resolution consumption data, enabling detailed analysis of lot size effects on residential water demand.
-
-  <div class="status-badge">Collaborative Research • CA Water Agencies</div>
+  <div class="status-badge">Working Paper • Under Review</div>
 </div>
 
 ---
