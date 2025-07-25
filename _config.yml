@@ -21,16 +21,16 @@ comments:
   provider: false
 
 # SEO Related
-google_site_verification: 
+google_site_verification:
 bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: 
+  username:
 facebook:
-  username: 
+  username:
   app_id:
   publisher:
 og_image: /images/profile2.jpg
@@ -45,7 +45,7 @@ social:
 analytics:
   provider: false  # Set to "google-gtag" when have tracking ID
   google:
-    tracking_id: # 
+    tracking_id: #
 
 # Site Author
 author:
@@ -61,9 +61,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/munib-inam"
-    - label: "📄 Download CV"           
-      icon: "fas fa-fw fa-file-pdf"     
-      url: "https://cvws.icloud-content.com/B/ATs78tpzaLEBKoYgOEObtzMvxH-sAUHK-yoceI47c-k7TeHxaAG9rHcl/CV_Munib_July_2025.pdf?o=AlBnxfD1dHDsicQM9RqbmUDgWjFcwZjjICV8_hGVudzP&v=1&x=3&a=CAogfL4MehqePLoRfKNhrcfQrXwzaVIUzJbk-TJwaLUNpA8SbxDY9Yj_gzMY2NLkgIQzIgEAUgQvxH-sWgS9rHclaieli5j7scF9PRf2gYLzF7ZQtwDZfeNH46pcOTZ8vy1LyoH1tLxvR3lyJ2VfIxR4daXeO1NaSAXYvkvOqHQMLogRUtKimSJMIyNo7Hgz0mvivg&e=1753422047&fl=&r=2f0d23e5-e6c1-48da-b078-008e7c7bd0d4-1&k=oX_8ylzsCYhEDhjBSGqZKA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Xa7LVwoTfKYIFKJ2CSjKNxKpy08&cd=i"   
+    - label: "📄 Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/Inam_CV_2025.pdf"
 
 # Reading Files
 include:
