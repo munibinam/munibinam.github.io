@@ -1,90 +1,47 @@
 ---
-layout: splash
+layout: single
 permalink: /
 title: "Munib Inam"
-subtitle: "Economics of Climate Extremes & Water Systems"
-excerpt: |
-  PhD candidate in Agricultural Economics at the University of Kentucky.
-  I build data‑driven tools to understand how heatwaves, heavy rainfall, and other
-  climate shocks reshape U.S. agriculture and drinking‑water infrastructure.
-
-# ── Hero Banner ───────────────────────────────────────────────
-header:
-  overlay_image: /images/hero_farmland_dawn.jpg  # 2000×800px panoramic works well
-  overlay_color: "#14213D"       # midnight‑blue tint for a modern feel
-  overlay_filter: 0.50            # darken image just enough for text
-  cta_label: "Download CV ↗"
-  cta_url: "/files/CV_Munib_Inam.pdf"
-  cta_class: "btn--primary btn--lg"
-header_actions:
-  - label: "Explore Research"
-    url: "#research"
-    class: "btn--outline btn--lg"
-
-# ── Feature Tiles (key papers) ───────────────────────────────
-feature_row:
-  - title: "Job Market Paper"
-    excerpt: "Measuring Extreme Weather and U.S. Crop Yields"
-    url: "/files/JMP_Munib_Inam.pdf"
-    btn_label: "PDF ↗"
-    btn_class: "btn--info btn--sm"
-  - title: "Extreme Weather & Water Quality"
-    excerpt: "Sub‑daily climate shocks and drinking‑water violations"
-    url: "/files/Water_Quality_Paper_Inam.pdf"
-    btn_label: "PDF ↗"
-    btn_class: "btn--info btn--sm"
-  - title: "Housing Patterns & Water Demand"
-    excerpt: "Residential lot size and urban water use in California"
-    url: "/files/Housing_Water_Demand_Inam.pdf"
-    btn_label: "PDF ↗"
-    btn_class: "btn--info btn--sm"
-classes: wide  # full‑width hero
+author_profile: true     # shows sidebar with photo, contacts, CV link
+classes: wide            # full‑width content column
+read_time: false
 ---
 
-{% include feature_row id="feature_row" %}
+## Research Focus
+I am a PhD candidate in **Agricultural Economics** at the University of Kentucky. My work integrates applied econometrics, high‑resolution climate data, and spatial analysis to quantify how extreme weather alters agricultural productivity and drinking‑water safety in the United States. I aim to deliver measurement tools that support evidence‑based adaptation and water‑resource policy.
+
+### Current Projects
+| Theme | Key Question | Methods |
+|-------|--------------|---------|
+| **Climate Metrics & Bias** | Do common interpolation techniques hide the true cost of extreme heat? | Station vs. grid comparisons · Fixed‑effects yield models |
+| **Water Quality Under Stress** | How do sub‑daily weather shocks trigger Safe Drinking Water Act violations? | Rare‑events logit · High‑frequency climate records |
+| **Water Demand & Urban Form** | What role does housing lot size play in drought‑era consumption? | Panel regressions · Utility micro‑data |
+
+*For a full list of manuscripts and replication code, see the “Publications” and “Data & Code” tabs.*
+
+## Dissertation Chapters (in progress)
+1. **Measuring Extreme Weather and U.S. Crop Yields** — *Job‑market paper, under review.*  
+2. **Extreme Weather and Drinking‑Water Quality** — *Working paper.*  
+3. **Housing Development Patterns and Residential Water Demand** — *Manuscript in preparation.*
+
+## Teaching & Mentoring
+* Instructor, **International Agriculture, World Food Needs, and U.S. Trade** (AEC 309), University of Kentucky, 2024.  
+* Teaching Assistant for **Environmental & Resource Economics**, Spring 2022.
+
+## Academic Pathway
+* **Ph.D. Agricultural Economics**, University of Kentucky (2020– expected 2025)  
+* **Visiting Graduate Student**, University of California, Riverside (2022)  
+* **M.A. Economics**, Vanderbilt University (2020)  
+* **B.S. Economics**, National University of Sciences & Technology (2017)
+
+## Selected Honors
+* 1st Place, Job‑Market Paper Competition — Southern Agricultural Economics Association (2025)  
+* James S. & Rosemary Worley Research Award — Vanderbilt University (2020)
+
+## Technical Skills
+* **Econometrics:** panel & spatial models, causal inference, difference‑in‑differences  
+* **Programming:** R (tidyverse, data.table, fixest), Python, Stata; HPC with SLURM  
+* **Datasets:** NOAA GHCN‑D, PRISM, USDA Quick Stats, EPA SDWIS, CDL rasters
 
 ---
-
-## 🔎 Research Snapshot {#research}
-I combine **applied econometrics**, high‑resolution **climate data**, and **spatial analysis** to answer three core questions:
-
-1. **How do measurement choices change what we think we know?**  
-   _Interpolation vs. station‑based metrics and the hidden bias in yield models._
-2. **What happens to crops—and farmers—when extremes hit?**  
-   _Quantifying yield and land‑use responses, plus adaptation payoffs._
-3. **Can water systems keep up with a wilder climate?**  
-   _Early‑warning indicators for contamination and smarter conservation policy._
-
----
-
-## 📚 Dissertation at a Glance
-| Chapter | Status | One‑line Insight |
-| :---: | :---: | --- |
-| **1** | _Under Review_ | Post‑interpolation heat‑stress metrics understate corn‑yield damage. |
-| **2** | _Working Paper_ | Sub‑daily extremes raise Safe Drinking Water Act violation odds. |
-| **3** | _In Prep_ | Bigger residential lots magnify urban water demand during drought. |
-
----
-
-## 🎓 Academic Pathway
-* **Ph.D. (Ag. Econ.)** — University of Kentucky, 2020‑present  
-* **Visiting Scholar** — UC Riverside, 2022  
-* **M.A. (Econ.)** — Vanderbilt University, 2020  
-* **B.S. (Econ.)** — NUST, 2017
-
----
-
-## 🛠️ Tools & Methods
-* **Econometrics:** panel & spatial models, causal inference, diff‑in‑diff  
-* **Programming:** R (tidyverse, data.table, fixest), Python, Stata; SLURM HPC  
-* **Datasets:** NOAA GHCN‑D, PRISM, USDA Quick Stats, EPA SDWIS, CDL raster
-
----
-
-## 🤝 Let’s Connect
-Interested in collaborating or chatting about climate‑ag economics?
-
-* **Email:** [munib.inam@uky.edu](mailto:munib.inam@uky.edu)  
-* **LinkedIn:** [linkedin.com/in/munib-inam](https://linkedin.com/in/munib-inam)
-
 <small>Last updated {{ "now" | date: "%B %Y" }}.</small>
