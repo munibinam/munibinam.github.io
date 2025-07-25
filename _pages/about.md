@@ -1,166 +1,243 @@
 ---
 layout: single
-permalink: /
-title: "Munib Inam"
+title: "Publications & Presentations"
+permalink: /publications/
 author_profile: true
-classes: wide
-read_time: false
+header:
+  overlay_color: "#1B5E20"
+  overlay_filter: 0.4
+toc: true
+toc_label: "Years"
+toc_icon: "calendar"
 ---
 
-<!-- ==============  GLOBAL STYLES  ============== -->
 <style>
-:root {
-  --deep-navy: #102A43;
-  --accent:    #0A7BD9;
-  --surface:   #FFFFFF;
-  --bg-light:  #F5F7FA;
-  --text-main: #1F2933;
-  --text-muted:#5F6C7B;
-  --shadow:    0 3px 12px rgba(0,0,0,.08);
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --surface:#17263C;
-    --bg-light:#0D1928;
-    --text-main:#D4E1F2;
-    --text-muted:#91A1B4;
-    --shadow:0 3px 12px rgba(0,0,0,.45);
-  }
+.publications-header {
+  text-align: center;
+  margin: 2em 0;
+  padding: 2em;
+  background: linear-gradient(135deg, #f8f9fa, #e8f5e8);
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
 }
 
-html,body{height:100%;margin:0;background:var(--bg-light);color:var(--text-main);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
+.publications-header h2 {
+  color: #1B5E20;
+  margin-bottom: 0.5em;
+  font-weight: 400;
+}
 
-/* Sticky footer layout */
-body{display:flex;flex-direction:column;}
-.main{flex:1 0 auto;}  /* wrapper */
-.site-footer{flex-shrink:0;background:var(--deep-navy);color:#fff;text-align:center;padding:1.5rem 1rem;margin-top:3rem;font-size:.85rem}
-.site-footer a{color:#8cd2ff;text-decoration:none}
-.site-footer a:hover{text-decoration:underline}
+.publications-header p {
+  color: #555;
+  margin: 0;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
 
-/***** HERO *****/
-.hero{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:260px;text-align:center;color:#fff;background:url('/images/banner_cornfield_dawn.jpg') center/cover no-repeat;margin-bottom:2rem;}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(120deg,var(--deep-navy) 0%,rgba(16,42,67,.55) 65%);} 
-.hero>*{position:relative;z-index:1}
-.hero h1{font-size:clamp(1.9rem,4vw,2.6rem);font-weight:600;margin:0 0 .8rem}
-.hero p{font-size:clamp(1rem,1.2vw,1.15rem);max-width:680px;margin:0 0 1.25rem}
-.btn-primary{display:inline-block;padding:.65rem 1.4rem;border-radius:4px;background:var(--accent);color:#fff;text-decoration:none;font-weight:500;font-size:.9rem;transition:background .2s ease}
-.btn-primary:hover{background:#0d8eff}
+.year-section {
+  margin: 3em 0;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 2em;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
 
-/***** WRAPPER *****/
-.wrapper{max-width:980px;margin:0 auto;padding:0 1rem}
+.year-header {
+  color: #1B5E20;
+  font-size: 1.8em;
+  font-weight: 500;
+  margin-bottom: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 3px solid #e8f5e8;
+  text-align: center;
+}
 
-/***** FEATURE CARDS *****/
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.2rem;margin:0 0 2.5rem}
-.card{background:var(--surface);border-radius:6px;padding:1.4rem 1.25rem;box-shadow:var(--shadow);transition:transform .25s,box-shadow .25s}
-.card:hover{transform:translateY(-4px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
-.card h3{margin:0 0 .4rem;font-size:1.1rem;color:var(--deep-navy)}
-.card p{margin:0 0 1rem;font-size:.9rem;color:var(--text-muted)}
-.btn-sm{display:inline-block;padding:.45rem .9rem;border-radius:4px;background:var(--accent);color:#fff;text-decoration:none;font-size:.8rem;font-weight:500}
+.presentation-item {
+  margin: 1.8em 0;
+  padding: 1.5em;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #2E7D32;
+  transition: all 0.3s ease;
+}
 
-/***** SECTIONS *****/
-.section{background:var(--surface);border-radius:6px;margin:2.5rem 0;box-shadow:var(--shadow);padding:2rem}
-.section h2{margin-top:0;color:var(--deep-navy);font-size:1.35rem}
-.table-wrapper{overflow-x:auto}
-.table-wrapper table{width:100%;border-collapse:collapse;font-size:.9rem}
-.table-wrapper th,.table-wrapper td{padding:.65rem;border-bottom:1px solid #dfe2e5}
-.table-wrapper th{background:var(--bg-light);text-align:left;color:var(--deep-navy);font-weight:600}
+.presentation-item:hover {
+  background: #f0f7f0;
+  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.1);
+  transform: translateY(-1px);
+}
 
-/* Links color fix for dark mode */
-@media (prefers-color-scheme: dark){
-  a{color:#4dabff;}
-  .card h3{color:#cfe0ff}
-  .section h2{color:#cfe0ff}
+.presentation-title {
+  font-size: 1.1em;
+  font-weight: 500;
+  color: #1B5E20;
+  margin-bottom: 0.8em;
+  line-height: 1.4;
+}
+
+.conference-info {
+  color: #2E7D32;
+  margin-bottom: 0.5em;
+  font-weight: 500;
+  font-size: 1em;
+}
+
+.conference-location {
+  color: #666;
+  font-size: 0.95em;
+  font-style: italic;
+}
+
+.award-highlight {
+  margin-top: 0.8em;
+  padding: 0.5em 1em;
+  background: linear-gradient(135deg, #e8f5e8, #f1f8e9);
+  border-radius: 20px;
+  border: 1px solid #c8e6c9;
+  display: inline-block;
+}
+
+.award-text {
+  color: #1B5E20;
+  font-weight: 500;
+  font-size: 0.9em;
+}
+
+.cv-link-section {
+  text-align: center;
+  margin: 3em 0;
+  padding: 2em;
+  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(27, 94, 32, 0.2);
+}
+
+.cv-link-section h3 {
+  color: white;
+  margin-bottom: 1em;
+  font-weight: 400;
+}
+
+.cv-link-section a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  transition: border-color 0.3s ease;
+}
+
+.cv-link-section a:hover {
+  border-bottom-color: white;
+}
+
+@media (max-width: 768px) {
+  .year-header { font-size: 1.5em; }
+  .presentation-item { padding: 1.2em; }
 }
 </style>
 
-<!-- ================= HERO ================= -->
-<div class="hero">
-  <h1>Economics of Climate Extremes &amp; Water Systems</h1>
-  <p>Applied econometrics &amp; high‑resolution climate data to inform resilient agriculture and water policy.</p>
-  <a class="btn-primary" href="/files/CV_Munib_Inam.pdf">Download CV ↗</a>
+<div class="publications-header">
+  <h2>Conference Presentations & Research Dissemination</h2>
+  <p>Selected presentations at major academic conferences in agricultural economics, environmental economics, and water resources research</p>
 </div>
 
-<div class="wrapper main">
+---
 
-<!-- FEATURE CARDS -->
-<div class="cards">
-  <div class="card">
-    <h3>Job‑Market Paper</h3>
-    <p>Measuring Extreme Weather &amp; U.S. Crop Yields</p>
-    <a class="btn-sm" href="/files/JMP_Munib_Inam.pdf">PDF ↗</a>
+<div class="year-section">
+  <div class="year-header">2025</div>
+  
+  <div class="presentation-item">
+    <div class="presentation-title">"Management and Policy Challenges in a Water-Scarce World: Part II Panel Discussion"</div>
+    <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
+    <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
-  <div class="card">
-    <h3>Extreme Weather &amp; Water Quality</h3>
-    <p>Climate shocks and drinking‑water violations</p>
-    <a class="btn-sm" href="/files/Water_Quality_Paper_Inam.pdf">PDF ↗</a>
+
+  <div class="presentation-item">
+    <div class="presentation-title">"The Effects of Drought and Extreme Precipitation on U.S. Corn Yields"</div>
+    <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
+    <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
-  <div class="card">
-    <h3>Housing Patterns &amp; Water Demand</h3>
-    <p>Residential lot size and drought‑era water use</p>
-    <a class="btn-sm" href="/files/Housing_Water_Demand_Inam.pdf">PDF ↗</a>
+
+  <div class="presentation-item">
+    <div class="presentation-title">"The Impacts of Weather Measurement Errors on Agricultural Productivity Estimates"</div>
+    <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
+    <div class="conference-location">Minneapolis, MN, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">"Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States"</div>
+    <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
+    <div class="conference-location">Irving, TX, United States</div>
+    <div class="award-highlight">
+      <div class="award-text">🏆 Job Market Paper Competition — First Place</div>
+    </div>
   </div>
 </div>
 
-<!-- MAIN SECTIONS -->
-
-<div class="section">
-<h2>Research Themes</h2>
-<div class="table-wrapper">
-<table>
-<thead><tr><th>Theme</th><th>Key Question</th><th>Methods</th></tr></thead>
-<tbody>
-<tr><td><strong>Climate Metrics &amp; Bias</strong></td><td>Do interpolation choices hide the true cost of heat?</td><td>Station vs. grid comparison, FE yield models</td></tr>
-<tr><td><strong>Water Quality Stress</strong></td><td>How do sub‑daily shocks trigger violations?</td><td>Rare‑events logit, hourly climate records</td></tr>
-<tr><td><strong>Water Demand &amp; Urban Form</strong></td><td>How do lot sizes shape drought‑era use?</td><td>Panel regressions, utility micro‑data</td></tr>
-</tbody>
-</table>
-</div>
+<div class="year-section">
+  <div class="year-header">2024</div>
+  
+  <div class="presentation-item">
+    <div class="presentation-title">"Measuring Extreme Weather and its Impact on Agriculture in Kentucky, USA"</div>
+    <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
+    <div class="conference-location">Atlanta, GA, United States</div>
+  </div>
 </div>
 
-<div class="section">
-<h2>Dissertation Chapters</h2>
-<ol>
-<li><strong>Measuring Extreme Weather &amp; Crop Yields</strong> — <em>Under review</em></li>
-<li><strong>Extreme Weather &amp; Drinking‑Water Quality</strong> — <em>Working paper</em></li>
-<li><strong>Housing Patterns &amp; Water Demand</strong> — <em>In preparation</em></li>
-</ol>
+<div class="year-section">
+  <div class="year-header">2023</div>
+  
+  <div class="presentation-item">
+    <div class="presentation-title">"Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use"</div>
+    <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
+    <div class="conference-location">Fort Collins, CO, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">"Heterogeneous Effects of Housing Lot Size Composition on Water Consumption: Evidence from Water Agencies in California"</div>
+    <div class="conference-info">Agricultural and Applied Economics Association Annual Meeting</div>
+    <div class="conference-location">Washington, DC, United States</div>
+  </div>
 </div>
 
-<div class="section">
-<h2>Teaching &amp; Mentoring</h2>
-<ul>
-<li><strong>Instructor</strong> — International Agriculture &amp; World Food Needs (AEC 309), 2024</li>
-<li><strong>TA</strong> — Environmental &amp; Resource Economics, 2022</li>
-</ul>
+<div class="year-section">
+  <div class="year-header">2022</div>
+  
+  <div class="presentation-item">
+    <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
+    <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
+    <div class="conference-location">Oklahoma City, OK, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
+    <div class="conference-info">John P. Wyatt, M.D. Environment and Health Symposium</div>
+    <div class="conference-location">Lexington, KY, United States</div>
+  </div>
 </div>
 
-<div class="section">
-<h2>Academic Pathway</h2>
-<ul>
-<li><strong>Ph.D. Agricultural Economics</strong>, Univ. of Kentucky (2020–25 exp.)</li>
-<li><strong>Visiting Scholar</strong>, UC Riverside (2022)</li>
-<li><strong>M.A. Economics</strong>, Vanderbilt University (2020)</li>
-<li><strong>B.S. Economics</strong>, NUST (2017)</li>
-</ul>
+---
+
+## Professional Conference Networks
+
+**Agricultural Economics**: Regular participant in the Southern Agricultural Economics Association (SAEA) and Agricultural and Applied Economics Association (AAEA), the premier professional organizations for agricultural economists in the United States.
+
+**Water Resources Research**: Active member of the Universities Council on Water Resources (UCOWR), an interdisciplinary organization advancing water research, education, and policy.
+
+**Environmental Economics**: Engaged with environmental and resource economics communities through presentations connecting climate science with economic analysis.
+
+---
+
+<div class="cv-link-section">
+  <h3>Complete Academic Record</h3>
+  <p style="margin-bottom: 1em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my curriculum vitae.</p>
+  <p style="margin: 0;">
+    <a href="https://cvws.icloud-content.com/B/ATs78tpzaLEBKoYgOEObtzMvxH-sAUHK-yoceI47c-k7TeHxaAG9rHcl/CV_Munib_July_2025.pdf?o=AlBnxfD1dHDsicQM9RqbmUDgWjFcwZjjICV8_hGVudzP&v=1&x=3&a=CAogfL4MehqePLoRfKNhrcfQrXwzaVIUzJbk-TJwaLUNpA8SbxDY9Yj_gzMY2NLkgIQzIgEAUgQvxH-sWgS9rHclaieli5j7scF9PRf2gYLzF7ZQtwDZfeNH46pcOTZ8vy1LyoH1tLxvR3lyJ2VfIxR4daXeO1NaSAXYvkvOqHQMLogRUtKimSJMIyNo7Hgz0mvivg&e=1753422047&fl=&r=2f0d23e5-e6c1-48da-b078-008e7c7bd0d4-1&k=oX_8ylzsCYhEDhjBSGqZKA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Xa7LVwoTfKYIFKJ2CSjKNxKpy08&cd=i" target="_blank">📄 Download Curriculum Vitae</a>
+  </p>
 </div>
 
-<div class="section">
-<h2>Honors</h2>
-<ul>
-<li>1st Place, Job‑Market Paper Competition — Southern AEA (2025)</li>
-<li>James S. &amp; Rosemary Worley Research Award — Vanderbilt (2020)</li>
-</ul>
-</div>
+---
 
-<div class="section">
-<h2>Technical Toolkit</h2>
-<ul>
-<li><strong>Econometrics:</strong> panel &amp; spatial models, causal inference</li>
-<li><strong>Programming:</strong> R, Python, Stata; SLURM HPC</li>
-<li><strong>Data:</strong> NOAA GHCN‑D, PRISM, USDA Quick Stats, EPA SDWIS</li>
-</ul>
-</div>
-
-<div class="section">
-<h2>Connect</h2>
-<p>Reach out via <a href="mailto:munib.inam@uky.edu">email</a> or <a href="https
+*Last updated: January 2025*
