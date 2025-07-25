@@ -1,83 +1,53 @@
-# -------------------------------------------------------------
-# Munib Inam — Personal Website (Jekyll / Minimal‑Mistakes)
-# Clean, well‑commented configuration
-# -------------------------------------------------------------
-
-# ──────────────────────────────────────────────────────────────
-#  Core Site Settings
-# ──────────────────────────────────────────────────────────────
+# Site Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast"
 locale: "en-US"
-
-# Identity
 title: "Munib Inam"
 title_separator: "-"
-name: "Munib Inam"
-# Short tagline used by search engines and social cards
-description: "PhD Candidate in Agricultural Economics at the University of Kentucky"
-
-# URL structure (leave baseurl empty for GitHub Pages user site)
-url: "https://munibinam.github.io"
+name: &name "Munib Inam"
+description: &description "PhD Candidate at the University of Kentucky"
+url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
-
-# Hero / social preview image
-teaser: "/images/profile2.jpg"
-
-# UX options
+teaser: /images/profile2.jpg
 breadcrumbs: false
 words_per_minute: 160
-
-# Search
 search: true
 search_full_content: true
-search_provider: "lunr"   # Options: lunr (default), algolia, google
+search_provider: lunr
 
-# ──────────────────────────────────────────────────────────────
-#  Comments (disabled by default)
-# ──────────────────────────────────────────────────────────────
+# Comments
 comments:
-  provider: false          # e.g. "disqus", "giscus" when enabled
+  provider: false
 
-# ──────────────────────────────────────────────────────────────
-#  SEO Verification tokens (optional)
-# ──────────────────────────────────────────────────────────────
-google_site_verification:
+# SEO Related
+google_site_verification: 
 bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
 
-# ──────────────────────────────────────────────────────────────
-#  Social Sharing & Open‑Graph
-# ──────────────────────────────────────────────────────────────
+# Social Sharing
 twitter:
-  username: ""             # your @handle (without the @)
-
+  username: 
 facebook:
-  username: ""
-  app_id: ""
-  publisher: ""
+  username: 
+  app_id:
+  publisher:
+og_image: /images/profile2.jpg
 
-og_image: "/images/profile2.jpg"
-
-# Schema.org person profile
+# For specifying social profiles
 social:
-  type: "Person"
+  type: Person
   name: "Munib Inam"
-  links: []                # populate with full URLs if desired
+  links: []
 
-# ──────────────────────────────────────────────────────────────
-#  Analytics (disabled)
-# ──────────────────────────────────────────────────────────────
+# Analytics
 analytics:
-  provider: false          # set to "google-gtag" and add ID to enable
+  provider: false  # Set to "google-gtag" when have tracking ID
   google:
-    tracking_id:
+    tracking_id: # 
 
-# ──────────────────────────────────────────────────────────────
-#  Author block (appears in sidebars / footers)
-# ──────────────────────────────────────────────────────────────
+# Site Author
 author:
   name: "Munib Inam"
   avatar: "/images/profile2.jpg"
@@ -94,18 +64,15 @@ author:
     - label: "Photography"
       icon: "fas fa-fw fa-camera"
       url: "https://500px.com/p/min233"
-    - label: "📄 CV"
+    - label: "📄 Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
       url: "/files/Inam_CV_2025.pdf"
 
-# ──────────────────────────────────────────────────────────────
-#  File Handling
-# ──────────────────────────────────────────────────────────────
+# Reading Files
 include:
   - .htaccess
   - _pages
   - files
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -130,131 +97,113 @@ exclude:
   - Rakefile
   - README
   - tmp
-
 keep_files:
   - .git
   - .svn
-
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# ──────────────────────────────────────────────────────────────
-#  Conversion Settings
-# ──────────────────────────────────────────────────────────────
-markdown: "kramdown"
-highlighter: "rouge"
+# Conversion
+markdown: kramdown
+highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Markdown Processing
 kramdown:
-  input: "GFM"
+  input: GFM
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
-  entity_output: "as_char"
+  entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: "lsquo,rsquo,ldquo,rdquo"
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# ──────────────────────────────────────────────────────────────
-#  Custom Collections
-# ──────────────────────────────────────────────────────────────
+# Collections
 collections:
   teaching:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: /:collection/:path/
 
-# ──────────────────────────────────────────────────────────────
-#  Defaults (layout, auth profile, share settings)
-# ──────────────────────────────────────────────────────────────
+# Defaults
 defaults:
-  # Posts
+  # _posts
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       read_time: true
       comments: false
       share: true
       related: true
-
-  # Pages
+  # _pages
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "single"
+      layout: single
       author_profile: true
-
-  # Teaching
+  # _teaching
   - scope:
       path: ""
-      type: "teaching"
+      type: teaching
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       share: true
       comments: false
-
-  # Publications
+  # _publications
   - scope:
       path: ""
-      type: "publications"
+      type: publications
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       share: true
       comments: false
-
-  # Portfolio
+  # _portfolio
   - scope:
       path: ""
-      type: "portfolio"
+      type: portfolio
     values:
-      layout: "single"
+      layout: single
       author_profile: true
       share: true
       comments: false
-
-  # Talks
+  # _talks
   - scope:
       path: ""
-      type: "talks"
+      type: talks
     values:
-      layout: "talk"
+      layout: talk
       author_profile: true
       share: true
 
-# ──────────────────────────────────────────────────────────────
-#  Styling
-# ──────────────────────────────────────────────────────────────
+# Sass/SCSS
 sass:
-  sass_dir: "_sass"
-  style: "compressed"
+  sass_dir: _sass
+  style: compressed
 
-# ──────────────────────────────────────────────────────────────
-#  Pagination & URLs
-# ──────────────────────────────────────────────────────────────
-permalink: "/:categories/:title/"
+# Outputting
+permalink: /:categories/:title/
 paginate: 5
-paginate_path: "/page:num/"
-timezone: "America/Kentucky/Louisville"
+paginate_path: /page:num/
+timezone: America/Kentucky/Louisville
 
-# ──────────────────────────────────────────────────────────────
-#  Plugins (GitHub‑Pages compatible)
-# ──────────────────────────────────────────────────────────────
+# Plugins (GitHub Pages compatible)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -262,28 +211,21 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# ──────────────────────────────────────────────────────────────
-#  Archive pages
-# ──────────────────────────────────────────────────────────────
+# Archives
 category_archive:
-  type: "liquid"
-  path: "/categories/"
-
+  type: liquid
+  path: /categories/
 tag_archive:
-  type: "liquid"
-  path: "/tags/"
+  type: liquid
+  path: /tags/
 
-# ──────────────────────────────────────────────────────────────
-#  HTML Compression
-# ──────────────────────────────────────────────────────────────
+# HTML Compression
 compress_html:
-  clippings: "all"
+  clippings: all
   ignore:
-    envs: "development"
+    envs: development
 
-# ──────────────────────────────────────────────────────────────
-#  Atom Feed
-# ──────────────────────────────────────────────────────────────
+# Atom feed
 atom_feed:
-  path:       # leave blank to use /feed.xml
+  path: # blank (default) uses feed.xml
   hide: false
