@@ -221,10 +221,9 @@ toc_icon: "calendar"
 ---
 
 <div class="cv-link-section">
-  <h3>Complete Academic Record</h3>
-  <p style="margin-bottom: 1em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my curriculum vitae.</p>
+  <p style="margin-bottom: 1em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
   <p style="margin: 0;">
-    <a href="https://cvws.icloud-content.com/B/ATs78tpzaLEBKoYgOEObtzMvxH-sAUHK-yoceI47c-k7TeHxaAG9rHcl/CV_Munib_July_2025.pdf?o=AlBnxfD1dHDsicQM9RqbmUDgWjFcwZjjICV8_hGVudzP&v=1&x=3&a=CAogfL4MehqePLoRfKNhrcfQrXwzaVIUzJbk-TJwaLUNpA8SbxDY9Yj_gzMY2NLkgIQzIgEAUgQvxH-sWgS9rHclaieli5j7scF9PRf2gYLzF7ZQtwDZfeNH46pcOTZ8vy1LyoH1tLxvR3lyJ2VfIxR4daXeO1NaSAXYvkvOqHQMLogRUtKimSJMIyNo7Hgz0mvivg&e=1753422047&fl=&r=2f0d23e5-e6c1-48da-b078-008e7c7bd0d4-1&k=oX_8ylzsCYhEDhjBSGqZKA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=124&s=Xa7LVwoTfKYIFKJ2CSjKNxKpy08&cd=i" target="_blank">📄 Download Curriculum Vitae</a>
+    <a href="https://munibinam.github.io/files/Inam_CV_2025.pdf" target="_blank">📄 Download Curriculum Vitae</a>
   </p>
 </div>
 
