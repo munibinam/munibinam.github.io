@@ -4,7 +4,7 @@ title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_color: "#1B5E20"
+  overlay_color: "#18468D"
   overlay_filter: 0.4
 toc: true
 toc_label: "Years"
@@ -14,15 +14,15 @@ toc_icon: "calendar"
 <style>
 .publications-header {
   text-align: center;
-  margin: 2em 0;
-  padding: 2em;
-  background: linear-gradient(135deg, #f8f9fa, #e8f5e8);
-  border-radius: 10px;
+  margin: 1.5em 0;
+  padding: 1.5em;
+  background: linear-gradient(135deg, #f8f9fa, #dbeafe);
+  border-radius: 8px;
   border: 1px solid #e0e0e0;
 }
 
 .publications-header h2 {
-  color: #1B5E20;
+  color: #18468D;
   margin-bottom: 0.5em;
   font-weight: 400;
 }
@@ -35,88 +35,88 @@ toc_icon: "calendar"
 }
 
 .year-section {
-  margin: 3em 0;
+  margin: 2em 0;
   background: #ffffff;
-  border-radius: 10px;
-  padding: 2em;
+  border-radius: 8px;
+  padding: 1.5em;
   border: 1px solid #e0e0e0;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
 }
 
 .year-header {
-  color: #1B5E20;
-  font-size: 1.8em;
+  color: #18468D;
+  font-size: 1.6em;
   font-weight: 500;
-  margin-bottom: 2em;
-  padding-bottom: 0.5em;
-  border-bottom: 3px solid #e8f5e8;
+  margin-bottom: 1.5em;
+  padding-bottom: 0.4em;
+  border-bottom: 3px solid #dbeafe;
   text-align: center;
 }
 
 .presentation-item {
-  margin: 1.8em 0;
-  padding: 1.5em;
+  margin: 1.3em 0;
+  padding: 1.2em;
   background: #f8f9fa;
-  border-radius: 8px;
-  border-left: 4px solid #2E7D32;
+  border-radius: 6px;
+  border-left: 4px solid #3b82f6;
   transition: all 0.3s ease;
 }
 
 .presentation-item:hover {
-  background: #f0f7f0;
-  box-shadow: 0 4px 12px rgba(46, 125, 50, 0.1);
+  background: #f0f8ff;
+  box-shadow: 0 3px 10px rgba(59, 130, 246, 0.1);
   transform: translateY(-1px);
 }
 
 .presentation-title {
-  font-size: 1.1em;
+  font-size: 1.05em;
   font-weight: 500;
-  color: #1B5E20;
-  margin-bottom: 0.8em;
+  color: #18468D;
+  margin-bottom: 0.7em;
   line-height: 1.4;
 }
 
 .conference-info {
-  color: #2E7D32;
-  margin-bottom: 0.5em;
+  color: #3b82f6;
+  margin-bottom: 0.4em;
   font-weight: 500;
-  font-size: 1em;
+  font-size: 0.95em;
 }
 
 .conference-location {
   color: #666;
-  font-size: 0.95em;
+  font-size: 0.9em;
   font-style: italic;
 }
 
 .award-highlight {
-  margin-top: 0.8em;
-  padding: 0.5em 1em;
-  background: linear-gradient(135deg, #e8f5e8, #f1f8e9);
-  border-radius: 20px;
-  border: 1px solid #c8e6c9;
+  margin-top: 0.7em;
+  padding: 0.4em 0.8em;
+  background: linear-gradient(135deg, #dbeafe, #f0f9ff);
+  border-radius: 15px;
+  border: 1px solid #93c5fd;
   display: inline-block;
 }
 
 .award-text {
-  color: #1B5E20;
+  color: #18468D;
   font-weight: 500;
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .cv-link-section {
   text-align: center;
-  margin: 3em 0;
-  padding: 2em;
-  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  margin: 2em 0;
+  padding: 1.5em;
+  background: linear-gradient(135deg, #18468D, #3b82f6);
   color: white;
-  border-radius: 10px;
-  box-shadow: 0 6px 20px rgba(27, 94, 32, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(24, 70, 141, 0.15);
 }
 
 .cv-link-section h3 {
   color: white;
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
   font-weight: 400;
 }
 
@@ -133,8 +133,8 @@ toc_icon: "calendar"
 }
 
 @media (max-width: 768px) {
-  .year-header { font-size: 1.5em; }
-  .presentation-item { padding: 1.2em; }
+  .year-header { font-size: 1.4em; }
+  .presentation-item { padding: 1em; }
 }
 </style>
 
@@ -221,7 +221,7 @@ toc_icon: "calendar"
 ---
 
 <div class="cv-link-section">
-  <p style="margin-bottom: 1em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
+  <p style="margin-bottom: 0.8em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
   <p style="margin: 0;">
     <a href="https://munibinam.github.io/files/Inam_CV_2025.pdf" target="_blank">📄 Download Curriculum Vitae</a>
   </p>
