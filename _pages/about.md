@@ -1,7 +1,7 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/484dfdbd-c563-4dfd-8c28-a70e0ba5c14a" />---
 permalink: /
 title: "Munib Inam"
-excerpt: "PhD Candidate in Agricultural Economics at the University of Kentucky"
+excerpt: "PhD Candidate - University of Kentucky"
 author_profile: true
 redirect_from: 
   - /about/
@@ -195,8 +195,8 @@ classes: wide
 </style>
 
 <div class="research-hero">
-  <h1>Climate Economics & Agricultural Resilience</h1>
-  <p>Advancing methodological approaches to understand extreme weather impacts on agricultural productivity and water resources</p>
+  <h1>Climate • Agriculture • Water</h1>
+  <p>Measuring the impact of weather extremes on agricultural productivity and water resources.</p>
 </div>
 
 ## Research Overview
