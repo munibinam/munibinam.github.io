@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_color: "#1B5E20"
+  overlay_color: "#1e3a8a"
   overlay_filter: 0.4
   actions:
     - label: "📊 Research Papers"
@@ -20,13 +20,13 @@ classes: wide
 
 <style>
 .research-hero {
-  background: linear-gradient(135deg, #1B5E20 0%, #2E7D32 50%, #388E3C 100%);
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #60a5fa 100%);
   color: white;
   padding: 3em 2em;
   border-radius: 12px;
   text-align: center;
   margin: 2em 0;
-  box-shadow: 0 8px 30px rgba(27, 94, 32, 0.25);
+  box-shadow: 0 8px 30px rgba(30, 58, 138, 0.25);
 }
 
 .research-hero h1 {
@@ -50,20 +50,20 @@ classes: wide
   text-align: center;
   margin: 3em 0;
   padding: 2em;
-  background: linear-gradient(135deg, #f8f9fa, #e8f5e8);
+  background: linear-gradient(135deg, #f8f9fa, #dbeafe);
   border-radius: 10px;
   border: 1px solid #e0e0e0;
 }
 
 .focus-areas h2 {
-  color: #1B5E20;
+  color: #1e3a8a;
   margin-bottom: 1em;
   font-weight: 400;
 }
 
 .focus-fields {
   font-size: 1.1em;
-  color: #2E7D32;
+  color: #3b82f6;
   font-weight: 500;
   letter-spacing: 0.5px;
 }
@@ -85,7 +85,7 @@ classes: wide
 
 .chapter-link {
   display: inline-block;
-  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
   color: white !important;
   padding: 0.8em 1.8em;
   border-radius: 6px;
@@ -93,19 +93,19 @@ classes: wide
   font-weight: 500;
   margin-bottom: 1.2em;
   transition: all 0.3s ease;
-  box-shadow: 0 3px 12px rgba(27, 94, 32, 0.3);
+  box-shadow: 0 3px 12px rgba(30, 58, 138, 0.3);
   font-size: 0.95em;
 }
 
 .chapter-link:hover {
   transform: translateY(-1px);
-  box-shadow: 0 5px 16px rgba(27, 94, 32, 0.4);
-  background: linear-gradient(135deg, #0d4e1c, #1B5E20);
+  box-shadow: 0 5px 16px rgba(30, 58, 138, 0.4);
+  background: linear-gradient(135deg, #1e40af, #1e3a8a);
 }
 
 .chapter-title {
   font-size: 1.25em;
-  color: #1B5E20;
+  color: #1e3a8a;
   margin-bottom: 1.2em;
   font-weight: 500;
   line-height: 1.4;
@@ -113,14 +113,14 @@ classes: wide
 
 .status-badge {
   display: inline-block;
-  background: #e8f5e8;
-  color: #1B5E20;
+  background: #dbeafe;
+  color: #1e3a8a;
   padding: 0.4em 1em;
   border-radius: 20px;
   font-size: 0.85em;
   font-weight: 500;
   margin-top: 1em;
-  border: 1px solid #c8e6c9;
+  border: 1px solid #93c5fd;
 }
 
 .background-section {
@@ -132,7 +132,7 @@ classes: wide
 }
 
 .background-section h3 {
-  color: #1B5E20;
+  color: #1e3a8a;
   margin-bottom: 1.5em;
   font-weight: 500;
 }
@@ -147,13 +147,13 @@ classes: wide
 }
 
 .connect-section {
-  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
   color: white;
   padding: 2.5em;
   border-radius: 10px;
   text-align: center;
   margin: 3em 0;
-  box-shadow: 0 8px 25px rgba(27, 94, 32, 0.2);
+  box-shadow: 0 8px 25px rgba(30, 58, 138, 0.2);
 }
 
 .connect-section h3 {
@@ -292,7 +292,7 @@ Outside academia, I am an avid runner and photographer, and enjoy exploring new 
 ---
 
 <div class="connect-section">
-  <h3>Let's Collaborate</h3>
+  <h3>Let's Connect</h3>
   <p>I welcome opportunities to discuss research collaborations or policy applications of my work. Whether you are a fellow researcher, policy analyst, or anyone interested in my work, I would be glad to connect.</p>
   
   <div class="connect-links">
