@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/484dfdbd-c563-4dfd-8c28-a70e0ba5c14a" />---
+---
 permalink: /
 title: "Munib Inam"
 excerpt: "PhD Candidate at the University of Kentucky"
