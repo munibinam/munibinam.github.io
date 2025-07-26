@@ -201,9 +201,9 @@ classes: wide
 
 ## Research Overview
 
-I am a PhD candidate in Agricultural Economics at the University of Kentucky, investigating the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate assessments to inform agricultural policy, risk management, and climate adaptation strategies.
+I am a PhD candidate in Agricultural Economics at the University of Kentucky, looking at the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform agricultural policy, risk management, and climate adaptation strategies.
 
-Through interdisciplinary collaboration and rigorous econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing climate extremes.
+Through interdisciplinary collaboration and econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing weather extremes.
 
 <div style="text-align: center; margin: 3em 0;">
   <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.1); border: 1px solid #e0e0e0;">
@@ -215,9 +215,9 @@ Through interdisciplinary collaboration and rigorous econometric analysis, my wo
 ---
 
 <div class="focus-areas">
-  <h2>Research Specializations</h2>
+  <h2>Research Fields</h2>
   <div class="focus-fields">
-    Applied Econometrics • Environmental & Resource Economics • Agricultural Production Economics
+    Applied Econometrics • Environmental & Resource Economics • Agricultural & Production Economics
   </div>
 </div>
 
@@ -225,7 +225,7 @@ Through interdisciplinary collaboration and rigorous econometric analysis, my wo
 
 ## Dissertation Research
 
-My dissertation examines how methodological choices in measuring extreme weather events can systematically bias our understanding of climate impacts on agricultural and water systems:
+My dissertation explores how weather extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section" id="dissertation-research">
   <a href="/files/Job_market_paper_2025.pdf" class="chapter-link" target="_blank">
@@ -233,7 +233,7 @@ My dissertation examines how methodological choices in measuring extreme weather
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
   
-  This research demonstrates that conventional approaches to measuring extreme weather impacts on agriculture may systematically underestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I reveal significant biases that affect crop insurance assessments, climate impact modeling, and agricultural policy decisions.
+  This research shows that conventional approaches to measuring extreme weather impacts on agriculture may systematically misestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I show that there are significant biases that affect yield estimates when we look at the impact of extreme weather on productivity.
 
   <div class="status-badge">Under Review • Job Market Paper</div>
 </div>
@@ -244,7 +244,7 @@ My dissertation examines how methodological choices in measuring extreme weather
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
   
-  This study examines the relationship between extreme weather events and drinking water quality violations across the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I quantify how sub-daily weather extremes compromise water infrastructure and develop early warning indicators for water utility managers.
+  This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.
 
   <div class="status-badge">Working Paper</div>
 </div>
@@ -256,15 +256,15 @@ My dissertation examines how methodological choices in measuring extreme weather
   </a>
   <div class="chapter-title">Housing Development Patterns and Residential Water Demand in California</div>
   
-  This research investigates how California's changing demographic composition affects residential water consumption, particularly during drought periods. Utilizing unique datasets from California water agencies, I examine how the shift toward larger residential lots in drier, hotter inland areas influences aggregate water demand and evaluate the effectiveness of targeted conservation policies.
+  California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
-  <div class="status-badge">Working Paper • In Preparation</div>
+  <div class="status-badge">Working Paper</div>
 </div>
 
 ---
 
 <div class="background-section">
-  <h3>🎓 Academic Background</h3>
+  <h3>Academic Background</h3>
   <ul>
     <li><strong>PhD in Agricultural Economics</strong> (2020–present) — University of Kentucky</li>
     <li><strong>Visiting Graduate Student</strong> (2022) — University of California, Riverside</li>
@@ -272,14 +272,14 @@ My dissertation examines how methodological choices in measuring extreme weather
     <li><strong>B.S. in Economics</strong> (2017) — National University of Sciences and Technology</li>
   </ul>
 
-  <h3>🔬 Technical Expertise</h3>
+  <h3>Technical Skills</h3>
   <ul>
     <li><strong>Econometric Methods:</strong> Panel data analysis, spatial econometrics, causal inference, difference-in-differences</li>
     <li><strong>Programming & Software:</strong> R, Python, Stata, ArcGIS, high-performance computing clusters</li>
-    <li><strong>Data Management:</strong> Large-scale climate datasets (PRISM, NOAA), agricultural surveys, EPA environmental monitoring data</li>
+    <li><strong>Data Management:</strong> Large-scale climate datasets (PRISM, NOAA), agricultural surveys (NASS), EPA environmental monitoring data</li>
   </ul>
 
-  <h3>🌍 Research Philosophy</h3>
+  <h3>Research Philosophy</h3>
   <p>My approach to research emphasizes methodological rigor in service of real-world policy applications. I believe that advancing our understanding of climate-economy interactions requires not only sophisticated analytical techniques but also careful attention to how measurement choices affect the conclusions we draw and the policies we recommend.</p>
 </div>
 
@@ -287,13 +287,13 @@ My dissertation examines how methodological choices in measuring extreme weather
 
 ## Personal Interests
 
-Beyond academic research, I am an avid runner and photographer. I have completed multiple marathons and half-marathons, experiences that have taught me the value of persistence and long-term goal setting—qualities that serve me well in research. Photography allows me to capture and appreciate the landscapes that are central to my academic work, providing a different perspective on the agricultural and natural systems I study. You can view my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
+Outside academia, I am an avid runner and photographer, and enjoy exploring new places and landscapes. Both photography and running have taught me patience, persistence, and the importance of seeing the bigger picture, skills that I try to incorporate into my research work. You can see some of my photos [here](https://500px.com/p/min233){:target="_blank"}.
 
 ---
 
 <div class="connect-section">
-  <h3>Academic Collaboration</h3>
-  <p>I welcome opportunities to discuss research collaborations, methodological approaches, or policy applications of my work. Whether you are a fellow researcher, policy analyst, or practitioner interested in climate adaptation, I would be pleased to connect.</p>
+  <h3>Let's Collaborate</h3>
+  <p>I welcome opportunities to discuss research collaborations or policy applications of my work. Whether you are a fellow researcher, policy analyst, or anyone interested in my work, I would be glad to connect.</p>
   
   <div class="connect-links">
     <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
@@ -305,4 +305,4 @@ Beyond academic research, I am an avid runner and photographer. I have completed
 
 ---
 
-*Last updated: January 2025*
+*Last updated: July 2025*
