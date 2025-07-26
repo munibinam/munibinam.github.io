@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications & Presentations"
+title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
 header:
@@ -139,8 +139,8 @@ toc_icon: "calendar"
 </style>
 
 <div class="publications-header">
-  <h2>Conference Presentations & Research Dissemination</h2>
-  <p>Selected presentations at major academic conferences in agricultural economics, environmental economics, and water resources research</p>
+  <h2>Conference Presentations and Research Work</h2>
+  <p>Selected presentations at key academic conferences in agricultural economics, environmental and resource economics</p>
 </div>
 
 ---
@@ -220,16 +220,6 @@ toc_icon: "calendar"
 
 ---
 
-## Professional Conference Networks
-
-**Agricultural Economics**: Regular participant in the Southern Agricultural Economics Association (SAEA) and Agricultural and Applied Economics Association (AAEA), the premier professional organizations for agricultural economists in the United States.
-
-**Water Resources Research**: Active member of the Universities Council on Water Resources (UCOWR), an interdisciplinary organization advancing water research, education, and policy.
-
-**Environmental Economics**: Engaged with environmental and resource economics communities through presentations connecting climate science with economic analysis.
-
----
-
 <div class="cv-link-section">
   <h3>Complete Academic Record</h3>
   <p style="margin-bottom: 1em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my curriculum vitae.</p>
@@ -240,4 +230,4 @@ toc_icon: "calendar"
 
 ---
 
-*Last updated: January 2025*
+*Last updated: July 2025*
