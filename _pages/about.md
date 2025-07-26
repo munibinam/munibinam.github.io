@@ -239,7 +239,7 @@ My dissertation examines how methodological choices in measuring extreme weather
 </div>
 
 <div class="chapter-section">
-  <a href="/files/Water_Quality_2025.pdf">
+  <a href="/files/Water_Quality_2025.pdf"_blank">
     Chapter 2
   </a>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
@@ -250,7 +250,7 @@ My dissertation examines how methodological choices in measuring extreme weather
 </div>
 
 <div class="chapter-section">
-  <a href="#" class="chapter-link" onclick="alert('Chapter 3 manuscript available upon request'); return false;">
+  <a href="/files/Lot_size_2025.pdf"_blank">
     Chapter 3
   </a>
   <div class="chapter-title">Housing Development Patterns and Residential Water Demand in California</div>
