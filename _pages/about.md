@@ -1,166 +1,307 @@
 ---
-layout: single
 permalink: /
-title: "Munib Inam"
+title: "Munib Inam"
+excerpt: "PhD Candidate in Agricultural Economics at the University of Kentucky"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+header:
+  overlay_color: "#1B5E20"
+  overlay_filter: 0.4
+  actions:
+    - label: "📊 Research Papers"
+      url: "#dissertation-research"
+      class: "btn--primary btn--large"
+    - label: "📄 Curriculum Vitae"
+      url: "/files/Inam_CV_2025.pdf"
 classes: wide
-read_time: false
 ---
 
-<!-- ==============  GLOBAL STYLES  ============== -->
 <style>
-:root {
-  --deep-navy: #102A43;
-  --accent:    #0A7BD9;
-  --surface:   #FFFFFF;
-  --bg-light:  #F5F7FA;
-  --text-main: #1F2933;
-  --text-muted:#5F6C7B;
-  --shadow:    0 3px 12px rgba(0,0,0,.08);
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --surface:#17263C;
-    --bg-light:#0D1928;
-    --text-main:#D4E1F2;
-    --text-muted:#91A1B4;
-    --shadow:0 3px 12px rgba(0,0,0,.45);
-  }
+.research-hero {
+  background: linear-gradient(135deg, #1B5E20 0%, #2E7D32 50%, #388E3C 100%);
+  color: white;
+  padding: 3em 2em;
+  border-radius: 12px;
+  text-align: center;
+  margin: 2em 0;
+  box-shadow: 0 8px 30px rgba(27, 94, 32, 0.25);
 }
 
-html,body{height:100%;margin:0;background:var(--bg-light);color:var(--text-main);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
+.research-hero h1 {
+  font-size: 2.3em;
+  margin-bottom: 0.5em;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  font-weight: 300;
+  letter-spacing: 1px;
+}
 
-/* Sticky footer layout */
-body{display:flex;flex-direction:column;}
-.main{flex:1 0 auto;}  /* wrapper */
-.site-footer{flex-shrink:0;background:var(--deep-navy);color:#fff;text-align:center;padding:1.5rem 1rem;margin-top:3rem;font-size:.85rem}
-.site-footer a{color:#8cd2ff;text-decoration:none}
-.site-footer a:hover{text-decoration:underline}
+.research-hero p {
+  font-size: 1.2em;
+  opacity: 0.95;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+  font-weight: 300;
+}
 
-/***** HERO *****/
-.hero{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:260px;text-align:center;color:#fff;background:url('/images/banner_cornfield_dawn.jpg') center/cover no-repeat;margin-bottom:2rem;}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(120deg,var(--deep-navy) 0%,rgba(16,42,67,.55) 65%);} 
-.hero>*{position:relative;z-index:1}
-.hero h1{font-size:clamp(1.9rem,4vw,2.6rem);font-weight:600;margin:0 0 .8rem}
-.hero p{font-size:clamp(1rem,1.2vw,1.15rem);max-width:680px;margin:0 0 1.25rem}
-.btn-primary{display:inline-block;padding:.65rem 1.4rem;border-radius:4px;background:var(--accent);color:#fff;text-decoration:none;font-weight:500;font-size:.9rem;transition:background .2s ease}
-.btn-primary:hover{background:#0d8eff}
+.focus-areas {
+  text-align: center;
+  margin: 3em 0;
+  padding: 2em;
+  background: linear-gradient(135deg, #f8f9fa, #e8f5e8);
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+}
 
-/***** WRAPPER *****/
-.wrapper{max-width:980px;margin:0 auto;padding:0 1rem}
+.focus-areas h2 {
+  color: #1B5E20;
+  margin-bottom: 1em;
+  font-weight: 400;
+}
 
-/***** FEATURE CARDS *****/
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.2rem;margin:0 0 2.5rem}
-.card{background:var(--surface);border-radius:6px;padding:1.4rem 1.25rem;box-shadow:var(--shadow);transition:transform .25s,box-shadow .25s}
-.card:hover{transform:translateY(-4px);box-shadow:0 6px 18px rgba(0,0,0,.12)}
-.card h3{margin:0 0 .4rem;font-size:1.1rem;color:var(--deep-navy)}
-.card p{margin:0 0 1rem;font-size:.9rem;color:var(--text-muted)}
-.btn-sm{display:inline-block;padding:.45rem .9rem;border-radius:4px;background:var(--accent);color:#fff;text-decoration:none;font-size:.8rem;font-weight:500}
+.focus-fields {
+  font-size: 1.1em;
+  color: #2E7D32;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
 
-/***** SECTIONS *****/
-.section{background:var(--surface);border-radius:6px;margin:2.5rem 0;box-shadow:var(--shadow);padding:2rem}
-.section h2{margin-top:0;color:var(--deep-navy);font-size:1.35rem}
-.table-wrapper{overflow-x:auto}
-.table-wrapper table{width:100%;border-collapse:collapse;font-size:.9rem}
-.table-wrapper th,.table-wrapper td{padding:.65rem;border-bottom:1px solid #dfe2e5}
-.table-wrapper th{background:var(--bg-light);text-align:left;color:var(--deep-navy);font-weight:600}
+.chapter-section {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 2.5em;
+  margin: 2em 0;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
 
-/* Links color fix for dark mode */
-@media (prefers-color-scheme: dark){
-  a{color:#4dabff;}
-  .card h3{color:#cfe0ff}
-  .section h2{color:#cfe0ff}
+.chapter-section:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.chapter-link {
+  display: inline-block;
+  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  color: white !important;
+  padding: 0.8em 1.8em;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-weight: 500;
+  margin-bottom: 1.2em;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 12px rgba(27, 94, 32, 0.3);
+  font-size: 0.95em;
+}
+
+.chapter-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 16px rgba(27, 94, 32, 0.4);
+  background: linear-gradient(135deg, #0d4e1c, #1B5E20);
+}
+
+.chapter-title {
+  font-size: 1.25em;
+  color: #1B5E20;
+  margin-bottom: 1.2em;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.status-badge {
+  display: inline-block;
+  background: #e8f5e8;
+  color: #1B5E20;
+  padding: 0.4em 1em;
+  border-radius: 20px;
+  font-size: 0.85em;
+  font-weight: 500;
+  margin-top: 1em;
+  border: 1px solid #c8e6c9;
+}
+
+.background-section {
+  background: linear-gradient(135deg, #f8f9fa, #ffffff);
+  padding: 2.5em;
+  border-radius: 10px;
+  margin: 3em 0;
+  border: 1px solid #e0e0e0;
+}
+
+.background-section h3 {
+  color: #1B5E20;
+  margin-bottom: 1.5em;
+  font-weight: 500;
+}
+
+.background-section ul {
+  margin-bottom: 1.5em;
+}
+
+.background-section li {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+
+.connect-section {
+  background: linear-gradient(135deg, #1B5E20, #2E7D32);
+  color: white;
+  padding: 2.5em;
+  border-radius: 10px;
+  text-align: center;
+  margin: 3em 0;
+  box-shadow: 0 8px 25px rgba(27, 94, 32, 0.2);
+}
+
+.connect-section h3 {
+  color: white;
+  margin-bottom: 1.2em;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.connect-section p {
+  margin-bottom: 1.5em;
+  font-size: 1.05em;
+  line-height: 1.6;
+  opacity: 0.95;
+}
+
+.connect-links {
+  font-size: 1em;
+  line-height: 1.8;
+}
+
+.connect-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  transition: border-color 0.3s ease;
+}
+
+.connect-links a:hover {
+  border-bottom-color: white;
+}
+
+@media (max-width: 768px) {
+  .research-hero h1 { font-size: 1.8em; }
+  .research-hero p { font-size: 1.1em; }
+  .chapter-section { padding: 1.8em; }
 }
 </style>
 
-<!-- ================= HERO ================= -->
-<div class="hero">
-  <h1>Economics of Climate Extremes &amp; Water Systems</h1>
-  <p>Applied econometrics &amp; high‑resolution climate data to inform resilient agriculture and water policy.</p>
-  <a class="btn-primary" href="/files/CV_Munib_Inam.pdf">Download CV ↗</a>
+<div class="research-hero">
+  <h1>Climate Economics & Agricultural Resilience</h1>
+  <p>Advancing methodological approaches to understand extreme weather impacts on agricultural productivity and water resources</p>
 </div>
 
-<div class="wrapper main">
+## Research Overview
 
-<!-- FEATURE CARDS -->
-<div class="cards">
-  <div class="card">
-    <h3>Job‑Market Paper</h3>
-    <p>Measuring Extreme Weather &amp; U.S. Crop Yields</p>
-    <a class="btn-sm" href="/files/JMP_Munib_Inam.pdf">PDF ↗</a>
+I am a PhD candidate in Agricultural Economics at the University of Kentucky, investigating the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate assessments to inform agricultural policy, risk management, and climate adaptation strategies.
+
+Through interdisciplinary collaboration and rigorous econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing climate extremes.
+
+<div style="text-align: center; margin: 3em 0;">
+  <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.1); border: 1px solid #e0e0e0;">
+  <p style="font-style: italic; color: #666; margin-top: 1em; font-size: 0.9em;">
+    <strong>Figure:</strong> Projected changes in extreme weather frequency and intensity under different warming scenarios. <em>Source: IPCC (2021)</em>
+  </p>
+</div>
+
+---
+
+<div class="focus-areas">
+  <h2>Research Specializations</h2>
+  <div class="focus-fields">
+    Applied Econometrics • Environmental & Resource Economics • Agricultural Production Economics
   </div>
-  <div class="card">
-    <h3>Extreme Weather &amp; Water Quality</h3>
-    <p>Climate shocks and drinking‑water violations</p>
-    <a class="btn-sm" href="/files/Water_Quality_Paper_Inam.pdf">PDF ↗</a>
+</div>
+
+---
+
+## Dissertation Research
+
+My dissertation examines how methodological choices in measuring extreme weather events can systematically bias our understanding of climate impacts on agricultural and water systems:
+
+<div class="chapter-section" id="dissertation-research">
+  <a href="/files/Job_market_paper_2025.pdf" class="chapter-link" target="_blank">
+    Chapter 1 (Job Market Paper)
+  </a>
+  <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
+  
+  This research demonstrates that conventional approaches to measuring extreme weather impacts on agriculture may systematically underestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I reveal significant biases that affect crop insurance assessments, climate impact modeling, and agricultural policy decisions.
+
+  <div class="status-badge">Under Review • Job Market Paper</div>
+</div>
+
+<div class="chapter-section">
+  <a href="/files/Water_Quality_2025.pdf">
+    Chapter 2
+  </a>
+  <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
+  
+  This study examines the relationship between extreme weather events and drinking water quality violations across the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I quantify how sub-daily weather extremes compromise water infrastructure and develop early warning indicators for water utility managers.
+
+  <div class="status-badge">Working Paper</div>
+</div>
+
+<div class="chapter-section">
+  <a href="#" class="chapter-link" onclick="alert('Chapter 3 manuscript available upon request'); return false;">
+    Chapter 3
+  </a>
+  <div class="chapter-title">Housing Development Patterns and Residential Water Demand in California</div>
+  
+  This research investigates how California's changing demographic composition affects residential water consumption, particularly during drought periods. Utilizing unique datasets from California water agencies, I examine how the shift toward larger residential lots in drier, hotter inland areas influences aggregate water demand and evaluate the effectiveness of targeted conservation policies.
+
+  <div class="status-badge">Working Paper • In Preparation</div>
+</div>
+
+---
+
+<div class="background-section">
+  <h3>🎓 Academic Background</h3>
+  <ul>
+    <li><strong>PhD in Agricultural Economics</strong> (2020–present) — University of Kentucky</li>
+    <li><strong>Visiting Graduate Student</strong> (2022) — University of California, Riverside</li>
+    <li><strong>M.A. in Economics</strong> (2020) — Vanderbilt University</li>
+    <li><strong>B.S. in Economics</strong> (2017) — National University of Sciences and Technology</li>
+  </ul>
+
+  <h3>🔬 Technical Expertise</h3>
+  <ul>
+    <li><strong>Econometric Methods:</strong> Panel data analysis, spatial econometrics, causal inference, difference-in-differences</li>
+    <li><strong>Programming & Software:</strong> R, Python, Stata, ArcGIS, high-performance computing clusters</li>
+    <li><strong>Data Management:</strong> Large-scale climate datasets (PRISM, NOAA), agricultural surveys, EPA environmental monitoring data</li>
+  </ul>
+
+  <h3>🌍 Research Philosophy</h3>
+  <p>My approach to research emphasizes methodological rigor in service of real-world policy applications. I believe that advancing our understanding of climate-economy interactions requires not only sophisticated analytical techniques but also careful attention to how measurement choices affect the conclusions we draw and the policies we recommend.</p>
+</div>
+
+---
+
+## Personal Interests
+
+Beyond academic research, I am an avid runner and photographer. I have completed multiple marathons and half-marathons, experiences that have taught me the value of persistence and long-term goal setting—qualities that serve me well in research. Photography allows me to capture and appreciate the landscapes that are central to my academic work, providing a different perspective on the agricultural and natural systems I study. You can view my photography portfolio [here](https://500px.com/p/min233){:target="_blank"}.
+
+---
+
+<div class="connect-section">
+  <h3>Academic Collaboration</h3>
+  <p>I welcome opportunities to discuss research collaborations, methodological approaches, or policy applications of my work. Whether you are a fellow researcher, policy analyst, or practitioner interested in climate adaptation, I would be pleased to connect.</p>
+  
+  <div class="connect-links">
+    <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
+    <strong>Office:</strong> 339 Charles E. Barnhart Building, University of Kentucky<br>
+    <strong>Address:</strong> 1398 Nicholasville Road, Lexington, KY 40546<br>
+    <strong>Department:</strong> <a href="https://agecon.ca.uky.edu/" target="_blank">Agricultural Economics, University of Kentucky</a>
   </div>
-  <div class="card">
-    <h3>Housing Patterns &amp; Water Demand</h3>
-    <p>Residential lot size and drought‑era water use</p>
-    <a class="btn-sm" href="/files/Housing_Water_Demand_Inam.pdf">PDF ↗</a>
-  </div>
 </div>
 
-<!-- MAIN SECTIONS -->
+---
 
-<div class="section">
-<h2>Research Themes</h2>
-<div class="table-wrapper">
-<table>
-<thead><tr><th>Theme</th><th>Key Question</th><th>Methods</th></tr></thead>
-<tbody>
-<tr><td><strong>Climate Metrics &amp; Bias</strong></td><td>Do interpolation choices hide the true cost of heat?</td><td>Station vs. grid comparison, FE yield models</td></tr>
-<tr><td><strong>Water Quality Stress</strong></td><td>How do sub‑daily shocks trigger violations?</td><td>Rare‑events logit, hourly climate records</td></tr>
-<tr><td><strong>Water Demand &amp; Urban Form</strong></td><td>How do lot sizes shape drought‑era use?</td><td>Panel regressions, utility micro‑data</td></tr>
-</tbody>
-</table>
-</div>
-</div>
-
-<div class="section">
-<h2>Dissertation Chapters</h2>
-<ol>
-<li><strong>Measuring Extreme Weather &amp; Crop Yields</strong> — <em>Under review</em></li>
-<li><strong>Extreme Weather &amp; Drinking‑Water Quality</strong> — <em>Working paper</em></li>
-<li><strong>Housing Patterns &amp; Water Demand</strong> — <em>In preparation</em></li>
-</ol>
-</div>
-
-<div class="section">
-<h2>Teaching &amp; Mentoring</h2>
-<ul>
-<li><strong>Instructor</strong> — International Agriculture &amp; World Food Needs (AEC 309), 2024</li>
-<li><strong>TA</strong> — Environmental &amp; Resource Economics, 2022</li>
-</ul>
-</div>
-
-<div class="section">
-<h2>Academic Pathway</h2>
-<ul>
-<li><strong>Ph.D. Agricultural Economics</strong>, Univ. of Kentucky (2020–25 exp.)</li>
-<li><strong>Visiting Scholar</strong>, UC Riverside (2022)</li>
-<li><strong>M.A. Economics</strong>, Vanderbilt University (2020)</li>
-<li><strong>B.S. Economics</strong>, NUST (2017)</li>
-</ul>
-</div>
-
-<div class="section">
-<h2>Honors</h2>
-<ul>
-<li>1st Place, Job‑Market Paper Competition — Southern AEA (2025)</li>
-<li>James S. &amp; Rosemary Worley Research Award — Vanderbilt (2020)</li>
-</ul>
-</div>
-
-<div class="section">
-<h2>Technical Toolkit</h2>
-<ul>
-<li><strong>Econometrics:</strong> panel &amp; spatial models, causal inference</li>
-<li><strong>Programming:</strong> R, Python, Stata; SLURM HPC</li>
-<li><strong>Data:</strong> NOAA GHCN‑D, PRISM, USDA Quick Stats, EPA SDWIS</li>
-</ul>
-</div>
-
-<div class="section">
-<h2>Connect</h2>
-<p>Reach out via <a href="mailto:munib.inam@uky.edu">email</a> or <a href="https
+*Last updated: January 2025*
