@@ -171,7 +171,7 @@ toc_icon: "calendar"
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Irving, TX, United States</div>
     <div class="award-highlight">
-      <div class="award-text">🏆 Job Market Paper Competition — First Place</div>
+      <div class="award-text">Job Market Paper Competition — First Place</div>
     </div>
   </div>
 </div>
