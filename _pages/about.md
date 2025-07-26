@@ -229,7 +229,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
 
 <div class="chapter-section" id="dissertation-research">
   <a href="/files/Job_market_paper_2025.pdf" class="chapter-link" target="_blank">
-    Chapter 1 (Job Market Paper)
+    Chapter 1
   </a>
   <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
   
