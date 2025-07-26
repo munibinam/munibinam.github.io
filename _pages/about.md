@@ -254,7 +254,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
   <a href="/files/Lot_size_2025.pdf" class="chapter-link" target="_blank">
     Chapter 3
   </a>
-  <div class="chapter-title">Housing Development Patterns and Residential Water Demand in California</div>
+  <div class="chapter-title">Heterogenous Effects of Housing Lot Size Composition on Water Consumption</div>
   
   California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
