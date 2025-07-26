@@ -5,7 +5,7 @@ locale: "en-US"
 title: "Munib Inam"
 title_separator: "-"
 name: &name "Munib Inam"
-description: &description "PhD Candidate in Agricultural Economics at the University of Kentucky"
+description: &description "PhD Candidate - University of Kentucky"
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
@@ -51,7 +51,7 @@ analytics:
 author:
   name: "Munib Inam"
   avatar: "https://munibinam.github.io/images/profile2.jpg"
-  bio: "PhD Candidate in Agricultural Economics at the University of Kentucky"
+  bio: "PhD Candidate - University of Kentucky"
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
   links:
