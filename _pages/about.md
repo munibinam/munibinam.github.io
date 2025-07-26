@@ -10,10 +10,10 @@ header:
   overlay_color: "#18468D"
   overlay_filter: 0.4
   actions:
-    - label: "📊 Research Papers"
+    - label: "Research Papers"
       url: "#dissertation-research"
       class: "btn--primary btn--large"
-    - label: "📄 Curriculum Vitae"
+    - label: "Curriculum Vitae"
       url: "/files/Inam_CV_2025.pdf"
 classes: wide
 ---
@@ -22,36 +22,36 @@ classes: wide
 .research-hero {
   background: linear-gradient(135deg, #18468D 0%, #3b82f6 50%, #60a5fa 100%);
   color: white;
-  padding: 3em 2em;
-  border-radius: 12px;
+  padding: 2em 1.5em;
+  border-radius: 8px;
   text-align: center;
-  margin: 2em 0;
-  box-shadow: 0 8px 30px rgba(24, 70, 141, 0.25);
+  margin: 1.5em 0;
+  box-shadow: 0 4px 20px rgba(24, 70, 141, 0.2);
 }
 
 .research-hero h1 {
-  font-size: 2.3em;
-  margin-bottom: 0.5em;
+  font-size: 1.8em;
+  margin-bottom: 0.4em;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
   font-weight: 300;
   letter-spacing: 1px;
 }
 
 .research-hero p {
-  font-size: 1.2em;
+  font-size: 1.05em;
   opacity: 0.95;
-  max-width: 700px;
+  max-width: 600px;
   margin: 0 auto;
-  line-height: 1.6;
+  line-height: 1.5;
   font-weight: 300;
 }
 
 .focus-areas {
   text-align: center;
-  margin: 3em 0;
-  padding: 2em;
+  margin: 2em 0;
+  padding: 1.5em;
   background: linear-gradient(135deg, #f8f9fa, #dbeafe);
-  border-radius: 10px;
+  border-radius: 8px;
   border: 1px solid #e0e0e0;
 }
 
@@ -70,31 +70,31 @@ classes: wide
 
 .chapter-section {
   background: #ffffff;
-  border-radius: 10px;
-  padding: 2.5em;
-  margin: 2em 0;
+  border-radius: 8px;
+  padding: 1.8em;
+  margin: 1.5em 0;
   border: 1px solid #e0e0e0;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
   transition: all 0.3s ease;
 }
 
 .chapter-section:hover {
-  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  transform: translateY(-1px);
 }
 
 .chapter-link {
   display: inline-block;
   background: linear-gradient(135deg, #18468D, #3b82f6);
   color: white !important;
-  padding: 0.8em 1.8em;
-  border-radius: 6px;
+  padding: 0.6em 1.4em;
+  border-radius: 5px;
   text-decoration: none !important;
   font-weight: 500;
-  margin-bottom: 1.2em;
+  margin-bottom: 1em;
   transition: all 0.3s ease;
-  box-shadow: 0 3px 12px rgba(24, 70, 141, 0.3);
-  font-size: 0.95em;
+  box-shadow: 0 2px 8px rgba(24, 70, 141, 0.25);
+  font-size: 0.9em;
 }
 
 .chapter-link:hover {
@@ -125,9 +125,9 @@ classes: wide
 
 .background-section {
   background: linear-gradient(135deg, #f8f9fa, #ffffff);
-  padding: 2.5em;
-  border-radius: 10px;
-  margin: 3em 0;
+  padding: 1.8em;
+  border-radius: 8px;
+  margin: 2em 0;
   border: 1px solid #e0e0e0;
 }
 
@@ -149,11 +149,11 @@ classes: wide
 .connect-section {
   background: linear-gradient(135deg, #18468D, #3b82f6);
   color: white;
-  padding: 2.5em;
-  border-radius: 10px;
+  padding: 1.8em;
+  border-radius: 8px;
   text-align: center;
-  margin: 3em 0;
-  box-shadow: 0 8px 25px rgba(24, 70, 141, 0.2);
+  margin: 2em 0;
+  box-shadow: 0 4px 20px rgba(24, 70, 141, 0.15);
 }
 
 .connect-section h3 {
@@ -188,9 +188,9 @@ classes: wide
 }
 
 @media (max-width: 768px) {
-  .research-hero h1 { font-size: 1.8em; }
-  .research-hero p { font-size: 1.1em; }
-  .chapter-section { padding: 1.8em; }
+  .research-hero h1 { font-size: 1.5em; }
+  .research-hero p { font-size: 1em; }
+  .chapter-section { padding: 1.3em; }
 }
 </style>
 
