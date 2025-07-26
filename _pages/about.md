@@ -235,7 +235,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
   
   This research shows that conventional approaches to measuring extreme weather impacts on agriculture may systematically misestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I show that there are significant biases that affect yield estimates when we look at the impact of extreme weather on productivity.
 
-  <div class="status-badge">Under Review • Job Market Paper</div>
+  <div class="status-badge">  Under Review • Job Market Paper</div>
 </div>
 
 <div class="chapter-section">
@@ -246,7 +246,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
   
   This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.
 
-  <div class="status-badge">Working Paper</div>
+  <div class="status-badge">  Working Paper</div>
 </div>
 
 <!-- Chapter 3 - Fixed -->
@@ -258,7 +258,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
   
   California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
-  <div class="status-badge">Working Paper</div>
+  <div class="status-badge">  Working Paper</div>
 </div>
 
 ---
