@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_color: "#1e3a8a"
+  overlay_color: "#18468D"
   overlay_filter: 0.4
   actions:
     - label: "📊 Research Papers"
@@ -20,13 +20,13 @@ classes: wide
 
 <style>
 .research-hero {
-  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #60a5fa 100%);
+  background: linear-gradient(135deg, #18468D 0%, #3b82f6 50%, #60a5fa 100%);
   color: white;
   padding: 3em 2em;
   border-radius: 12px;
   text-align: center;
   margin: 2em 0;
-  box-shadow: 0 8px 30px rgba(30, 58, 138, 0.25);
+  box-shadow: 0 8px 30px rgba(24, 70, 141, 0.25);
 }
 
 .research-hero h1 {
@@ -56,7 +56,7 @@ classes: wide
 }
 
 .focus-areas h2 {
-  color: #1e3a8a;
+  color: #18468D;
   margin-bottom: 1em;
   font-weight: 400;
 }
@@ -85,7 +85,7 @@ classes: wide
 
 .chapter-link {
   display: inline-block;
-  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  background: linear-gradient(135deg, #18468D, #3b82f6);
   color: white !important;
   padding: 0.8em 1.8em;
   border-radius: 6px;
@@ -93,19 +93,19 @@ classes: wide
   font-weight: 500;
   margin-bottom: 1.2em;
   transition: all 0.3s ease;
-  box-shadow: 0 3px 12px rgba(30, 58, 138, 0.3);
+  box-shadow: 0 3px 12px rgba(24, 70, 141, 0.3);
   font-size: 0.95em;
 }
 
 .chapter-link:hover {
   transform: translateY(-1px);
-  box-shadow: 0 5px 16px rgba(30, 58, 138, 0.4);
-  background: linear-gradient(135deg, #1e40af, #1e3a8a);
+  box-shadow: 0 5px 16px rgba(24, 70, 141, 0.4);
+  background: linear-gradient(135deg, #1e40af, #18468D);
 }
 
 .chapter-title {
   font-size: 1.25em;
-  color: #1e3a8a;
+  color: #18468D;
   margin-bottom: 1.2em;
   font-weight: 500;
   line-height: 1.4;
@@ -114,7 +114,7 @@ classes: wide
 .status-badge {
   display: inline-block;
   background: #dbeafe;
-  color: #1e3a8a;
+  color: #18468D;
   padding: 0.4em 1em;
   border-radius: 20px;
   font-size: 0.85em;
@@ -132,7 +132,7 @@ classes: wide
 }
 
 .background-section h3 {
-  color: #1e3a8a;
+  color: #18468D;
   margin-bottom: 1.5em;
   font-weight: 500;
 }
@@ -147,13 +147,13 @@ classes: wide
 }
 
 .connect-section {
-  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  background: linear-gradient(135deg, #18468D, #3b82f6);
   color: white;
   padding: 2.5em;
   border-radius: 10px;
   text-align: center;
   margin: 3em 0;
-  box-shadow: 0 8px 25px rgba(30, 58, 138, 0.2);
+  box-shadow: 0 8px 25px rgba(24, 70, 141, 0.2);
 }
 
 .connect-section h3 {
