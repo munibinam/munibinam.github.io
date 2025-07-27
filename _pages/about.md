@@ -218,9 +218,13 @@ classes: wide
 }
 </style>
 
-<div class="research-hero">
-  <h1>Climate • Agriculture • Water</h1>
-  <p>Measuring the impact of weather extremes on agricultural productivity and water resources.</p>
+<div style="text-align: center; margin: 2em 0 3em 0;">
+  <h1 style="font-size: 2.2em; font-weight: 300; color: #18468D; margin-bottom: 0.2em;">
+    Climate • Agriculture • Water
+  </h1>
+  <p style="font-size: 1.1em; color: #555;">
+    Measuring the impact of weather extremes on agricultural productivity and water resources.
+  </p>
 </div>
 
 ## Research Overview
