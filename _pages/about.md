@@ -103,6 +103,18 @@ classes: wide
   background: linear-gradient(135deg, #1e40af, #18468D);
 }
 
+/* New style for the non-clickable chapter labels */
+.chapter-label {
+  display: inline-block;
+  background: #6c757d; /* Muted gray for non-active papers */
+  color: white !important;
+  padding: 0.6em 1.4em;
+  border-radius: 5px;
+  font-weight: 500;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+}
+
 .chapter-title {
   font-size: 1.25em;
   color: #18468D;
@@ -121,6 +133,18 @@ classes: wide
   font-weight: 500;
   margin-top: 1em;
   border: 1px solid #93c5fd;
+}
+
+/* New style for the "Available upon request" note */
+.request-note {
+  font-style: italic;
+  color: #555;
+  margin-top: 1em;
+  font-size: 0.9em;
+  background-color: #f8f9fa;
+  padding: 0.8em;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
 }
 
 .background-section {
@@ -239,25 +263,30 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
 </div>
 
 <div class="chapter-section">
-  <a href="/files/Water_Quality_2025.pdf" class="chapter-link" target="_blank">
+  <div class="chapter-label">
     Chapter 2
-  </a>
+  </div>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
   
   This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.
 
+  <div class="request-note">
+    Paper available upon request.
+  </div>
   <div class="status-badge">  Working Paper</div>
 </div>
 
-<!-- Chapter 3 - Fixed -->
 <div class="chapter-section">
-  <a href="/files/Lot_size_2025.pdf" class="chapter-link" target="_blank">
+  <div class="chapter-label">
     Chapter 3
-  </a>
+  </div>
   <div class="chapter-title">Heterogenous Effects of Housing Lot Size Composition on Water Consumption</div>
   
   California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
+  <div class="request-note">
+    Paper available upon request.
+  </div>
   <div class="status-badge">  Working Paper</div>
 </div>
 
