@@ -18,26 +18,44 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1em;
 }
 
-/* Hide ONLY the hamburger menu button */
-.greedy-nav__toggle {
-  display: none !important;
-}
-
+/* Hide hamburger menu */
+.greedy-nav__toggle,
 button.greedy-nav__toggle {
   display: none !important;
 }
 
-/* Force navigation tabs to show on ALL screen sizes */
+/* FORCE navigation to always be visible */
 .greedy-nav .visible-links {
   display: flex !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
 }
 
-@media (min-width: 0px) {
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav .visible-links li {
+  display: inline-block !important;
+  margin: 0 0.5em !important;
+}
+
+/* Override any media queries */
+@media screen and (min-width: 0px) {
   .greedy-nav .visible-links {
     display: flex !important;
+    visibility: visible !important;
   }
 
-  .greedy-nav .visible-links li {
-    display: block !important;
+  .greedy-nav__toggle {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 9999px) {
+  .greedy-nav .visible-links {
+    display: flex !important;
+    visibility: visible !important;
   }
 }
