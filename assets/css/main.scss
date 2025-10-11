@@ -18,31 +18,20 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1em;
 }
 
-/* Force navigation tabs to always show, hide hamburger menu */
-.greedy-nav .visible-links {
-  display: flex !important;
-  flex-wrap: wrap !important;
-}
-
-.greedy-nav .hidden-links {
-  display: none !important;
-}
-
+/* Hide only the hamburger toggle button */
 .greedy-nav__toggle {
   display: none !important;
 }
 
-.greedy-nav button {
-  display: none !important;
+/* Make sidebar author links always visible */
+.author__urls-wrapper {
+  display: block !important;
 }
 
-/* Ensure all nav items stay visible */
-@media (max-width: 768px) {
-  .greedy-nav .visible-links {
-    display: flex !important;
-  }
+.author__urls {
+  display: block !important;
+}
 
-  .greedy-nav__toggle {
-    display: none !important;
-  }
+.author__urls li {
+  display: block !important;
 }
