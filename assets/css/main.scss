@@ -17,21 +17,3 @@ h1, h2, h3, h4, h5, h6 {
 .page__content {
   font-size: 1em;
 }
-
-/* Hide only the hamburger toggle button */
-.greedy-nav__toggle {
-  display: none !important;
-}
-
-/* Make sidebar author links always visible */
-.author__urls-wrapper {
-  display: block !important;
-}
-
-.author__urls {
-  display: block !important;
-}
-
-.author__urls li {
-  display: block !important;
-}
