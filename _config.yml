@@ -1,6 +1,6 @@
 # Site Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 locale: "en-US"
 title: "Munib Inam"
 title_separator: "-"
@@ -210,7 +210,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # Archives
 category_archive:
