@@ -17,3 +17,28 @@ h1, h2, h3, h4, h5, h6 {
 .page__content {
   font-size: 1em;
 }
+
+/* Always show navigation tabs, never hide in hamburger menu */
+.greedy-nav .visible-links {
+  display: flex !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+/* Make CV link more prominent */
+.author__urls-wrapper {
+  position: static !important;
+}
+
+.author__urls {
+  position: static !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}

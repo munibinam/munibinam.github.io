@@ -1,8 +1,10 @@
 # main links links
 main:
-  - title: "Publications/Talks"
+  - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
+  - title: "CV"
+    url: /files/Inam_CV_2025.pdf
