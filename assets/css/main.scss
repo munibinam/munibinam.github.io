@@ -26,3 +26,18 @@ h1, h2, h3, h4, h5, h6 {
 button.greedy-nav__toggle {
   display: none !important;
 }
+
+/* Force navigation tabs to show on ALL screen sizes */
+.greedy-nav .visible-links {
+  display: flex !important;
+}
+
+@media (min-width: 0px) {
+  .greedy-nav .visible-links {
+    display: flex !important;
+  }
+
+  .greedy-nav .visible-links li {
+    display: block !important;
+  }
+}
