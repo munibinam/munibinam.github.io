@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications and Presentations"
+title: ""
 permalink: /publications/
 author_profile: true
 toc: true
@@ -8,6 +8,8 @@ toc_label: "Years"
 toc_icon: "calendar"
 classes: wide
 ---
+
+<h1 style="font-size: 2em; font-weight: 400; color: #2c3e50; margin-bottom: 1em;">Publications and Presentations</h1>
 
 <style>
 .publications-header {

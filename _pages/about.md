@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Munib Inam"
+title: ""
 excerpt: "PhD Candidate at the University of Kentucky"
 author_profile: true
 redirect_from:
