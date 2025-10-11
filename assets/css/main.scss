@@ -17,3 +17,12 @@ h1, h2, h3, h4, h5, h6 {
 .page__content {
   font-size: 1em;
 }
+
+/* Hide ONLY the hamburger menu button */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+button.greedy-nav__toggle {
+  display: none !important;
+}
