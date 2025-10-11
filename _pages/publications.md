@@ -3,26 +3,24 @@ layout: single
 title: "Publications and Presentations"
 permalink: /publications/
 author_profile: true
-header:
-  overlay_color: "#18468D"
-  overlay_filter: 0.4
 toc: true
 toc_label: "Years"
 toc_icon: "calendar"
+classes: wide
 ---
 
 <style>
 .publications-header {
   text-align: center;
-  margin: 1.5em 0;
+  margin: 2em 0;
   padding: 1.5em;
-  background: linear-gradient(135deg, #f8f9fa, #dbeafe);
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
+  background: #f8f9fa;
+  border-top: 1px solid #e1e4e8;
+  border-bottom: 1px solid #e1e4e8;
 }
 
 .publications-header h2 {
-  color: #18468D;
+  color: #2c3e50;
   margin-bottom: 0.5em;
   font-weight: 400;
 }
@@ -30,26 +28,23 @@ toc_icon: "calendar"
 .publications-header p {
   color: #555;
   margin: 0;
-  font-size: 1.05em;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 .year-section {
   margin: 2em 0;
-  background: #ffffff;
-  border-radius: 8px;
-  padding: 1.5em;
-  border: 1px solid #e0e0e0;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+  background: white;
+  padding: 2em;
+  border: 1px solid #e1e4e8;
 }
 
 .year-header {
-  color: #18468D;
-  font-size: 1.6em;
-  font-weight: 500;
+  color: #2c3e50;
+  font-size: 1.5em;
+  font-weight: 400;
   margin-bottom: 1.5em;
-  padding-bottom: 0.4em;
-  border-bottom: 3px solid #dbeafe;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e1e4e8;
   text-align: center;
 }
 
@@ -57,75 +52,58 @@ toc_icon: "calendar"
   margin: 1.3em 0;
   padding: 1.2em;
   background: #f8f9fa;
-  border-radius: 6px;
-  border-left: 4px solid #3b82f6;
-  transition: all 0.3s ease;
-}
-
-.presentation-item:hover {
-  background: #f0f8ff;
-  box-shadow: 0 3px 10px rgba(59, 130, 246, 0.1);
-  transform: translateY(-1px);
+  border-left: 3px solid #2c3e50;
 }
 
 .presentation-title {
-  font-size: 1.05em;
   font-weight: 500;
-  color: #18468D;
+  color: #2c3e50;
   margin-bottom: 0.7em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .conference-info {
-  color: #3b82f6;
+  color: #555;
   margin-bottom: 0.4em;
   font-weight: 500;
-  font-size: 0.95em;
 }
 
 .conference-location {
   color: #666;
-  font-size: 0.9em;
   font-style: italic;
 }
 
 .award-highlight {
   margin-top: 0.7em;
   padding: 0.4em 0.8em;
-  background: linear-gradient(135deg, #dbeafe, #f0f9ff);
-  border-radius: 15px;
-  border: 1px solid #93c5fd;
+  background: #f8f9fa;
+  border: 1px solid #e1e4e8;
   display: inline-block;
 }
 
 .award-text {
-  color: #18468D;
+  color: #2c3e50;
   font-weight: 500;
   font-size: 0.85em;
 }
 
 .cv-link-section {
   text-align: center;
-  margin: 2em 0;
-  padding: 1.5em;
-  background: linear-gradient(135deg, #18468D, #3b82f6);
+  margin: 3em 0;
+  padding: 2.5em 2em;
+  background: #2c3e50;
   color: white;
-  border-radius: 8px;
-  box-shadow: 0 4px 15px rgba(24, 70, 141, 0.15);
 }
 
-.cv-link-section h3 {
-  color: white;
-  margin-bottom: 0.8em;
-  font-weight: 400;
+.cv-link-section p {
+  opacity: 0.95;
+  line-height: 1.7;
 }
 
 .cv-link-section a {
   color: white;
   text-decoration: none;
-  font-weight: 500;
-  border-bottom: 1px solid rgba(255,255,255,0.3);
-  transition: border-color 0.3s ease;
+  border-bottom: 1px solid rgba(255,255,255,0.4);
 }
 
 .cv-link-section a:hover {
@@ -133,7 +111,7 @@ toc_icon: "calendar"
 }
 
 @media (max-width: 768px) {
-  .year-header { font-size: 1.4em; }
+  .year-section { padding: 1.5em; }
   .presentation-item { padding: 1em; }
 }
 </style>
