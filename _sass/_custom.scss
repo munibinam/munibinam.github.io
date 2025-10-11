@@ -13,13 +13,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   line-height: 1.3;
   margin-bottom: 0.8em;
-  color: $dark-gray;
+  color: #2c3e50;
 }
 
 h2 {
   margin-top: 2em;
   padding-bottom: 0.3em;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #e1e4e8;
 }
 
 p {
@@ -34,7 +34,7 @@ p {
 
 /* Cleaner sidebar */
 .sidebar {
-  border-right: 1px solid $border-color;
+  border-right: 1px solid #e1e4e8;
 }
 
 .author__avatar img {
@@ -49,8 +49,8 @@ p {
 
 /* Cleaner navigation */
 .greedy-nav {
-  background: $background-color;
-  border-bottom: 1px solid $border-color;
+  background: #fff;
+  border-bottom: 1px solid #e1e4e8;
 }
 
 .greedy-nav a {
@@ -62,8 +62,8 @@ p {
 .page__footer {
   margin-top: 4em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
-  background-color: $light-bg;
+  border-top: 1px solid #e1e4e8;
+  background-color: #f8f9fa;
 }
 
 /* Cleaner buttons */
@@ -75,23 +75,22 @@ p {
 }
 
 .btn--primary {
-  background-color: $primary-color;
+  background-color: #2c3e50;
+}
 
-  &:hover {
-    background-color: $darker-gray;
-  }
+.btn--primary:hover {
+  background-color: #1a252f;
 }
 
 /* Better content spacing */
-.page__content {
-  p, li, dl {
-    font-size: 1em;
-  }
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 1em;
 }
 
 /* Cleaner code blocks */
 pre, code {
-  font-family: $monospace;
   border-radius: 2px;
 }
 
@@ -101,22 +100,21 @@ a {
 }
 
 /* Improve list spacing */
-ul, ol {
-  li {
-    margin-bottom: 0.5em;
-  }
+ul li,
+ol li {
+  margin-bottom: 0.5em;
 }
 
 /* Clean horizontal rules */
 hr {
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid #e1e4e8;
   margin: 3em 0;
 }
 
 /* Better blockquotes */
 blockquote {
-  border-left: 3px solid $border-color;
+  border-left: 3px solid #e1e4e8;
   padding-left: 1.5em;
   color: #555;
   font-style: italic;
