@@ -9,29 +9,10 @@ toc_icon: "calendar"
 classes: wide
 ---
 
-<h1 style="font-size: 2em; font-weight: 400; color: #2c3e50; margin-bottom: 1em;">Publications and Presentations</h1>
+<h1 style="font-size: 2em; font-weight: 400; color: #2c3e50; margin-bottom: 0.5em;">Publications and Presentations</h1>
+<p style="color: #666; margin-bottom: 2em; line-height: 1.7;">Selected presentations at key academic conferences in agricultural economics, environmental and resource economics</p>
 
 <style>
-.publications-header {
-  text-align: center;
-  margin: 2em 0;
-  padding: 1.5em;
-  background: #f8f9fa;
-  border-top: 1px solid #e1e4e8;
-  border-bottom: 1px solid #e1e4e8;
-}
-
-.publications-header h2 {
-  color: #2c3e50;
-  margin-bottom: 0.5em;
-  font-weight: 400;
-}
-
-.publications-header p {
-  color: #555;
-  margin: 0;
-  line-height: 1.7;
-}
 
 .year-section {
   margin: 2em 0;
@@ -117,13 +98,6 @@ classes: wide
   .presentation-item { padding: 1em; }
 }
 </style>
-
-<div class="publications-header">
-  <h2>Conference Presentations and Research Work</h2>
-  <p>Selected presentations at key academic conferences in agricultural economics, environmental and resource economics</p>
-</div>
-
----
 
 <div class="year-section">
   <div class="year-header">2025</div>
