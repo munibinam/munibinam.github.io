@@ -11,84 +11,70 @@ classes: wide
 
 <style>
 .teaching-section {
-  margin: 2em 0;
-  padding: 2em;
   background: white;
+  border-left: 3px solid #2c3e50;
+  padding: 1.8em;
+  margin: 1.5em 0;
   border: 1px solid #e1e4e8;
+  border-left: 3px solid #2c3e50;
+  transition: all 0.2s ease;
+}
+
+.teaching-section:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border-left-color: #0D7377;
 }
 
 .role-header {
+  display: inline-block;
   color: #2c3e50;
-  font-size: 1.3em;
-  font-weight: 400;
+  font-weight: 600;
+  font-size: 0.9em;
   margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .course-title {
+  font-size: 1.2em;
   color: #2c3e50;
-  font-size: 1.1em;
+  margin-bottom: 0.8em;
   font-weight: 500;
+  line-height: 1.4;
+}
+
+.course-meta {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+.course-description {
+  color: #555;
+  line-height: 1.6;
+  font-size: 0.95em;
   margin-bottom: 1em;
 }
 
-.course-details {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+.teaching-footer {
+  display: flex;
   gap: 1em;
-  margin: 1.2em 0;
+  flex-wrap: wrap;
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px solid #e1e4e8;
 }
 
-.detail-item {
-  background: #f8f9fa;
-  padding: 0.8em;
-  border-left: 3px solid #2c3e50;
-}
-
-.detail-label {
+.evaluation-badge {
+  display: inline-block;
+  background-color: #f8f9fa;
+  color: #2c3e50;
+  padding: 0.3em 0.8em;
+  font-size: 0.85em;
   font-weight: 600;
-  color: #2c3e50;
-  margin-bottom: 0.3em;
-}
-
-.detail-content {
-  color: #555;
-}
-
-.responsibilities {
-  margin-top: 1.2em;
-}
-
-.responsibilities h4 {
-  color: #2c3e50;
-  margin-bottom: 0.8em;
-  font-weight: 400;
-}
-
-.responsibility-item {
-  background: #f8f9fa;
-  padding: 0.7em 1em;
-  margin: 0.4em 0;
-  border-left: 3px solid #e1e4e8;
-  color: #555;
-}
-
-.evaluation-highlight {
-  background: #f8f9fa;
-  padding: 0.8em;
   border: 1px solid #e1e4e8;
-  margin-top: 0.8em;
-  text-align: center;
-}
-
-.evaluation-score {
-  font-size: 1.6em;
-  font-weight: 600;
-  color: #2c3e50;
-  margin-bottom: 0.3em;
-}
-
-.evaluation-text {
-  color: #555;
+  border-radius: 3px;
 }
 </style>
 
@@ -99,62 +85,27 @@ classes: wide
 <div class="teaching-section">
   <div class="role-header">Primary Instructor</div>
   <div class="course-title">International Trade</div>
-  
-  <div class="course-details">
-    <div class="detail-item">
-      <div class="detail-label">Semester</div>
-      <div class="detail-content">Fall 2023</div>
-    </div>
-    <div class="detail-item">
-      <div class="detail-label">Level</div>
-      <div class="detail-content">Undergraduate</div>
-    </div>
-    <div class="detail-item">
-      <div class="detail-label">Department</div>
-      <div class="detail-content">Agricultural Economics, University of Kentucky</div>
-    </div>
+
+  <div class="course-meta">
+    Fall 2023 • Undergraduate • Department of Agricultural Economics, University of Kentucky
   </div>
 
-  <div class="responsibilities">
-    <h4>Key Responsibilities</h4>
-    <div class="responsibility-item">Designed course curriculum covering international trade theory and agricultural applications</div>
-    <div class="responsibility-item">Delivered engaging lectures connecting trade concepts to real-world agricultural markets</div>
-    <div class="responsibility-item">Developed and administered assessments to evaluate student understanding</div>
-    <div class="responsibility-item">Provided individualized feedback and support to help students succeed</div>
-  </div>
+  <p class="course-description">Designed and delivered a comprehensive undergraduate course covering international trade theory and agricultural applications. Lectures connected trade concepts to real-world agricultural markets, with assessments designed to evaluate student understanding. Provided individualized feedback and support to help students succeed in mastering complex economic concepts.</p>
 
-  <div class="evaluation-highlight">
-    <div class="evaluation-score">4.5/5.0</div>
-    <div class="evaluation-text">Student Course Evaluation Score</div>
+  <div class="teaching-footer">
+    <span class="evaluation-badge">Student Evaluation: 4.5/5.0</span>
   </div>
 </div>
 
 <div class="teaching-section">
   <div class="role-header">Teaching Assistant</div>
   <div class="course-title">Environmental Economics</div>
-  
-  <div class="course-details">
-    <div class="detail-item">
-      <div class="detail-label">Semester</div>
-      <div class="detail-content">Spring 2022</div>
-    </div>
-    <div class="detail-item">
-      <div class="detail-label">Level</div>
-      <div class="detail-content">Undergraduate</div>
-    </div>
-    <div class="detail-item">
-      <div class="detail-label">Department</div>
-      <div class="detail-content">Agricultural Economics, University of Kentucky</div>
-    </div>
+
+  <div class="course-meta">
+    Spring 2022 • Undergraduate • Department of Agricultural Economics, University of Kentucky
   </div>
 
-  <div class="responsibilities">
-    <h4>Key Responsibilities</h4>
-    <div class="responsibility-item">Supported primary instructor in course delivery and student engagement</div>
-    <div class="responsibility-item">Managed assignment grading and provided feedback to students</div>
-    <div class="responsibility-item">Conducted weekly office hours to assist students with course material</div>
-    <div class="responsibility-item">Facilitated discussion sections connecting environmental economics to current issues</div>
-  </div>
+  <p class="course-description">Supported the primary instructor in course delivery and student engagement. Managed assignment grading and provided detailed feedback to students. Conducted weekly office hours to assist students with course material, and facilitated discussion sections connecting environmental economics concepts to current environmental issues and policy challenges.</p>
 </div>
 
 <h2 style="color: #2c3e50; margin-bottom: 1em; margin-top: 3em; font-weight: 400;">Teaching Interests</h2>
