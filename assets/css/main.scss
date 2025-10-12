@@ -24,26 +24,8 @@ button.greedy-nav__toggle {
   display: none !important;
 }
 
-/* Show/hide name variants by screen size */
-.site-title-short {
-  display: none;
-}
-
-.site-title-full {
-  display: inline;
-}
-
 /* Mobile optimization - using smaller breakpoint for phones */
 @media (max-width: 600px) {
-  /* Show abbreviated name on mobile */
-  .site-title-full {
-    display: none !important;
-  }
-
-  .site-title-short {
-    display: inline !important;
-  }
-
   /* Ultra compact navigation on mobile */
   .masthead {
     padding: 0.15em 0 !important;
