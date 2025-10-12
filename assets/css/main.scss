@@ -19,24 +19,44 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Force sidebar author links to display */
-.author__urls-wrapper {
+.sidebar .author__urls-wrapper {
   display: block !important;
   position: static !important;
+  height: auto !important;
+  border: none !important;
 }
 
-.author__urls {
+.sidebar .author__urls-wrapper button {
+  display: none !important;
+}
+
+.sidebar .author__urls {
   display: block !important;
   position: static !important;
   visibility: visible !important;
   opacity: 1 !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-.author__urls li {
+.sidebar .author__urls li {
   display: list-item !important;
+  list-style: none !important;
+  margin-bottom: 0.5em !important;
 }
 
-.author__urls a {
+.sidebar .author__urls a {
   display: block !important;
+  padding: 0.5em !important;
+  color: inherit !important;
+}
+
+/* Show location and email in sidebar */
+.author__location,
+.author__email {
+  display: block !important;
+  visibility: visible !important;
 }
 
 /* Hide hamburger menu */
