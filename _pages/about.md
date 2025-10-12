@@ -22,26 +22,25 @@ classes: wide
 }
 
 .hero-section {
-  text-align: center;
-  padding: 3em 0 2em;
-  margin-bottom: 3em;
-  border-bottom: 1px solid var(--border-color);
+  padding: 2em 0 1.5em;
+  margin-bottom: 2em;
+  border-bottom: 2px solid var(--primary-color);
 }
 
 .hero-section h1 {
-  font-size: 2.2em;
-  font-weight: 300;
+  font-size: 1.8em;
+  font-weight: 500;
   color: var(--primary-color);
-  margin-bottom: 0.5em;
-  letter-spacing: -0.5px;
+  margin-bottom: 0.6em;
+  letter-spacing: -0.3px;
+  line-height: 1.3;
 }
 
 .hero-section .subtitle {
-  font-size: 1.15em;
-  color: #666;
+  font-size: 1.05em;
+  color: #555;
   line-height: 1.6;
-  max-width: 700px;
-  margin: 0 auto;
+  max-width: 900px;
 }
 
 .focus-areas {
@@ -246,9 +245,9 @@ classes: wide
 </style>
 
 <div class="hero-section">
-  <h1>Climate • Agriculture • Water</h1>
+  <h1>Examining the Economic Impacts of Climate Extremes on Agriculture and Water Resources</h1>
   <p class="subtitle">
-    Measuring the impact of weather extremes on agricultural productivity and water resources.
+    My research focuses on measuring how extreme weather events affect agricultural productivity and water systems in the United States, with particular attention to methodological challenges in climate impact assessment.
   </p>
 </div>
 
@@ -290,7 +289,6 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
 
   <div class="chapter-meta">
     <span class="status-badge">Under Review • Job Market Paper</span>
-    <a href="/files/Job_market_paper_2025.pdf" class="chapter-link-small" target="_blank">Download PDF</a>
   </div>
 </div>
 
