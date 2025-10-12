@@ -35,7 +35,7 @@ classes: wide
   margin: 1.3em 0;
   padding: 1.2em;
   background: #f8f9fa;
-  border-left: 3px solid #2c3e50;
+  border: 1px solid #e1e4e8;
 }
 
 .presentation-title {

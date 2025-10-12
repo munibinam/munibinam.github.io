@@ -71,17 +71,15 @@ classes: wide
 
 .chapter-section {
   background: white;
-  border-left: 3px solid var(--primary-color);
   padding: 1.8em;
   margin: 1.5em 0;
   border: 1px solid var(--border-color);
-  border-left: 3px solid var(--primary-color);
   transition: all 0.2s ease;
 }
 
 .chapter-section:hover {
   box-shadow: var(--hover-shadow);
-  border-left-color: var(--accent-color);
+  border-color: var(--accent-color);
 }
 
 .chapter-number {
