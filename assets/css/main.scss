@@ -18,6 +18,27 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1em;
 }
 
+/* Force sidebar author links to display */
+.author__urls-wrapper {
+  display: block !important;
+  position: static !important;
+}
+
+.author__urls {
+  display: block !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.author__urls li {
+  display: list-item !important;
+}
+
+.author__urls a {
+  display: block !important;
+}
+
 /* Hide hamburger menu */
 .greedy-nav__toggle,
 button.greedy-nav__toggle {
