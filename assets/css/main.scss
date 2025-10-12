@@ -161,15 +161,17 @@ a:hover {
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
-/* Background Separation with Subtle Gradient */
+/* Subtle Dot Pattern Background */
 body {
-  background: linear-gradient(to bottom, #f5f7fa 0%, #e8ecf1 100%);
+  background-color: #f8f9fa;
+  background-image: radial-gradient(circle, #e1e4e8 1px, transparent 1px);
+  background-size: 20px 20px;
   background-attachment: fixed;
 }
 
 .page {
   background: white;
-  box-shadow: 0 0 30px rgba(0,0,0,0.1);
+  box-shadow: 0 0 30px rgba(0,0,0,0.08);
   margin: 2em auto;
   padding: 2em;
   max-width: 1400px;
@@ -183,20 +185,35 @@ body {
   }
 }
 
-/* Remove external link icon from CV navigation link */
-.greedy-nav .visible-links a[target="_blank"]::after {
-  content: none !important;
+/* Make CV navigation link look exactly like other tabs */
+.greedy-nav .visible-links a[target="_blank"] {
+  /* Remove external link styling */
+  background: none !important;
+  padding: 0.5rem 1rem !important;
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
+.greedy-nav .visible-links a[target="_blank"]::after {
+  /* Remove external link icon */
+  content: none !important;
+  display: none !important;
+}
+
+/* Remove all special CV link styling everywhere */
 a[href*="CV_INAM.pdf"] {
-  /* Make CV links look like regular text, not buttons */
   display: inline !important;
-  padding: 0 !important;
   background: none !important;
   color: inherit !important;
   border-radius: 0 !important;
-  text-decoration: none !important;
   box-shadow: none !important;
+}
+
+/* Remove location icon from sidebar */
+.author__content p::before,
+.author__bio::before {
+  content: none !important;
+  display: none !important;
 }
 
 /* Hide hamburger menu */
