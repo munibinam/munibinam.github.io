@@ -170,39 +170,41 @@ classes: wide
 }
 
 .connect-section {
-  background-color: var(--primary-color);
-  color: white;
-  padding: 2.5em 2em;
-  text-align: center;
-  margin: 3em 0;
+  background-color: var(--light-bg);
+  padding: 1.5em 2em;
+  text-align: left;
+  margin: 2em 0;
+  border: 1px solid var(--border-color);
 }
 
 .connect-section h3 {
-  color: white;
-  font-size: 1.5em;
-  margin-bottom: 1em;
-  font-weight: 300;
+  color: var(--primary-color);
+  font-size: 1.2em;
+  margin-bottom: 0.8em;
+  font-weight: 400;
 }
 
 .connect-section p {
-  margin-bottom: 1.5em;
-  line-height: 1.7;
-  opacity: 0.95;
+  margin-bottom: 1em;
+  line-height: 1.6;
+  color: #555;
+  font-size: 0.95em;
 }
 
 .connect-links {
-  line-height: 1.9;
+  line-height: 1.7;
+  font-size: 0.95em;
 }
 
 .connect-links a {
-  color: white;
+  color: var(--accent-color);
   text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,0.4);
+  border-bottom: 1px solid rgba(52, 152, 219, 0.3);
   transition: border-color 0.2s ease;
 }
 
 .connect-links a:hover {
-  border-bottom-color: white;
+  border-bottom-color: var(--accent-color);
 }
 
 .figure-container {
