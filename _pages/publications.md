@@ -9,7 +9,7 @@ toc_icon: "calendar"
 classes: wide
 ---
 
-<h1 style="font-size: 2em; font-weight: 400; color: #2c3e50; margin-bottom: 0.5em;">Publications and Presentations</h1>
+<h1 style="font-size: 2em; font-weight: 400; color: #2c3e50; margin-bottom: 0.5em;">Research</h1>
 <p style="color: #666; margin-bottom: 2em; line-height: 1.7;">Selected presentations at key academic conferences in agricultural economics, environmental and resource economics</p>
 
 <style>
