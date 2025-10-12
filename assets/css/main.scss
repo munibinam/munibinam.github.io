@@ -26,35 +26,45 @@ button.greedy-nav__toggle {
 
 /* Mobile optimization */
 @media (max-width: 768px) {
-  /* Reduce navigation spacing on mobile */
+  /* Very compact navigation on mobile */
   .masthead {
-    padding: 0.5em 0;
+    padding: 0.2em 0;
+  }
+
+  .greedy-nav {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
   }
 
   .greedy-nav .site-title {
-    font-size: 1.2em;
-    padding: 0.25em 0.5em;
+    font-size: 0.85em;
+    padding: 0.4em 0.2em;
+    margin-right: 0.2em;
   }
 
   .greedy-nav .visible-links {
-    gap: 0.5em;
+    gap: 0.15em;
+  }
+
+  .greedy-nav .visible-links li {
+    margin: 0 0.15em !important;
   }
 
   .greedy-nav .visible-links a {
-    padding: 0.5em 0.75em;
-    font-size: 0.9em;
+    padding: 0.4em 0.3em;
+    font-size: 0.75em;
   }
 
   /* Reduce page title spacing */
   h1 {
-    font-size: 1.6em !important;
+    font-size: 1.5em !important;
     margin-bottom: 0.3em !important;
     line-height: 1.2 !important;
   }
 
   /* Tighter body text */
   body {
-    font-size: 16px;
+    font-size: 15px;
   }
 
   /* Reduce padding in sections */
