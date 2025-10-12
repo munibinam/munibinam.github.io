@@ -16,20 +16,9 @@ classes: wide
 
 .year-section {
   margin: 2em 0;
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
+  background: white;
   padding: 2em;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
-  transition: all 0.3s ease;
-}
-
-.year-section:hover {
-  background: rgba(255, 255, 255, 0.35) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
-  transform: translateY(-2px);
+  border: 1px solid #e1e4e8;
 }
 
 .year-header {
@@ -82,15 +71,11 @@ classes: wide
 }
 
 .cv-link-section {
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
+  background-color: #f8f9fa;
   padding: 1.5em 2em;
   text-align: left;
   margin: 2em 0;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+  border: 1px solid #e1e4e8;
 }
 
 .cv-link-section p {

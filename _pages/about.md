@@ -46,14 +46,11 @@ classes: wide
 
 .focus-areas {
   text-align: center;
-  padding: 2em;
+  padding: 2em 0;
   margin: 2em 0;
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+  background-color: var(--light-bg);
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
 }
 
 .focus-areas h2 {
@@ -72,23 +69,18 @@ classes: wide
 }
 
 .chapter-section {
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-left: 3px solid var(--primary-color) !important;
-  padding: 1.8em !important;
-  margin: 1.5em 0 !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
-  transition: all 0.3s ease !important;
+  background: white;
+  border-left: 3px solid var(--primary-color);
+  padding: 1.8em;
+  margin: 1.5em 0;
+  border: 1px solid var(--border-color);
+  border-left: 3px solid var(--primary-color);
+  transition: all 0.2s ease;
 }
 
 .chapter-section:hover {
-  background: rgba(255, 255, 255, 0.35) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
-  border-left-color: var(--accent-color) !important;
-  transform: translateY(-2px) !important;
+  box-shadow: var(--hover-shadow);
+  border-left-color: var(--accent-color);
 }
 
 .chapter-number {
@@ -161,14 +153,10 @@ classes: wide
 }
 
 .background-section {
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
+  background-color: white;
   padding: 2em;
   margin: 3em 0;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+  border: 1px solid var(--border-color);
 }
 
 .background-section h3 {
@@ -193,15 +181,11 @@ classes: wide
 }
 
 .connect-section {
-  background: rgba(255, 255, 255, 0.25) !important;
-  backdrop-filter: blur(30px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
+  background-color: var(--light-bg);
   padding: 1.5em 2em;
   text-align: left;
   margin: 2em 0;
-  border: 1px solid rgba(209, 213, 219, 0.3) !important;
-  border-radius: 16px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+  border: 1px solid var(--border-color);
 }
 
 .connect-section h3 {
