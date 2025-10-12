@@ -55,18 +55,6 @@ author:
   location: "Lexington, Kentucky"
   email: "munib.inam@uky.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:munib.inam@uky.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/munib-inam"
-    - label: "Photography"
-      icon: "fas fa-fw fa-camera"
-      url: "https://500px.com/p/min233"
-    - label: "📄 Curriculum Vitae"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0"
       
 # Reading Files
 include:
