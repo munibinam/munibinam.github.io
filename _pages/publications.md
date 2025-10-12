@@ -177,7 +177,7 @@ classes: wide
 <div class="cv-link-section">
   <p style="margin-bottom: 0.8em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
   <p style="margin: 0;">
-    <a href="https://munibinam.github.io/files/Inam_CV_2025.pdf" target="_blank">📄 Download Curriculum Vitae</a>
+    <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0" target="_blank">📄 Download Curriculum Vitae</a>
   </p>
 </div>
 

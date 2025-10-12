@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="http://munibinam.github.io/files/Inam_CV_2025.pdf" target="_blank">Download CV</a></p>
+<p><a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0" target="_blank">Download CV</a></p>
 
 
 Education
