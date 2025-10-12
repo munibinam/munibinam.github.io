@@ -24,6 +24,45 @@ button.greedy-nav__toggle {
   display: none !important;
 }
 
+/* Mobile optimization */
+@media (max-width: 768px) {
+  /* Reduce navigation spacing on mobile */
+  .masthead {
+    padding: 0.5em 0;
+  }
+
+  .greedy-nav .site-title {
+    font-size: 1.2em;
+    padding: 0.25em 0.5em;
+  }
+
+  .greedy-nav .visible-links {
+    gap: 0.5em;
+  }
+
+  .greedy-nav .visible-links a {
+    padding: 0.5em 0.75em;
+    font-size: 0.9em;
+  }
+
+  /* Reduce page title spacing */
+  h1 {
+    font-size: 1.6em !important;
+    margin-bottom: 0.3em !important;
+    line-height: 1.2 !important;
+  }
+
+  /* Tighter body text */
+  body {
+    font-size: 16px;
+  }
+
+  /* Reduce padding in sections */
+  .page__content {
+    padding: 1em 0.5em;
+  }
+}
+
 /* FORCE navigation to always be visible */
 .greedy-nav .visible-links {
   display: flex !important;
