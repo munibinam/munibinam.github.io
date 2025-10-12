@@ -161,17 +161,22 @@ a:hover {
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
-/* Subtle Dot Pattern Background */
+/* Colorful Gradient Background for Glass Effect */
 body {
-  background-color: #f8f9fa;
-  background-image: radial-gradient(circle, #e1e4e8 1px, transparent 1px);
-  background-size: 20px 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%);
+  background-size: 400% 400%;
   background-attachment: fixed;
+  animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 .page {
-  background: white;
-  box-shadow: 0 0 30px rgba(0,0,0,0.08);
+  background: transparent;
   margin: 2em auto;
   padding: 2em;
   max-width: 1400px;
