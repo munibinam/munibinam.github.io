@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Sticky Navigation */
+/* Sticky Navigation with Scroll Effect */
 .masthead {
   position: sticky;
   top: 0;
@@ -21,6 +21,12 @@ html {
   -webkit-backdrop-filter: blur(10px);
   box-shadow: 0 2px 10px rgba(0,0,0,0.05);
   transition: all 0.3s ease;
+}
+
+.masthead.scrolled {
+  background: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  padding: 0.3em 0;
 }
 
 /* Page Loading Fade-in */
@@ -103,13 +109,17 @@ p {
   margin-bottom: 1.3em;
 }
 
-/* 3. Accent color for links and hover effects */
+/* 3. Accent color for links and hover effects - Enhanced */
 a {
-  transition: all 0.3s ease;
+  transition: color 0.3s ease, border-color 0.3s ease, transform 0.2s ease;
 }
 
 a:hover {
   color: #0D7377;
+}
+
+.page__content a:hover {
+  transform: translateX(2px);
 }
 
 .greedy-nav .visible-links a {
@@ -148,8 +158,50 @@ a:hover {
 }
 
 .presentation-item:hover {
-  transform: translateX(3px);
+  transform: translateX(5px);
   background: #f0f1f2 !important;
+  border-left-color: #0D7377;
+}
+
+/* Back to Top Button */
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  z-index: 999;
+}
+
+.back-to-top:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+  background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+  }
 }
 
 /* Profile Picture Styling */

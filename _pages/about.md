@@ -23,8 +23,8 @@ classes: wide
 
 .hero-section {
   text-align: center;
-  padding: 3em 0 2.5em;
-  margin-bottom: 3em;
+  padding: 4em 0 3.5em;
+  margin-bottom: 3.5em;
   border-bottom: 1px solid var(--border-color);
 }
 
@@ -32,16 +32,17 @@ classes: wide
   font-size: 2.5em;
   font-weight: 300;
   color: var(--primary-color);
-  margin-bottom: 0.7em;
+  margin-bottom: 1em;
   letter-spacing: 2px;
 }
 
 .hero-section .subtitle {
   font-size: 1.1em;
   color: #666;
-  line-height: 1.7;
+  line-height: 1.8;
   max-width: 750px;
   margin: 0 auto;
+  padding: 0 1em;
 }
 
 .focus-areas {
