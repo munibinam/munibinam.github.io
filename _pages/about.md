@@ -22,25 +22,26 @@ classes: wide
 }
 
 .hero-section {
-  padding: 2em 0 1.5em;
-  margin-bottom: 2em;
-  border-bottom: 2px solid var(--primary-color);
+  text-align: center;
+  padding: 3em 0 2.5em;
+  margin-bottom: 3em;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .hero-section h1 {
-  font-size: 1.8em;
-  font-weight: 500;
+  font-size: 2.5em;
+  font-weight: 300;
   color: var(--primary-color);
-  margin-bottom: 0.6em;
-  letter-spacing: -0.3px;
-  line-height: 1.3;
+  margin-bottom: 0.7em;
+  letter-spacing: 2px;
 }
 
 .hero-section .subtitle {
-  font-size: 1.05em;
-  color: #555;
-  line-height: 1.6;
-  max-width: 900px;
+  font-size: 1.1em;
+  color: #666;
+  line-height: 1.7;
+  max-width: 750px;
+  margin: 0 auto;
 }
 
 .focus-areas {
@@ -245,9 +246,9 @@ classes: wide
 </style>
 
 <div class="hero-section">
-  <h1>Examining the Economic Impacts of Climate Extremes on Agriculture and Water Resources</h1>
+  <h1>Climate • Agriculture • Water</h1>
   <p class="subtitle">
-    My research focuses on measuring how extreme weather events affect agricultural productivity and water systems in the United States, with particular attention to methodological challenges in climate impact assessment.
+    Measuring the economic impacts of extreme weather on agricultural productivity and water resources.
   </p>
 </div>
 
