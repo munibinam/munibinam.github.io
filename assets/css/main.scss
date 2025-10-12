@@ -161,13 +161,42 @@ a:hover {
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
-/* Simple Background Separation */
+/* Background Separation with Subtle Gradient */
 body {
-  background: #fafbfc;
+  background: linear-gradient(to bottom, #f5f7fa 0%, #e8ecf1 100%);
+  background-attachment: fixed;
 }
 
 .page {
   background: white;
+  box-shadow: 0 0 30px rgba(0,0,0,0.1);
+  margin: 2em auto;
+  padding: 2em;
+  max-width: 1400px;
+}
+
+@media (max-width: 768px) {
+  .page {
+    margin: 0;
+    padding: 1em;
+    box-shadow: none;
+  }
+}
+
+/* Remove external link icon from CV navigation link */
+.greedy-nav .visible-links a[target="_blank"]::after {
+  content: none !important;
+}
+
+a[href*="CV_INAM.pdf"] {
+  /* Make CV links look like regular text, not buttons */
+  display: inline !important;
+  padding: 0 !important;
+  background: none !important;
+  color: inherit !important;
+  border-radius: 0 !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
 }
 
 /* Hide hamburger menu */
