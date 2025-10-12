@@ -161,12 +161,12 @@ a:hover {
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
-/* Colorful Gradient Background for Glass Effect */
+/* BRIGHT OBVIOUS Background for Glass Effect Testing */
 body {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%);
-  background-size: 400% 400%;
-  background-attachment: fixed;
-  animation: gradientShift 15s ease infinite;
+  background: linear-gradient(45deg, #FF0080 0%, #7928CA 25%, #FF0080 50%, #7928CA 75%, #FF0080 100%) !important;
+  background-size: 400% 400% !important;
+  background-attachment: fixed !important;
+  animation: gradientShift 3s ease infinite !important;
 }
 
 @keyframes gradientShift {
@@ -176,10 +176,10 @@ body {
 }
 
 .page {
-  background: transparent;
-  margin: 2em auto;
-  padding: 2em;
-  max-width: 1400px;
+  background: transparent !important;
+  margin: 2em auto !important;
+  padding: 2em !important;
+  max-width: 1400px !important;
 }
 
 @media (max-width: 768px) {
