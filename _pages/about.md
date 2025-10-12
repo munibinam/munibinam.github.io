@@ -306,9 +306,9 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
 
 <div class="chapter-section">
   <div class="chapter-number">Chapter 3</div>
-  <div class="chapter-title">Heterogenous Effects of Housing Lot Size Composition on Water Consumption</div>
+  <div class="chapter-title">Lot Size Composition and the Welfare Effects of Water Conservation Mandates</div>
 
-  <p>California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"</p>
+  <p>We examine how residential water conservation mandates create heterogeneous welfare effects across different household types. Using a panel of single-family monthly water use, lot size composition, and home values across California water agencies, we estimate group-specific demand elasticities and welfare losses from command-and-control mandates. Large-lot agencies are less price responsive than small-lot agencies, yet when assigned to strict conservation tiers they achieved larger absolute reductions. After the mandate, large-lot agencies showed no significant rebound, while small-lot agencies rebounded by about 7%. Welfare analysis indicates that large-lot agencies bore higher absolute costs, whereas small-lot agencies experienced greater losses as a share of their water bills. These findings highlight the distributional tradeoffs between effectiveness and equity in conservation mandates.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Working Paper</span>
