@@ -1,60 +1,24 @@
 {% include base_path %}
 
-<style>
-.modern-footer {
-  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-  color: rgba(255,255,255,0.9);
-  padding: 3em 2em 2em 2em;
-  margin-top: 4em;
-  text-align: center;
-  border-top: 3px solid #0D7377;
-}
-
-.modern-footer p {
-  margin: 0.5em 0;
-  font-size: 0.9em;
-  line-height: 1.6;
-}
-
-.modern-footer a {
-  color: #14FFEC;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  border-bottom: 1px solid transparent;
-}
-
-.modern-footer a:hover {
-  color: white;
-  border-bottom-color: white;
-}
-
-.footer-links {
-  margin: 1.5em 0;
-  display: flex;
-  justify-content: center;
-  gap: 2em;
-  flex-wrap: wrap;
-}
-
-.footer-divider {
-  width: 60px;
-  height: 2px;
-  background: rgba(255,255,255,0.3);
-  margin: 1.5em auto;
-}
-</style>
-
-<div class="modern-footer">
-  <p style="font-size: 1em; font-weight: 500;">{{ site.name | default: site.title }}</p>
-  <div class="footer-divider"></div>
-
-  <div class="footer-links">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/publications/' | relative_url }}">Research</a>
-    <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-    <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0" target="_blank">CV</a>
-  </div>
-
-  <p style="opacity: 0.8; font-size: 0.85em; margin-top: 1.5em;">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved.</p>
-  <p style="opacity: 0.6; font-size: 0.8em;">Built with Jekyll • Last updated {{ site.time | date: '%B %Y' }}</p>
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
 </div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
