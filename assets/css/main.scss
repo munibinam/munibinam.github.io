@@ -44,33 +44,33 @@ button.greedy-nav__toggle {
     display: inline !important;
   }
 
-  /* Very compact navigation on mobile */
+  /* Ultra compact navigation on mobile */
   .masthead {
-    padding: 0.2em 0;
+    padding: 0.15em 0;
   }
 
   .greedy-nav {
-    padding-left: 0.3em;
-    padding-right: 0.3em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
   }
 
   .greedy-nav .site-title {
-    font-size: 0.9em;
-    padding: 0.4em 0.3em;
-    margin-right: 0.3em;
+    font-size: 0.85em;
+    padding: 0.3em 0.2em;
+    margin-right: 0.25em;
   }
 
   .greedy-nav .visible-links {
-    gap: 0.15em;
+    gap: 0.1em;
   }
 
   .greedy-nav .visible-links li {
-    margin: 0 0.15em !important;
+    margin: 0 0.1em !important;
   }
 
   .greedy-nav .visible-links a {
-    padding: 0.4em 0.35em;
-    font-size: 0.85em;
+    padding: 0.3em 0.25em;
+    font-size: 0.8em;
   }
 
   /* Reduce page title spacing */
