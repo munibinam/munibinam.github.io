@@ -93,30 +93,6 @@ classes: wide
   border-bottom-color: white;
 }
 
-.research-tags {
-  margin-top: 0.6em;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4em;
-}
-
-.tag {
-  display: inline-block;
-  padding: 0.3em 0.7em;
-  font-size: 0.75em;
-  font-weight: 500;
-  border-radius: 12px;
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.tag-climate { background: linear-gradient(135deg, #0D7377 0%, #14FFEC 100%); }
-.tag-water { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); }
-.tag-agriculture { background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%); }
-.tag-econometrics { background: linear-gradient(135deg, #8B4049 0%, #C85A5C 100%); }
-.tag-policy { background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); }
-
 @media (max-width: 768px) {
   .year-section { padding: 1.5em; }
   .presentation-item { padding: 1em; }
@@ -128,42 +104,24 @@ classes: wide
   
   <div class="presentation-item">
     <div class="presentation-title">"Management and Policy Challenges in a Water-Scarce World: Part II Panel Discussion"</div>
-    <div class="research-tags">
-      <span class="tag tag-water">Water</span>
-      <span class="tag tag-policy">Policy</span>
-    </div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
     <div class="presentation-title">"The Effects of Drought and Extreme Precipitation on U.S. Corn Yields"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-agriculture">Agriculture</span>
-      <span class="tag tag-water">Water</span>
-    </div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
     <div class="presentation-title">"The Impacts of Weather Measurement Errors on Agricultural Productivity Estimates"</div>
-    <div class="research-tags">
-      <span class="tag tag-econometrics">Econometrics</span>
-      <span class="tag tag-agriculture">Agriculture</span>
-    </div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
     <div class="presentation-title">"Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-agriculture">Agriculture</span>
-      <span class="tag tag-econometrics">Econometrics</span>
-    </div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Irving, TX, United States</div>
     <div class="award-highlight">
@@ -177,10 +135,6 @@ classes: wide
 
   <div class="presentation-item">
     <div class="presentation-title">"Measuring Extreme Weather and its Impact on Agriculture in Kentucky, USA"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-agriculture">Agriculture</span>
-    </div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Atlanta, GA, United States</div>
   </div>
@@ -191,21 +145,12 @@ classes: wide
 
   <div class="presentation-item">
     <div class="presentation-title">"Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-agriculture">Agriculture</span>
-      <span class="tag tag-water">Water</span>
-    </div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Fort Collins, CO, United States</div>
   </div>
 
   <div class="presentation-item">
     <div class="presentation-title">"Heterogeneous Effects of Housing Lot Size Composition on Water Consumption: Evidence from Water Agencies in California"</div>
-    <div class="research-tags">
-      <span class="tag tag-water">Water</span>
-      <span class="tag tag-econometrics">Econometrics</span>
-    </div>
     <div class="conference-info">Agricultural and Applied Economics Association Annual Meeting</div>
     <div class="conference-location">Washington, DC, United States</div>
   </div>
@@ -216,20 +161,12 @@ classes: wide
 
   <div class="presentation-item">
     <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-water">Water</span>
-    </div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Oklahoma City, OK, United States</div>
   </div>
 
   <div class="presentation-item">
     <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
-    <div class="research-tags">
-      <span class="tag tag-climate">Climate</span>
-      <span class="tag tag-water">Water</span>
-    </div>
     <div class="conference-info">John P. Wyatt, M.D. Environment and Health Symposium</div>
     <div class="conference-location">Lexington, KY, United States</div>
   </div>

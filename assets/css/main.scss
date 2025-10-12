@@ -161,76 +161,13 @@ a:hover {
   box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
-/* Sidebar Icons */
-.author__content p,
-.author__content .author__bio {
-  position: relative;
-  padding-left: 1.8em;
+/* Simple Background Separation */
+body {
+  background: #fafbfc;
 }
 
-.author__content p::before,
-.author__bio::before {
-  content: "📍";
-  position: absolute;
-  left: 0;
-  opacity: 0.7;
-}
-
-.author__content p:has(a[href*="mailto"])::before {
-  content: "✉️";
-}
-
-.author__bio::before {
-  content: "🎓";
-}
-
-/* Enhanced CV Button/Link Styling */
-.cv-link-section a,
-a[href*="CV_INAM.pdf"] {
-  display: inline-block;
-  padding: 0.6em 1.2em;
-  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-  color: white !important;
-  border-radius: 6px;
-  text-decoration: none !important;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(44,62,80,0.3);
-}
-
-.cv-link-section a:hover,
-a[href*="CV_INAM.pdf"]:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(44,62,80,0.4);
-  background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
-}
-
-/* Animated Background Pattern */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  opacity: 0.03;
-  background-image:
-    linear-gradient(30deg, #2c3e50 12%, transparent 12.5%, transparent 87%, #2c3e50 87.5%, #2c3e50),
-    linear-gradient(150deg, #2c3e50 12%, transparent 12.5%, transparent 87%, #2c3e50 87.5%, #2c3e50),
-    linear-gradient(30deg, #2c3e50 12%, transparent 12.5%, transparent 87%, #2c3e50 87.5%, #2c3e50),
-    linear-gradient(150deg, #2c3e50 12%, transparent 12.5%, transparent 87%, #2c3e50 87.5%, #2c3e50);
-  background-size: 80px 140px;
-  background-position: 0 0, 0 0, 40px 70px, 40px 70px;
-  animation: backgroundScroll 60s linear infinite;
-}
-
-@keyframes backgroundScroll {
-  from {
-    background-position: 0 0, 0 0, 40px 70px, 40px 70px;
-  }
-  to {
-    background-position: 80px 140px, 80px 140px, 120px 210px, 120px 210px;
-  }
+.page {
+  background: white;
 }
 
 /* Hide hamburger menu */
