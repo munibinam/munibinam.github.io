@@ -70,75 +70,86 @@ classes: wide
 
 .chapter-section {
   background: white;
+  border-left: 3px solid var(--primary-color);
+  padding: 1.8em;
+  margin: 1.5em 0;
   border: 1px solid var(--border-color);
-  padding: 2em;
-  margin: 2em 0;
-  transition: box-shadow 0.2s ease;
+  border-left: 3px solid var(--primary-color);
+  transition: all 0.2s ease;
 }
 
 .chapter-section:hover {
   box-shadow: var(--hover-shadow);
+  border-left-color: var(--accent-color);
 }
 
-.chapter-link, .chapter-label {
+.chapter-number {
   display: inline-block;
-  padding: 0.5em 1em;
-  font-size: 0.85em;
+  color: var(--primary-color);
   font-weight: 600;
+  font-size: 0.9em;
+  margin-bottom: 0.5em;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  margin-bottom: 1.2em;
-  border-radius: 2px;
-}
-
-.chapter-link {
-  background-color: var(--primary-color);
-  color: white !important;
-  text-decoration: none !important;
-  transition: background-color 0.2s ease;
-}
-
-.chapter-link:hover {
-  background-color: #1a252f;
-}
-
-.chapter-label {
-  background-color: #95a5a6;
-  color: white !important;
 }
 
 .chapter-title {
-  font-size: 1.3em;
+  font-size: 1.2em;
   color: var(--primary-color);
-  margin-bottom: 1em;
-  font-weight: 400;
-  line-height: 1.5;
+  margin-bottom: 0.8em;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.chapter-title a {
+  color: var(--primary-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.chapter-title a:hover {
+  color: var(--accent-color);
+  border-bottom-color: var(--accent-color);
 }
 
 .chapter-section p {
   color: #555;
-  line-height: 1.7;
+  line-height: 1.6;
+  font-size: 0.95em;
+  margin-bottom: 1em;
+}
+
+.chapter-meta {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border-color);
 }
 
 .status-badge {
   display: inline-block;
   background-color: var(--light-bg);
   color: #666;
-  padding: 0.4em 1em;
-  font-size: 0.85em;
+  padding: 0.3em 0.8em;
+  font-size: 0.8em;
   font-weight: 500;
-  margin-top: 1em;
   border: 1px solid var(--border-color);
+  border-radius: 3px;
 }
 
-.request-note {
-  font-style: italic;
-  color: #777;
-  margin-top: 1em;
-  font-size: 0.9em;
-  padding: 0.8em;
-  background-color: var(--light-bg);
-  border-left: 3px solid var(--border-color);
+.chapter-link-small {
+  display: inline-block;
+  color: var(--accent-color);
+  font-size: 0.8em;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(52, 152, 219, 0.3);
+}
+
+.chapter-link-small:hover {
+  border-bottom-color: var(--accent-color);
 }
 
 .background-section {
@@ -270,42 +281,41 @@ Through interdisciplinary collaboration and econometric analysis, my work bridge
 My dissertation explores how weather extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
 
 <div class="chapter-section" id="dissertation-research">
-  <a href="/files/Job_market_paper_2025.pdf" class="chapter-link" target="_blank">
-    Chapter 1
-  </a>
-  <div class="chapter-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
-  
-  This research shows that conventional approaches to measuring extreme weather impacts on agriculture may systematically misestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I show that there are significant biases that affect yield estimates when we look at the impact of extreme weather on productivity.
+  <div class="chapter-number">Chapter 1</div>
+  <div class="chapter-title">
+    <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</a>
+  </div>
 
-  <div class="status-badge">  Under Review • Job Market Paper</div>
+  <p>This research shows that conventional approaches to measuring extreme weather impacts on agriculture may systematically misestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I show that there are significant biases that affect yield estimates when we look at the impact of extreme weather on productivity.</p>
+
+  <div class="chapter-meta">
+    <span class="status-badge">Under Review • Job Market Paper</span>
+    <a href="/files/Job_market_paper_2025.pdf" class="chapter-link-small" target="_blank">Download PDF</a>
+  </div>
 </div>
 
 <div class="chapter-section">
-  <div class="chapter-label">
-    Chapter 2
-  </div>
+  <div class="chapter-number">Chapter 2</div>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
-  
-  This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.
 
-  <div class="request-note">
-    Paper available upon request.
+  <p>This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.</p>
+
+  <div class="chapter-meta">
+    <span class="status-badge">Working Paper</span>
+    <span class="chapter-link-small">Paper available upon request</span>
   </div>
-  <div class="status-badge">  Working Paper</div>
 </div>
 
 <div class="chapter-section">
-  <div class="chapter-label">
-    Chapter 3
-  </div>
+  <div class="chapter-number">Chapter 3</div>
   <div class="chapter-title">Heterogenous Effects of Housing Lot Size Composition on Water Consumption</div>
-  
-  California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"
 
-  <div class="request-note">
-    Paper available upon request.
+  <p>California's demographic composition is changing. As more and more people move inland into drier and hotter areas, their water consumption patterns are changing. With bigger lots located in drier and hotter climate, this can have implications for the dwindling water resources the state has access to. With this work, I aim to answer the question, "How has recent housing development in California affected residential water consumption, especially during extreme drought conditions?"</p>
+
+  <div class="chapter-meta">
+    <span class="status-badge">Working Paper</span>
+    <span class="chapter-link-small">Paper available upon request</span>
   </div>
-  <div class="status-badge">  Working Paper</div>
 </div>
 
 ---
