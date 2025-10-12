@@ -71,26 +71,29 @@ classes: wide
 }
 
 .cv-link-section {
-  text-align: center;
-  margin: 3em 0;
-  padding: 2.5em 2em;
-  background: #2c3e50;
-  color: white;
+  background-color: #f8f9fa;
+  padding: 1.5em 2em;
+  text-align: left;
+  margin: 2em 0;
+  border: 1px solid #e1e4e8;
 }
 
 .cv-link-section p {
-  opacity: 0.95;
-  line-height: 1.7;
+  line-height: 1.6;
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 0.8em;
 }
 
 .cv-link-section a {
-  color: white;
+  color: #3498db;
   text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,0.4);
+  border-bottom: 1px solid rgba(52, 152, 219, 0.3);
+  transition: border-color 0.2s ease;
 }
 
 .cv-link-section a:hover {
-  border-bottom-color: white;
+  border-bottom-color: #3498db;
 }
 
 @media (max-width: 768px) {
@@ -175,9 +178,9 @@ classes: wide
 ---
 
 <div class="cv-link-section">
-  <p style="margin-bottom: 0.8em; opacity: 0.95;">For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
-  <p style="margin: 0;">
-    <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0" target="_blank">📄 Download Curriculum Vitae</a>
+  <p>For a comprehensive list of publications, working papers, and additional research materials, please refer to my CV.</p>
+  <p>
+    <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=0" target="_blank">Download Curriculum Vitae</a>
   </p>
 </div>
 
