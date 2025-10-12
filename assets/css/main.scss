@@ -24,8 +24,26 @@ button.greedy-nav__toggle {
   display: none !important;
 }
 
+/* Show/hide name variants by screen size */
+.site-title-short {
+  display: none;
+}
+
+.site-title-full {
+  display: inline;
+}
+
 /* Mobile optimization */
 @media (max-width: 768px) {
+  /* Show abbreviated name on mobile */
+  .site-title-full {
+    display: none !important;
+  }
+
+  .site-title-short {
+    display: inline !important;
+  }
+
   /* Very compact navigation on mobile */
   .masthead {
     padding: 0.2em 0;
@@ -37,9 +55,9 @@ button.greedy-nav__toggle {
   }
 
   .greedy-nav .site-title {
-    font-size: 0.85em;
-    padding: 0.4em 0.2em;
-    margin-right: 0.2em;
+    font-size: 0.9em;
+    padding: 0.4em 0.3em;
+    margin-right: 0.3em;
   }
 
   .greedy-nav .visible-links {
@@ -51,8 +69,8 @@ button.greedy-nav__toggle {
   }
 
   .greedy-nav .visible-links a {
-    padding: 0.4em 0.3em;
-    font-size: 0.75em;
+    padding: 0.4em 0.35em;
+    font-size: 0.85em;
   }
 
   /* Reduce page title spacing */
