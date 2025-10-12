@@ -33,8 +33,8 @@ button.greedy-nav__toggle {
   display: inline;
 }
 
-/* Mobile optimization */
-@media (max-width: 768px) {
+/* Mobile optimization - using smaller breakpoint for phones */
+@media (max-width: 600px) {
   /* Show abbreviated name on mobile */
   .site-title-full {
     display: none !important;
@@ -46,22 +46,22 @@ button.greedy-nav__toggle {
 
   /* Ultra compact navigation on mobile */
   .masthead {
-    padding: 0.15em 0;
+    padding: 0.15em 0 !important;
   }
 
   .greedy-nav {
-    padding-left: 0.25em;
-    padding-right: 0.25em;
+    padding-left: 0.25em !important;
+    padding-right: 0.25em !important;
   }
 
   .greedy-nav .site-title {
-    font-size: 0.85em;
-    padding: 0.3em 0.2em;
-    margin-right: 0.25em;
+    font-size: 0.85em !important;
+    padding: 0.3em 0.2em !important;
+    margin-right: 0.25em !important;
   }
 
   .greedy-nav .visible-links {
-    gap: 0.1em;
+    gap: 0.1em !important;
   }
 
   .greedy-nav .visible-links li {
@@ -69,8 +69,8 @@ button.greedy-nav__toggle {
   }
 
   .greedy-nav .visible-links a {
-    padding: 0.3em 0.25em;
-    font-size: 0.8em;
+    padding: 0.3em 0.25em !important;
+    font-size: 0.8em !important;
   }
 
   /* Reduce page title spacing */
@@ -82,12 +82,12 @@ button.greedy-nav__toggle {
 
   /* Tighter body text */
   body {
-    font-size: 15px;
+    font-size: 15px !important;
   }
 
   /* Reduce padding in sections */
   .page__content {
-    padding: 1em 0.5em;
+    padding: 1em 0.5em !important;
   }
 }
 
