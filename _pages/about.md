@@ -46,11 +46,14 @@ classes: wide
 
 .focus-areas {
   text-align: center;
-  padding: 2em 0;
+  padding: 2em;
   margin: 2em 0;
-  background-color: var(--light-bg);
-  border-top: 1px solid var(--border-color);
-  border-bottom: 1px solid var(--border-color);
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
 }
 
 .focus-areas h2 {
@@ -158,10 +161,14 @@ classes: wide
 }
 
 .background-section {
-  background-color: white;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
   padding: 2em;
   margin: 3em 0;
-  border: 1px solid var(--border-color);
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
 }
 
 .background-section h3 {
@@ -186,11 +193,15 @@ classes: wide
 }
 
 .connect-section {
-  background-color: var(--light-bg);
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
   padding: 1.5em 2em;
   text-align: left;
   margin: 2em 0;
-  border: 1px solid var(--border-color);
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
 }
 
 .connect-section h3 {
