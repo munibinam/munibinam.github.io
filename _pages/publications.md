@@ -131,6 +131,12 @@ classes: wide
 
   <div class="presentation-item">
     <div class="presentation-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
+    <div class="conference-info">Management and Policy Challenges in a Water-Uncertain World</div>
+    <div class="conference-location">Memphis, TN, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Irving, TX, United States</div>
     <div class="award-highlight">
