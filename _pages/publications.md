@@ -153,6 +153,12 @@ classes: wide
   <div class="year-header">2023</div>
 
   <div class="presentation-item">
+    <div class="presentation-title">Frequent and Intense Rainfall Events and Implications for Wheat Yields and Profitability in Kentucky</div>
+    <div class="conference-info">Small Grain Growers Associations</div>
+    <div class="conference-location">Elizabethtown, KY, United States</div>
+  </div>
+
+  <div class="presentation-item">
     <div class="presentation-title">Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Fort Collins, CO, United States</div>
