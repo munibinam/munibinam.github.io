@@ -106,6 +106,12 @@ classes: wide
   <div class="year-header">2025</div>
   
   <div class="presentation-item">
+    <div class="presentation-title">"The Impact of Extreme Weather Events on Drinking Water Quality in Kentucky"</div>
+    <div class="conference-info">Kentucky Water Resources Annual Symposium</div>
+    <div class="conference-location">Lexington, KY, United States</div>
+  </div>
+  
+  <div class="presentation-item">
     <div class="presentation-title">"Management and Policy Challenges in a Water-Scarce World: Part II Panel Discussion"</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
