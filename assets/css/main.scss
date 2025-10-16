@@ -329,16 +329,27 @@ a:hover {
   .sidebar {
     padding: 1.5em 1em;
     margin-bottom: 2em;
+    margin-top: 1em;
+  }
+
+  .author__avatar {
+    display: block;
+    width: 100%;
+    margin-bottom: 1em;
+    position: relative;
   }
 
   .author__avatar img {
     max-width: 120px;
     width: 120px;
     height: 120px;
+    display: block;
+    margin: 0 auto;
   }
 
   .author__name {
     font-size: 1.2em;
+    margin-top: 1em;
   }
 }
 
