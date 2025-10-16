@@ -330,19 +330,17 @@ a:hover {
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar {
-    padding: 1.5em 1em 1.5em 1em !important;
+    padding: 1.5em 1em !important;
     margin-bottom: 2em !important;
     margin-top: 1em !important;
     display: block !important;
-    overflow: hidden !important;
   }
 
   .sidebar .author__avatar {
     display: block !important;
     width: 100% !important;
-    margin-bottom: 1em !important;
+    margin-bottom: 2em !important;
     position: static !important;
-    padding-top: 0 !important;
   }
 
   .sidebar .author__avatar img {
@@ -351,21 +349,21 @@ a:hover {
     height: 100px !important;
     display: block !important;
     margin: 0 auto !important;
-    position: static !important;
   }
 
   .sidebar .author__content {
     display: block !important;
     width: 100% !important;
     padding: 0 !important;
-    padding-top: 2em !important;
-    margin-top: 0 !important;
-    position: static !important;
+    margin: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
   }
 
   .sidebar .author__name {
     font-size: 0.95em !important;
-    margin-top: 0.5em !important;
+    margin-top: 0 !important;
   }
 
   .sidebar .author__bio {
@@ -376,6 +374,9 @@ a:hover {
     position: static !important;
     display: block !important;
     width: 100% !important;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
   }
 
   .sidebar .author__urls {
@@ -384,6 +385,9 @@ a:hover {
     display: block !important;
     width: 100% !important;
     padding: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
   }
 
   .sidebar .author__urls li {
