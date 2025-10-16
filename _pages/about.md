@@ -217,25 +217,6 @@ classes: wide
   border-bottom-color: var(--accent-color);
 }
 
-.figure-container {
-  text-align: center;
-  margin: 3em 0;
-}
-
-.figure-container img {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid var(--border-color);
-}
-
-.figure-container figcaption {
-  font-style: italic;
-  color: #666;
-  margin-top: 1em;
-  font-size: 0.9em;
-  line-height: 1.6;
-}
-
 @media (max-width: 768px) {
   .hero-section h1 { font-size: 1.8em; }
   .hero-section .subtitle { font-size: 1em; }
@@ -256,13 +237,6 @@ classes: wide
 I am a PhD candidate in Agricultural Economics at the University of Kentucky, looking at the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform agricultural policy, risk management, and climate adaptation strategies.
 
 Through interdisciplinary collaboration and econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing weather extremes.
-
-<div class="figure-container">
-  <img src="/images/IPCC_AR6.png" alt="Projected Changes in Climate Extremes (IPCC, 2021)">
-  <figcaption>
-    <strong>Figure:</strong> Projected changes in extreme weather frequency and intensity under different warming scenarios. <em>Source: IPCC (2021)</em>
-  </figcaption>
-</div>
 
 ---
 
@@ -285,7 +259,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
     <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</a>
   </div>
 
-  <p>This research shows that conventional approaches to measuring extreme weather impacts on agriculture may systematically misestimate crop losses. By comparing "pre-transformed" metrics derived directly from weather station observations with "post-transformed" metrics calculated after spatial interpolation, I show that there are significant biases that affect yield estimates when we look at the impact of extreme weather on productivity.</p>
+  <p>Extreme weather events, such as heatwaves, freezes, droughts, floods, and intense precipitation, can significantly influence agricultural productivity. However, spatial interpolation of raw weather data can attenuate localized extremes, potentially biasing estimated impacts on agricultural outcomes. To address this, this paper contrasts measures calculated directly from station data prior to interpolation (pre-transformed) and measures derived after interpolating raw weather variables (post-transformed). It then evaluates their effects on corn yields across the Corn Belt region in the United States using fixed-effects regression models. The results show notable differences in the distributions of extreme weather measures under pre- and post-transformation. While the estimated effects of some measures (e.g., cooling degree days, CDD; killing degree days, KDD) are similar, others (e.g., growing degree days, GDD; indices of extreme wetness) differ significantly. Counterfactual analyses indicate that yield predictions based on post-transformed data are systematically higher, consistent with smoothing of localized extremes. A Shapley decomposition attributes more than 90% of prediction differences to mismeasurement of extreme heat. These findings indicate that the order of interpolation and non-linear transformation matters. Pre-transformed measures better preserve extremes that affect yields, whereas post-transformed measures smooth those extremes and tend to overpredict yields.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Under Review • Job Market Paper</span>
