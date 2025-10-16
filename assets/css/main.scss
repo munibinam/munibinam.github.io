@@ -330,7 +330,7 @@ a:hover {
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar {
-    padding: 1.5em 1em !important;
+    padding: 1.5em 1em 1.5em 1em !important;
     margin-bottom: 2em !important;
     margin-top: 1em !important;
     display: block !important;
@@ -357,21 +357,31 @@ a:hover {
     display: block !important;
     width: 100% !important;
     padding: 0 !important;
+    padding-top: 3em !important;
     margin-top: 0 !important;
     position: static !important;
   }
 
   .sidebar .author__name {
-    font-size: 1.1em !important;
+    font-size: 0.95em !important;
     margin-top: 0.5em !important;
   }
 
   .sidebar .author__bio {
-    font-size: 0.9em !important;
+    font-size: 0.8em !important;
+  }
+
+  .sidebar .author__urls {
+    margin-top: 1em !important;
   }
 
   .sidebar .author__urls li {
-    font-size: 0.85em !important;
+    font-size: 0.75em !important;
+  }
+
+  /* Hide Follow button on mobile */
+  .sidebar .author__urls-wrapper button {
+    display: none !important;
   }
 }
 
