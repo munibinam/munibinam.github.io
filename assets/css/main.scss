@@ -226,6 +226,7 @@ a:hover {
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   margin-top: 1.5em;
+  position: relative;
 }
 
 /* Profile Picture - Larger and more prominent */
@@ -234,6 +235,8 @@ a:hover {
   width: 100%;
   text-align: center;
   margin-bottom: 1.5em;
+  position: relative;
+  z-index: 1;
 }
 
 .author__avatar img {
@@ -327,16 +330,20 @@ a:hover {
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar {
-    padding: 1.5em 1em;
+    padding: 0;
     margin-bottom: 2em;
     margin-top: 1em;
+    overflow: visible;
   }
 
   .author__avatar {
     display: block;
     width: 100%;
-    margin-bottom: 1em;
+    margin-bottom: 0;
     position: relative;
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
   }
 
   .author__avatar img {
@@ -344,12 +351,22 @@ a:hover {
     width: 120px;
     height: 120px;
     display: block;
-    margin: 0 auto;
+    margin: -60px auto 0 auto;
+    position: relative;
+    z-index: 10;
+  }
+
+  .author__content {
+    background: white;
+    padding: 70px 1.5em 1.5em 1.5em;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    margin-top: 0;
   }
 
   .author__name {
     font-size: 1.2em;
-    margin-top: 1em;
+    margin-top: 0;
   }
 }
 
