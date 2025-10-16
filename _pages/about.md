@@ -270,7 +270,7 @@ My dissertation explores how weather extremes shape U.S. agricultural and water 
   <div class="chapter-number">Chapter 2</div>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
 
-  <p>This study examines the relationship between extreme weather events and drinking water quality in the United States. Using high-resolution hourly weather data combined with EPA water quality monitoring records, I look at how sub-daily weather extremes affect water quality.</p>
+  <p>Using compliance data from Kentucky water systems linked to hourly weather observations (2005-2022), we examine how temperature, precipitation, and soil moisture affect microbial and chemical contamination. Extreme heat increases disinfection byproducts and coliform detection, whereas precipitation intensity drives microbial risk. Antecedent soil moisture strongly mediates impacts; wet conditions reduce contamination while dry soils amplify subsequent risks. Small systems show higher weather sensitivity compared to large systems for microbial outcomes, indicating disparate climate vulnerabilities. The findings highlight that weather already degrades water quality, with impacts concentrated in resource-limited systems serving rural communities, requiring targeted adaptation as extremes intensify.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Working Paper</span>

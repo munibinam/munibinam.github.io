@@ -106,25 +106,37 @@ classes: wide
   <div class="year-header">2025</div>
   
   <div class="presentation-item">
-    <div class="presentation-title">"Management and Policy Challenges in a Water-Scarce World: Part II Panel Discussion"</div>
+    <div class="presentation-title">The Impact of Extreme Weather Events on Drinking Water Quality in Kentucky</div>
+    <div class="conference-info">Kentucky Water Resources Annual Symposium</div>
+    <div class="conference-location">Lexington, KY, United States</div>
+  </div>
+  
+  <div class="presentation-item">
+    <div class="presentation-title">Management and Policy Challenges in a Water-Scarce World: Part II Panel Discussion</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"The Effects of Drought and Extreme Precipitation on U.S. Corn Yields"</div>
+    <div class="presentation-title">The Effects of Drought and Extreme Precipitation on U.S. Corn Yields</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"The Impacts of Weather Measurement Errors on Agricultural Productivity Estimates"</div>
+    <div class="presentation-title">The Impacts of Weather Measurement Errors on Agricultural Productivity Estimates</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Minneapolis, MN, United States</div>
   </div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States"</div>
+    <div class="presentation-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
+    <div class="conference-info">Management and Policy Challenges in a Water-Uncertain World</div>
+    <div class="conference-location">Memphis, TN, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Irving, TX, United States</div>
     <div class="award-highlight">
@@ -137,7 +149,7 @@ classes: wide
   <div class="year-header">2024</div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"Measuring Extreme Weather and its Impact on Agriculture in Kentucky, USA"</div>
+    <div class="presentation-title">Measuring Extreme Weather and its Impact on Agriculture in Kentucky, USA</div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Atlanta, GA, United States</div>
   </div>
@@ -147,13 +159,19 @@ classes: wide
   <div class="year-header">2023</div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use"</div>
+    <div class="presentation-title">Frequent and Intense Rainfall Events and Implications for Wheat Yields and Profitability in Kentucky</div>
+    <div class="conference-info">Small Grain Growers Associations</div>
+    <div class="conference-location">Elizabethtown, KY, United States</div>
+  </div>
+
+  <div class="presentation-item">
+    <div class="presentation-title">Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use</div>
     <div class="conference-info">Universities Council on Water Resources Annual Conference</div>
     <div class="conference-location">Fort Collins, CO, United States</div>
   </div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"Heterogeneous Effects of Housing Lot Size Composition on Water Consumption: Evidence from Water Agencies in California"</div>
+    <div class="presentation-title">Heterogeneous Effects of Housing Lot Size Composition on Water Consumption: Evidence from Water Agencies in California</div>
     <div class="conference-info">Agricultural and Applied Economics Association Annual Meeting</div>
     <div class="conference-location">Washington, DC, United States</div>
   </div>
@@ -163,13 +181,13 @@ classes: wide
   <div class="year-header">2022</div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
+    <div class="presentation-title">The Impact of Extreme Weather Events on Water Quality in Kentucky, USA</div>
     <div class="conference-info">Southern Agricultural Economics Association Annual Meeting</div>
     <div class="conference-location">Oklahoma City, OK, United States</div>
   </div>
 
   <div class="presentation-item">
-    <div class="presentation-title">"The Impact of Extreme Weather Events on Water Quality in Kentucky, USA"</div>
+    <div class="presentation-title">The Impact of Extreme Weather Events on Water Quality in Kentucky, USA</div>
     <div class="conference-info">John P. Wyatt, M.D. Environment and Health Symposium</div>
     <div class="conference-location">Lexington, KY, United States</div>
   </div>
