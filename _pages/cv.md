@@ -12,7 +12,7 @@ redirect_from:
 <style>
 .pdf-container {
   width: 100%;
-  height: 900px;
+  height: 1200px;
   margin: 2em 0 3em 0;
   border: 1px solid #e1e4e8;
   border-radius: 4px;
@@ -51,7 +51,7 @@ redirect_from:
 
 @media (max-width: 768px) {
   .pdf-container {
-    height: 600px;
+    height: 700px;
   }
 }
 </style>

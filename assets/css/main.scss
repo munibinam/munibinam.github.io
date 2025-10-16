@@ -330,35 +330,48 @@ a:hover {
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar {
-    padding: 1.5em 1em;
-    margin-bottom: 2em;
-    margin-top: 1em;
+    padding: 1.5em 1em !important;
+    margin-bottom: 2em !important;
+    margin-top: 1em !important;
+    display: block !important;
   }
 
-  .author__avatar {
-    display: block;
-    width: 100%;
-    margin-bottom: 1em;
+  .sidebar .author__avatar {
+    display: block !important;
+    width: 100% !important;
+    margin-bottom: 1em !important;
+    position: static !important;
+    padding-top: 0 !important;
   }
 
-  .author__avatar img {
-    max-width: 100px;
-    width: 100px;
-    height: 100px;
-    display: block;
-    margin: 0 auto;
+  .sidebar .author__avatar img {
+    max-width: 100px !important;
+    width: 100px !important;
+    height: 100px !important;
+    display: block !important;
+    margin: 0 auto !important;
+    position: static !important;
   }
 
-  .author__name {
-    font-size: 1.1em;
+  .sidebar .author__content {
+    display: block !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin-top: 0 !important;
+    position: static !important;
   }
 
-  .author__bio {
-    font-size: 0.9em;
+  .sidebar .author__name {
+    font-size: 1.1em !important;
+    margin-top: 0.5em !important;
   }
 
-  .author__urls li {
-    font-size: 0.85em;
+  .sidebar .author__bio {
+    font-size: 0.9em !important;
+  }
+
+  .sidebar .author__urls li {
+    font-size: 0.85em !important;
   }
 }
 
