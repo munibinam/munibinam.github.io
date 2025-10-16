@@ -330,43 +330,35 @@ a:hover {
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar {
-    padding: 0;
+    padding: 1.5em 1em;
     margin-bottom: 2em;
     margin-top: 1em;
-    overflow: visible;
   }
 
   .author__avatar {
     display: block;
     width: 100%;
-    margin-bottom: 0;
-    position: relative;
-    padding: 0;
-    background: transparent;
-    box-shadow: none;
+    margin-bottom: 1em;
   }
 
   .author__avatar img {
-    max-width: 120px;
-    width: 120px;
-    height: 120px;
+    max-width: 100px;
+    width: 100px;
+    height: 100px;
     display: block;
-    margin: -60px auto 0 auto;
-    position: relative;
-    z-index: 10;
-  }
-
-  .author__content {
-    background: white;
-    padding: 70px 1.5em 1.5em 1.5em;
-    border-radius: 8px;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-    margin-top: 0;
+    margin: 0 auto;
   }
 
   .author__name {
-    font-size: 1.2em;
-    margin-top: 0;
+    font-size: 1.1em;
+  }
+
+  .author__bio {
+    font-size: 0.9em;
+  }
+
+  .author__urls li {
+    font-size: 0.85em;
   }
 }
 
