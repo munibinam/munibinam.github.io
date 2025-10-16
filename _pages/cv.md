@@ -18,6 +18,7 @@ redirect_from:
   border-radius: 4px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  animation: fadeInUp 0.8s ease-out;
 }
 
 .pdf-container iframe {

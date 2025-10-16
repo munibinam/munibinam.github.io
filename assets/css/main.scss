@@ -339,8 +339,9 @@ a:hover {
   .sidebar .author__avatar {
     display: block !important;
     width: 100% !important;
-    margin-bottom: 2em !important;
-    position: static !important;
+    margin-bottom: 0 !important;
+    position: relative !important;
+    height: 120px !important;
   }
 
   .sidebar .author__avatar img {
@@ -349,6 +350,7 @@ a:hover {
     height: 100px !important;
     display: block !important;
     margin: 0 auto !important;
+    position: relative !important;
   }
 
   .sidebar .author__content {
@@ -363,7 +365,7 @@ a:hover {
 
   .sidebar .author__name {
     font-size: 0.95em !important;
-    margin-top: 3em !important;
+    margin-top: 1em !important;
   }
 
   .sidebar .author__bio {
