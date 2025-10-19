@@ -62,5 +62,5 @@ redirect_from:
 </div>
 
 <div class="download-link-box">
-  <p>If the PDF doesn't display properly, you can <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=1" target="_blank">download the PDF directly</a>.</p>
+  <p>If the PDF doesn't display properly, you can <a href="https://www.dropbox.com/scl/fi/dg5av3wwf383md7k1zii7/CV_INAM.pdf?rlkey=wsxymxlp8uyq11aywruu777p7&st=dyapsirb&dl=1" target="_blank">download the CV directly</a>.</p>
 </div>
