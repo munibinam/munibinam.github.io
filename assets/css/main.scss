@@ -335,7 +335,13 @@ a:hover {
     margin-bottom: 2em !important;
     margin-top: 1em !important;
     display: block !important;
-    position: static !important;
+    position: relative !important;
+    top: auto !important;
+  }
+
+  .page__content {
+    position: relative !important;
+    z-index: 1 !important;
   }
 
   .sidebar .author__avatar {
