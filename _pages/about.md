@@ -234,9 +234,9 @@ classes: wide
 
 ## Research Overview
 
-I am a PhD candidate in Agricultural Economics at the University of Kentucky, looking at the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform agricultural policy, risk management, and climate adaptation strategies.
+I am an applied economist looking at the economic implications of extreme weather events and their implications for applied economics research. My research addresses important methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform climate adaptation strategies.
 
-Through interdisciplinary collaboration and econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing weather extremes.
+Through interdisciplinary collaboration and econometric analyses, my work bridges economic science, climate science, and environmental policy to develop tools that help communities and policymakers build resilience against increasing weather extremes.
 
 ---
 
@@ -251,15 +251,19 @@ Through interdisciplinary collaboration and econometric analysis, my work bridge
 
 ## Dissertation Research
 
-My dissertation explores how weather extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
+My dissertation explores the implications of measurement error in methods of calculating weather extremes for applied economics research.
 
 <div class="chapter-section" id="dissertation-research">
   <div class="chapter-number">Chapter 1</div>
   <div class="chapter-title">
-    <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather and its Effects on Agricultural Productivity in the United States</a>
+    <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather: Implications for Applied Economics Research</a>
   </div>
 
-  <p>Extreme weather events, such as heatwaves, freezes, droughts, floods, and intense precipitation, can significantly influence agricultural productivity. However, spatial interpolation of raw weather data can attenuate localized extremes, potentially biasing estimated impacts on agricultural outcomes. To address this, this paper contrasts measures calculated directly from station data prior to interpolation (pre-transformed) and measures derived after interpolating raw weather variables (post-transformed). It then evaluates their effects on corn yields across the Corn Belt region in the United States using fixed-effects regression models. The results show notable differences in the distributions of extreme weather measures under pre- and post-transformation. While the estimated effects of some measures (e.g., cooling degree days, CDD; killing degree days, KDD) are similar, others (e.g., growing degree days, GDD; indices of extreme wetness) differ significantly. Counterfactual analyses indicate that yield predictions based on post-transformed data are systematically higher, consistent with smoothing of localized extremes. A Shapley decomposition attributes more than 90% of prediction differences to mismeasurement of extreme heat. These findings indicate that the order of interpolation and non-linear transformation matters. Pre-transformed measures better preserve extremes that affect yields, whereas post-transformed measures smooth those extremes and tend to overpredict yields.</p>
+  <p>Gridded weather data relies on daily temperature and precipitation measures from sparsely distributed weather stations, which is interpolated across space to generate accurate weather measures in levels. Increasingly, researchers transform the spatially interpolated gridded weather data into extreme weather measures of interest. 
+
+The Issue. Order of operation for spatial interpolation and transformation to an extreme weather measure matters.  Post-transformation to extreme weather metrics following spatial interpolation of weather station data is the ‘Conventional Approach’ we see in thousands of published papers using the gridded weather data.  Pre-transformation to extreme weather metrics prior to spatial interpolation is the ‘New Approach’ we propose. 
+
+Case study. Using exposure hours in extreme temperature bins, following Schlenker and Roberts (2009), and extreme moisture conditions using the SPI-index, we show significant differences in extreme weather metrics depending on which approach is used.  We find that the New Approach we propose does a much better job at recovering ground truth, especially at the tails where, arguably, scientists are most interested in for measuring weather extremes.  Finally, we show that our proposed New Approach generates differences in U.S. Corn Yield Response Function.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Under Review • Job Market Paper</span>
