@@ -234,9 +234,9 @@ classes: wide
 
 ## Research Overview
 
-I am a PhD candidate in Agricultural Economics at the University of Kentucky, looking at the economic implications of extreme weather events on agricultural systems and water resources. My research addresses critical methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform agricultural policy, risk management, and climate adaptation strategies.
+I am an applied economist looking at the economic implications of extreme weather events and their implications for applied economics research. My research addresses important methodological challenges in measuring climate impacts, with the goal of providing more accurate estimates to inform climate adaptation strategies.
 
-Through interdisciplinary collaboration and econometric analysis, my work bridges climate science, agricultural economics, and environmental policy to develop tools that help producers, utilities, and policymakers build resilience against increasing weather extremes.
+Through interdisciplinary collaboration and econometric analyses, my work bridges economic science, climate science, and environmental policy to develop tools that help communities and policymakers build resilience against increasing weather extremes.
 
 ---
 
@@ -251,7 +251,7 @@ Through interdisciplinary collaboration and econometric analysis, my work bridge
 
 ## Dissertation Research
 
-My dissertation explores how weather extremes shape U.S. agricultural and water resources, with particular attention to how methodological choices can distort our understanding of these relationships:
+My dissertation explores the implications of measurement error in methods of calculating weather extremes for applied economics research.
 
 <div class="chapter-section" id="dissertation-research">
   <div class="chapter-number">Chapter 1</div>
