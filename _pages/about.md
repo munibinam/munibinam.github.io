@@ -307,9 +307,9 @@ classes: wide
 
 ## About
 
-I am an applied economist measuring the economic impacts of extreme weather on agricultural productivity and water resources. My research addresses methodological challenges in measuring extremes in weather, with the goal of providing more accurate estimates to inform resilience strategies.
+I am an applied economist working on the economic impacts of extreme weather events. My research addresses methodological challenges in measuring extremes, with the goal of providing more accurate estimates to inform resilience strategies.
 
-Through interdisciplinary analyses, my work helps connect economic science with climate science and environmental policy to develop tools that help communities and policymakers build resilience against increasing climate variability.
+Through an interdisciplinary approach, my work helps connect economic science with environmental policy to develop tools that help communities and policymakers build resilience against increasing climate variability.
 
 ---
 
@@ -324,7 +324,7 @@ Through interdisciplinary analyses, my work helps connect economic science with 
 
 ## Dissertation
 
-My dissertation explores the implications of measurement error for applied economics research:
+My dissertation explores the implications of extreme weather events on various applied economics outcomes:
 
 <div class="chapter-section" id="dissertation-research">
   <div class="chapter-number">Chapter 1</div>
