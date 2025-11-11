@@ -1,0 +1,42 @@
+<script src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<script>
+// Custom enhancements
+document.addEventListener('DOMContentLoaded', function() {
+  // Sticky header scroll effect
+  var masthead = document.querySelector('.masthead');
+  if (masthead) {
+    window.addEventListener('scroll', function() {
+      if (window.pageYOffset > 50) {
+        masthead.classList.add('scrolled');
+      } else {
+        masthead.classList.remove('scrolled');
+      }
+    });
+  }
+
+  // Back to Top Button
+  var btn = document.createElement('button');
+  btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>';
+  btn.className = 'back-to-top';
+  btn.setAttribute('aria-label', 'Back to top');
+  document.body.appendChild(btn);
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      btn.classList.add('visible');
+    } else {
+      btn.classList.remove('visible');
+    }
+  });
+
+  btn.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  // Removed slow scroll animations
+});
+</script>
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
