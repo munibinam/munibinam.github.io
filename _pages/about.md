@@ -372,10 +372,10 @@ My dissertation explores the implications of extreme weather events on various a
 <div class="background-section">
   <h3>Academic Background</h3>
   <ul>
-    <li><strong>PhD in Agricultural Economics</strong> (2020–present) — University of Kentucky</li>
-    <li><strong>Visiting Graduate Student</strong> (2022) — University of California, Riverside</li>
-    <li><strong>M.A. in Economics</strong> (2020) — Vanderbilt University</li>
-    <li><strong>B.S. in Economics</strong> (2017) — National University of Sciences and Technology</li>
+    <li><strong>PhD in Agricultural Economics</strong> (Expected: 2026) — University of Kentucky</li>
+    <li><strong>Visiting Graduate Student</strong> — University of California, Riverside</li>
+    <li><strong>M.A. in Economics</strong> — Vanderbilt University</li>
+    <li><strong>B.S. in Economics</strong> — National University of Sciences and Technology</li>
   </ul>
 
   <h3>Technical Skills</h3>
@@ -413,7 +413,7 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="personal-section">
   <h3>Photography</h3>
-  <p>In another life, I could have probably been a photographer. I have tried to maintain that interest alongside my research as much as possible.</p>
+  <p>I like photography and have tried to maintain that interest alongside my research as much as possible.</p>
 
   <div class="photo-gallery">
     <div class="photo-item">
