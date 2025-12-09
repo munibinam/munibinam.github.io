@@ -359,11 +359,11 @@ My dissertation explores the implications of extreme weather events on various a
   <div class="chapter-number">Chapter 3</div>
   <div class="chapter-title">Lot Size Composition and the Welfare Effects of Water Conservation Mandates</div>
 
-  <p>We examine how residential water conservation mandates create heterogeneous welfare effects across different household types. Using a panel of single-family monthly water use, lot size composition, and home values across California water agencies, we estimate group-specific demand elasticities and welfare losses from command-and-control mandates. Large-lot agencies are less price responsive than small-lot agencies, yet when assigned to strict conservation tiers they achieved larger absolute reductions. After the mandate, large-lot agencies showed no significant rebound, while small-lot agencies rebounded by about 7%. Welfare analysis indicates that large-lot agencies bore higher absolute costs, whereas small-lot agencies experienced greater losses as a share of their water bills. These findings highlight the distributional tradeoffs between effectiveness and equity in conservation mandates.</p>
+  <p>Residential water demand varies with the built environment, yet conservation policies often apply uniform requirements regardless of local housing characteristics. We examine how lot size composition and wealth shape price responsiveness, conservation under drought, and the resulting welfare effects. Using a panel of California water agencies, we exploit within-agency variation in housing characteristics to identify heterogeneous effects. Large-lot agencies are more price responsive than small-lot agencies, whereas lower-wealth agencies are more responsive than higher-wealth agencies. The mandate induced significant conservation across all agencies, including those with near-zero price elasticity, suggesting mandates operate through behavioral channels that prices cannot reach. Conservation persisted after the mandate lifted, but large-lot communities maintained more of their reductions, consistent with structural changes to outdoor landscaping. Welfare costs fall disproportionately on small-lot and higher-wealth agencies, where consumption is dominated by essential indoor uses. The findings suggest that uniform percentage mandates impose the highest welfare burden per gallon saved on communities with the least discretionary demand.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Working Paper</span>
-    <span class="chapter-link-small">Paper available upon request</span>
+    <span class="chapter-link-small">Under Review • Paper available upon request</span>
   </div>
 </div>
 
