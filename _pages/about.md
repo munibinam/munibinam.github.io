@@ -357,7 +357,9 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="chapter-section">
   <div class="chapter-number">Chapter 3</div>
-  <div class="chapter-title">Lot Size Composition and the Welfare Effects of Water Conservation Mandates</div>
+  <div class="chapter-title">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5901666" target="_blank">Lot Size Composition and Welfare Effects of Water Conservation Mandates</a>
+  </div>
 
   <p>Residential water demand varies with the built environment, yet conservation policies often apply uniform requirements regardless of local housing characteristics. We examine how lot size composition and wealth shape price responsiveness, conservation under drought, and the resulting welfare effects. Using a panel of California water agencies, we exploit within-agency variation in housing characteristics to identify heterogeneous effects. Large-lot agencies are more price responsive than small-lot agencies, whereas lower-wealth agencies are more responsive than higher-wealth agencies. The mandate induced significant conservation across all agencies, including those with near-zero price elasticity, suggesting mandates operate through behavioral channels that prices cannot reach. Conservation persisted after the mandate lifted, but large-lot communities maintained more of their reductions, consistent with structural changes to outdoor landscaping. Welfare costs fall disproportionately on small-lot and higher-wealth agencies, where consumption is dominated by essential indoor uses. The findings suggest that uniform percentage mandates impose the highest welfare burden per gallon saved on communities with the least discretionary demand.</p>
 
