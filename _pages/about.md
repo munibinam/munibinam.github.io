@@ -395,7 +395,7 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="personal-section">
   <h3>Running</h3>
-  <p>Running has been a constant companion throughout my academic life. Whether it's marathon finish lines or trail runs through new landscapes, each mile has taught me resilience and the value of steady progress toward big goals.</p>
+  <p>When not working, I enjoy going out for a run or doing other physical activities like hiking, biking.</p>
 
   <div class="photo-gallery">
     <div class="photo-item">
@@ -415,7 +415,7 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="personal-section">
   <h3>Photography</h3>
-  <p>I like photography and have tried to maintain that interest alongside my research as much as possible.</p>
+  <p>I am also a hobbyist photographer and like to explore new places.</p>
 
   <div class="photo-gallery">
     <div class="photo-item">
@@ -433,7 +433,7 @@ My dissertation explores the implications of extreme weather events on various a
   </div>
 
   <p style="text-align: center; margin-top: 2em;">
-    <a href="https://500px.com/p/min233" target="_blank" class="portfolio-link">My Photography Portfolio →</a>
+    <a href="https://500px.com/p/min233" target="_blank" class="portfolio-link">Portfolio →</a>
   </p>
 </div>
 
@@ -443,7 +443,7 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="connect-section">
   <h3>Let's Connect</h3>
-  <p>Please connect if you want to discuss research collaborations or want to just reach out about anything.</p>
+  <p>Please reach out if you want to discuss research collaborations or just want to talk about anything.</p>
   
   <div class="connect-links">
     <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
