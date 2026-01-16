@@ -415,7 +415,7 @@ My dissertation explores the implications of extreme weather events on various a
 
 <div class="personal-section">
   <h3>Photography</h3>
-  <p>I am also a hobbyist photographer and like to explore new places.</p>
+  <p>I am also a hobbyist photographer and like to travel and photograph different landscapes, wildlife and nature.</p>
 
   <div class="photo-gallery">
     <div class="photo-item">
