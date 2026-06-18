@@ -444,7 +444,7 @@ My dissertation explores the implications of extreme weather events on natural r
   
   <div class="connect-links">
     <strong>Email:</strong> <a href="mailto:inamm@ufl.edu">inamm@ufl.edu</a><br>
-    <strong>Location:</strong> Immokalee, Florida<br>
+    <strong>Location:</strong> 2685 State Road 29 North Immokalee, FL 34142<br>
     <strong>Center:</strong> <a href="https://swfrec.ifas.ufl.edu/" target="_blank">Southwest Florida Research and Education Center, University of Florida</a>
   </div>
 </div>
