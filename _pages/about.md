@@ -307,7 +307,7 @@ classes: wide
 
 ## About
 
-I am an applied economist working in natural resource economics. My research uses econometric methods to study how natural resources—water, land, and agricultural systems—respond to economic and environmental pressures, with the goal of producing rigorous evidence that informs resource management and policy.
+I am an applied economist working in natural resource economics. My research uses econometric methods to study how natural resources respond to economic and environmental pressures, with the goal of producing rigorous evidence that informs resource management and policy.
 
 Through an interdisciplinary approach, my work connects economic science with environmental policy to develop tools that help communities and policymakers manage natural resources sustainably.
 
@@ -332,7 +332,7 @@ My dissertation explores the implications of extreme weather events on natural r
     <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather: Implications for Applied Economics Research</a>
   </div>
 
-  <p>Many weather exposure measures are nonlinear transformations of interpolated station data. Because transformation and spatial interpolation do not commute, the order in which they are applied matters. Using weather from 1940 to 2024, we show that interpolating before transforming compresses the extreme-heat tail with cross-validated deviations exceeding 40 percent at 35°C. This compression propagates into yield-damage estimates primarily through measured inputs rather than estimated coefficients, and into downstream conclusions about crop insurance pricing, farmer adaptation and warming projections.</p>
+  <p>Many weather exposure measures are nonlinear transformations of interpolated station data. Because transformation and spatial interpolation do not commute, the order in which they are applied matters. Using weather from 1940 to 2024, we show that interpolating before transforming compresses the extreme-heat tail with cross-validated deviations exceeding 40 percent at 35 degrees Celsius. This compression propagates into yield-damage estimates primarily through measured inputs rather than estimated coefficients, and into downstream conclusions about crop insurance pricing, farmer adaptation and warming projections.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Under Review • Job Market Paper</span>
@@ -371,10 +371,10 @@ My dissertation explores the implications of extreme weather events on natural r
   <h3>Academic Background</h3>
   <ul>
     <li><strong>Postdoctoral Associate - Department of Food and Resource Economics </strong> — University of Florida</li>
-    <li><strong>PhD - Department of Agricultural Economics</strong> — University of Kentucky</li>
+    <li><strong>PhD Degree - Agricultural Economics</strong> — University of Kentucky</li>
     <li><strong>Visiting Researcher - Department of Public Policy </strong> — University of California, Riverside</li>
-    <li><strong>Masters - Department of Economics in Economics</strong> — Vanderbilt University</li>
-    <li><strong>Bachelors - Department of Economics</strong> — National University of Sciences and Technology</li>
+    <li><strong>Masters Degree - Economics</strong> — Vanderbilt University</li>
+    <li><strong>Bachelors Degree - Economics</strong> — National University of Sciences and Technology</li>
   </ul>
 
   <h3>Technical Skills</h3>
