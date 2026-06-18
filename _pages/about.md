@@ -324,7 +324,7 @@ Through an interdisciplinary approach, my work connects economic science with en
 
 ## Dissertation
 
-My dissertation explores the implications of extreme weather events on various applied economics outcomes:
+My dissertation explores the implications of extreme weather events on natural resource outcomes:
 
 <div class="chapter-section" id="dissertation-research">
   <div class="chapter-number">Chapter 1</div>
@@ -332,11 +332,7 @@ My dissertation explores the implications of extreme weather events on various a
     <a href="/files/Job_market_paper_2025.pdf" target="_blank">Measuring Extreme Weather: Implications for Applied Economics Research</a>
   </div>
 
-  <p>Gridded weather data relies on daily temperature and precipitation measures from sparsely distributed weather stations, which is interpolated across space to generate accurate weather measures in levels.</p>
-
-  <p><strong>The Issue.</strong> Order of operation for spatial interpolation and transformation to an extreme weather measure matters. Post-transformation to extreme weather metrics following spatial interpolation of weather station data is the 'Conventional Approach' we see in thousands of published papers using the gridded weather data. Pre-transformation to extreme weather metrics prior to spatial interpolation is the 'New Approach' we propose.</p>
-
-  <p><strong>Case study.</strong> Using exposure hours in extreme temperature bins, following Schlenker and Roberts (2009), and extreme moisture conditions using the SPI-index, we show significant differences in extreme weather metrics depending on which approach is used. We find that the New Approach we propose does a much better job at recovering ground truth, especially at the tails where, arguably, scientists are most interested in for measuring weather extremes. Finally, we show that our proposed New Approach generates differences in U.S. Corn Yield Response Function.</p>
+  <p>Many weather exposure measures are nonlinear transformations of interpolated station data. Because transformation and spatial interpolation do not commute, the order in which they are applied matters. Using weather from 1940 to 2024, we show that interpolating before transforming compresses the extreme-heat tail with cross-validated deviations exceeding 40 percent at 35\textdegree C. This compression propagates into yield-damage estimates primarily through measured inputs rather than estimated coefficients, and into downstream conclusions about crop insurance pricing, farmer adaptation and warming projections.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Under Review • Job Market Paper</span>
@@ -347,7 +343,7 @@ My dissertation explores the implications of extreme weather events on various a
   <div class="chapter-number">Chapter 2</div>
   <div class="chapter-title">The Impact of Extreme Weather Events on Drinking Water Quality in the United States</div>
 
-  <p>Using compliance data from water systems linked to sub-daily weather observations, I examine how temperature, precipitation, and soil moisture affect microbial and chemical contamination. Extreme heat increases disinfection byproducts and coliform detection, whereas precipitation intensity drives microbial risk. Antecedent soil moisture strongly mediates impacts; wet conditions reduce contamination while dry soils amplify subsequent risks. Small systems show higher weather sensitivity compared to large systems for microbial outcomes, indicating disparate climate vulnerabilities. The findings highlight that weather already degrades water quality, with impacts concentrated in resource-limited systems serving rural communities, requiring targeted adaptation as extremes intensify.</p>
+  <p>Daily weather aggregates can mask the temporal patterns that affect drinking water contamination. Using hourly weather data and water compliance samples from Kentucky community water systems (2005--2024), we show that disinfection byproduct concentrations respond most strongly to sustained heat, whereas microbial contamination responds most strongly to short-duration precipitation intensity. A shift from the 25th to 75th percentile of the 14-day temperature distribution raises trihalomethane concentrations by 42 percent, and each 5 mm per hour increase in peak hourly rainfall intensity raises total coliform detection by about 12 percent relative to baseline. Temperature effects on disinfection byproducts are about twice as large in communities with high poverty rates, and at high temperatures, the effects continue to rise in small systems but level off in larger systems. The findings suggest that both monitoring and adaptation policy may be more effective when aligned with the underlying contamination pathway.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Working Paper</span>
@@ -361,7 +357,7 @@ My dissertation explores the implications of extreme weather events on various a
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5901666" target="_blank">Lot Size Composition and Welfare Effects of Water Conservation Mandates</a>
   </div>
 
-  <p>Residential water demand varies with the built environment, yet conservation policies often apply uniform requirements regardless of local housing characteristics. We examine how lot size composition and wealth shape price responsiveness, conservation under drought, and the resulting welfare effects. Using a panel of California water agencies, we exploit within-agency variation in housing characteristics to identify heterogeneous effects. Large-lot agencies are more price responsive than small-lot agencies, whereas lower-wealth agencies are more responsive than higher-wealth agencies. The mandate induced significant conservation across all agencies, including those with near-zero price elasticity, suggesting mandates operate through behavioral channels that prices cannot reach. Conservation persisted after the mandate lifted, but large-lot communities maintained more of their reductions, consistent with structural changes to outdoor landscaping. Welfare costs fall disproportionately on small-lot and higher-wealth agencies, where consumption is dominated by essential indoor uses. The findings suggest that uniform percentage mandates impose the highest welfare burden per gallon saved on communities with the least discretionary demand.</p>
+  <p>We examine how lot size composition and housing wealth shape price elasticity, conservation under California’s 2015 drought mandate, and the resulting welfare costs. Using a panel of water agencies, we exploit within-agency temporal variation in housing characteristics. Agencies with more large-lot parcels are more price responsive, while wealthier agencies are less so. The mandate reduced consumption across all agency types, including those with near-zero price elasticity. Agencies with the least elastic demand bear the highest welfare cost per unit saved, though these estimates are imprecise near zero elasticity. The findings indicate that mandates reduce use even where prices do not, so the two instruments reach different groups rather than being interchangeable.</p>
 
   <div class="chapter-meta">
     <span class="status-badge">Working Paper</span>
