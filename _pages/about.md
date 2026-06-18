@@ -380,7 +380,7 @@ My dissertation explores the implications of extreme weather events on natural r
   <h3>Technical Skills</h3>
   <ul>
     <li><strong>Econometric Methods:</strong> Panel data analysis, spatial econometrics, causal inference, difference-in-differences</li>
-    <li><strong>Programming & Software:</strong> R, Python, Stata, ArcGIS, high-performance computing clusters</li>
+    <li><strong>Programming & Software:</strong> R, Python, Stata, ArcGIS, Tableau, HTML, high-performance computing clusters</li>
     <li><strong>Data Management:</strong> Large-scale climate datasets (PRISM, NOAA), agricultural surveys (NASS), EPA environmental monitoring data</li>
   </ul>
 
