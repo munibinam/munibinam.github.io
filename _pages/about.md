@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD Candidate at the University of Kentucky"
+excerpt: "Postdoctoral Associate at the University of Florida"
 author_profile: true
 redirect_from:
   - /about/
@@ -307,16 +307,16 @@ classes: wide
 
 ## About
 
-I am an applied economist working on the economic impacts of extreme weather events. My research addresses methodological challenges in measuring extremes, with the goal of providing more accurate estimates to inform resilience strategies.
+I am an applied economist working in natural resource economics. My research uses econometric methods to study how natural resources—water, land, and agricultural systems—respond to economic and environmental pressures, with the goal of producing rigorous evidence that informs resource management and policy.
 
-Through an interdisciplinary approach, my work helps connect economic science with environmental policy to develop tools that help communities and policymakers build resilience against increasing climate variability.
+Through an interdisciplinary approach, my work connects economic science with environmental policy to develop tools that help communities and policymakers manage natural resources sustainably.
 
 ---
 
 <div class="focus-areas">
   <h2>Research Fields</h2>
   <div class="focus-fields">
-    Applied Econometrics • Environmental & Resource Economics • Agricultural & Production Economics
+    Natural Resource Economics • Applied Econometrics • Agricultural Economics
   </div>
 </div>
 
@@ -446,10 +446,9 @@ My dissertation explores the implications of extreme weather events on various a
   <p>Please reach out if you want to discuss research collaborations or just want to talk about anything.</p>
   
   <div class="connect-links">
-    <strong>Email:</strong> <a href="mailto:munib.inam@uky.edu">munib.inam@uky.edu</a><br>
-    <strong>Office:</strong> 339 Charles E. Barnhart Building, University of Kentucky<br>
-    <strong>Address:</strong> 1398 Nicholasville Road, Lexington, KY 40546<br>
-    <strong>Department:</strong> <a href="https://agecon.ca.uky.edu/" target="_blank">Agricultural Economics, University of Kentucky</a>
+    <strong>Email:</strong> <a href="mailto:inamm@ufl.edu">inamm@ufl.edu</a><br>
+    <strong>Location:</strong> Immokalee, Florida<br>
+    <strong>Center:</strong> <a href="https://swfrec.ifas.ufl.edu/" target="_blank">Southwest Florida Research and Education Center, University of Florida</a>
   </div>
 </div>
 

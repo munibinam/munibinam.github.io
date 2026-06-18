@@ -5,7 +5,7 @@ locale: "en-US"
 title: "Munib Inam"
 title_separator: "-"
 name: &name "Munib Inam"
-description: &description "PhD Candidate at the University of Kentucky"
+description: &description "Postdoctoral Associate at the University of Florida"
 url: https://munibinam.github.io
 baseurl: ""
 repository: "munibinam/munibinam.github.io"
@@ -51,9 +51,9 @@ analytics:
 author:
   name: "Munib Inam"
   avatar: "https://munibinam.github.io/images/profile2.jpg"
-  bio: "PhD Candidate at the University of Kentucky"
-  location: "Lexington, Kentucky"
-  email: "munib.inam@uky.edu"
+  bio: "Postdoctoral Associate at the University of Florida"
+  location: "Immokalee, Florida"
+  email: "inamm@ufl.edu"
   links:
       
 # Reading Files
@@ -189,7 +189,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: America/Kentucky/Louisville
+timezone: America/New_York
 
 # Plugins (GitHub Pages compatible)
 plugins:
