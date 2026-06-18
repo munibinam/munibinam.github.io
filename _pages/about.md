@@ -370,7 +370,8 @@ My dissertation explores the implications of extreme weather events on natural r
 <div class="background-section">
   <h3>Academic Background</h3>
   <ul>
-    <li><strong>PhD in Agricultural Economics</strong> (Expected: 2026) — University of Kentucky</li>
+    <li><strong>Postdoctoral Associate - Department of Food and Resource Economics </strong> — University of Florida</li>
+    <li><strong>PhD in Agricultural Economics</strong> — University of Kentucky</li>
     <li><strong>Visiting Graduate Student</strong> — University of California, Riverside</li>
     <li><strong>M.A. in Economics</strong> — Vanderbilt University</li>
     <li><strong>B.S. in Economics</strong> — National University of Sciences and Technology</li>
